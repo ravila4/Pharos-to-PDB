@@ -1,0 +1,1427 @@
+"URL","Uniprot ID","DOID","Name","Description","ZScore","Confidence","Source"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D4161,"Mental Retardation, Autosomal Dominant 7",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D481,"Neurodevelopmental Disorders",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:1059,"Intellectual disability",,5.03,2.5,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D717,"Autistic Disorder",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D3727,Bunion,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D578,"Cerebral atrophy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D135,"Dull intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D2180,Enophthalmos,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D359,"Failure to thrive in infancy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D4160,"Febrile Convulsions",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D1190,"Global developmental delay, severe",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D3731,"Hallux Valgus",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D73,"Low intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D42,"Mental Retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D91,"Mental deficiency",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D1049,"Narrow forehead",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D105,"Poor school performance",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D1196,"Severe psychomotor retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D74,"Small head",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,IDG:D2186,"Sunken eyes",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:14203,"juvenile dermatomyositis",,0.0,3.74003746894121E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:2394,"ovarian cancer",,0.0,6.54049076802546E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:3347,osteosarcoma,,0.0,4.03272196229577E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:10223,dermatomyositis,,0.0,2.05327384183497E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:9538,"Multiple myeloma",,0.0,8.83052625843058E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:7575,"intraductal papillary-mucinous neoplasm (IPMN)",,0.0,0.0116541415528884,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:9119,"acute myeloid leukemia",,0.0,0.0155781387251103,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:0050747,"Waldenstrons macroglobulinemia",,0.0,0.0352324667017129,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:305,Carcinoma,,0.0,1.0,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:635,"Acquired immunodeficiency syndrome",,0.0,1.0,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:14221,"Metabolic syndrome X",,0.0,0.9,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:0060041,"Autism spectrum disorder",,0.0,5.0,"JensenLab Knowledge GHR"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:14250,"Down syndrome",,7.164,3.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:10907,Microcephaly,,4.092,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:10652,"Alzheimer's disease",,4.045,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q13627,Q13627,DOID:9279,Hyperhomocysteinemia,,3.194,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9NYV4,Q9NYV4,DOID:11870,"Pick disease",,0.0,3.87346163487998E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NYV4,Q9NYV4,DOID:3857,"medulloblastoma, large-cell",,0.0,1.17634478284619E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NYV4,Q9NYV4,DOID:171,"primitive neuroectodermal tumor",,0.0,1.26468417050605E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NYV4,Q9NYV4,DOID:2394,"ovarian cancer",,0.0,7.36201611537127E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NYV4,Q9NYV4,DOID:8893,psoriasis,,0.0,0.00196234091742859,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NYV4,Q9NYV4,DOID:3347,osteosarcoma,,0.0,0.0052217131436126,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NYV4,Q9NYV4,DOID:0050902,"group 3 medulloblastoma",,0.0,0.00868943785186407,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NYV4,Q9NYV4,DOID:7574,"intraductal papillary-mucinous carcinoma (IPMC)",,0.0,0.0196080902990865,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NYV4,Q9NYV4,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,0.0315131998448122,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NYV4,Q9NYV4,DOID:7148,"Rheumatoid arthritis",,0.0,0.0476681365804735,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NYV4,Q9NYV4,DOID:305,Carcinoma,,0.0,1.3,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9NYV4,Q9NYV4,DOID:263,"Kidney cancer",,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9NYV4,Q9NYV4,DOID:0060649,"Congenital hereditary endothelial dystrophy of cornea",,3.748,1.9,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q8NEV1,Q8NEV1,DOID:305,Carcinoma,,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q8NEV1,Q8NEV1,DOID:583,"Hemolytic anemia",,0.0,3.0,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q8NEV1,Q8NEV1,DOID:1059,"Intellectual disability",,0.0,4.0,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:9253,"Gastrointestinal stromal tumor",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49759,P49759,IDG:D4369,"Hamman-Rich syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49759,P49759,IDG:D4370,"Pancreatic Neuroendocrine Tumor",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49759,P49759,IDG:D2344,"Renal Cell Carcinoma",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:3908,"non-small cell lung cancer",,0.0,1.49537565059996E-15,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:2394,"ovarian cancer",,0.0,7.27075053019119E-11,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:14203,"juvenile dermatomyositis",,0.0,2.73189057115171E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:423,"acute quadriplegic myopathy",,0.0,4.18509038026934E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:3347,osteosarcoma,,0.0,2.33233334803666E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:11870,"Pick disease",,0.0,3.97836771734444E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:1324,"lung cancer",,0.0,9.39456123553844E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:10223,dermatomyositis,,0.0,0.00126355129894597,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:3068,glioblastoma,,0.0,0.00686121484535759,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:5074,ependymoma,,0.0,0.00767401299704756,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:9538,"Multiple myeloma",,0.0,0.0160838191130449,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:9119,"acute myeloid leukemia",,0.0,0.0174483898773713,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:3069,"astrocytic glioma",,0.0,0.0273783816680906,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:678,"progressive supranuclear palsy",,0.0,0.0412097239927271,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49759,P49759,DOID:305,Carcinoma,,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D12378,Endocrine-Cerebroosteodysplasia,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D106,"Adrenal hypoplasia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D3635,"Ambiguous Genitalia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D2921,"Auricular malformation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D137,"Autosomal recessive predisposition",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D8061,"Barrel chest",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,DOID:0050581,Brachydactyly,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D5766,"Broad chest",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D348,"Broad flat nasal bridge",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D26,"Cleft Lip",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D27,"Cleft Palate",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D66,"Congenital hypoplasia of penis",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,DOID:11383,Cryptorchidism,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D2949,"Decreased projection of midface",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D971,"Depressed nasal tip",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D1054,"Dilated ventricles (finding)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,DOID:4621,Holoprosencephaly,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D35,Hydrocephalus,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D4861,"Hypoplasia of scrotum",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D1362,"Hypoplasia or absence of the corpus callosum",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D114,"Hypoplastic mandible condyle",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D1856,"Hypotrophic malar bone",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D2948,"Hypotrophic midface",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D59,"Low set ears",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D1851,"Malar flattening",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D61,"Mandibular hypoplasia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D43,Micrognathism,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D321,Micromelia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D2926,"Midface retrusion",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D351,"Nasal bridge wide",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D6266,"POLYDACTYLY, POSTAXIAL",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D1186,"Penile hypospadias",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D4110,"Sandal gap",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D5762,"Shield chest",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D2916,"Simple ear",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D71,"Small adrenal gland",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D2938,"Small midface",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D10041,"Small penis",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D51,Syndactyly,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D951,"Ulnar deviation of hand",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D125,Uranostaphyloschisis,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,IDG:D4587,"Wide spaced nipples",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,DOID:1790,"malignant mesothelioma",,0.0,4.55766535188243E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,DOID:4851,"Astrocytoma, Pilocytic",,0.0,2.83131729697656E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,DOID:8893,psoriasis,,0.0,4.56032532101833E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,DOID:0050902,"group 4 medulloblastoma",,0.0,1.39386707640904E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,0.00125736927161918,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,DOID:1324,"lung cancer",,0.0,0.00268840674579527,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,DOID:7574,"intraductal papillary-mucinous carcinoma (IPMC)",,0.0,0.0047954149387437,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,DOID:3347,osteosarcoma,,0.0,0.0115403373479907,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,DOID:305,Carcinoma,,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,DOID:0060641,"endocrine-cerebro-osteodysplasia syndrome",,5.956,3.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9UPZ9,Q9UPZ9,DOID:2841,Asthma,,3.019,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q8IZL9,Q8IZL9,IDG:D4150,Alcoholism,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q8IZL9,Q8IZL9,IDG:D711,"Alcoholic Intoxication, Chronic",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q8IZL9,Q8IZL9,DOID:1790,"malignant mesothelioma",,0.0,4.10576442988264E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q8IZL9,Q8IZL9,DOID:8893,psoriasis,,0.0,0.00104142668994753,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q8IZL9,Q8IZL9,DOID:3857,"medulloblastoma, large-cell",,0.0,0.00415033723693708,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:2394,"ovarian cancer",,0.0,1.43208025673666E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:1790,"malignant mesothelioma",,0.0,6.4003534638389E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:10223,dermatomyositis,,0.0,2.81820697046909E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,8.25075925943938E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:219,"colon cancer",,0.0,0.00112018535511592,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:1324,"lung cancer",,0.0,0.00245894046112959,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:3857,"medulloblastoma, large-cell",,0.0,0.00270275677606159,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:3498,"primary pancreatic ductal adenocarcinoma",,0.0,0.00442637926719536,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:11724,"limb girdle muscular dystrophy 2A",,0.0,0.00468750281803449,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:1793,"pancreatic cancer",,0.0,0.00482116299070622,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:3068,glioblastoma,,0.0,0.00725560439268986,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:2476,"hereditary spastic paraplegia",,0.0,0.0107968906741369,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:5074,ependymoma,,0.0,0.0111925317750383,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:3008,"invasive ductal carcinoma",,0.0,0.0118031076054389,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:3083,COPD,,0.0,0.0128046508680269,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:657,"aldosterone-producing adenoma",,0.0,0.0163974528133212,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:3347,osteosarcoma,,0.0,0.0177188218300647,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:3310,"Atopic dermatitis",,0.0,0.0197359446144109,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:0050902,"group 4 medulloblastoma",,0.0,0.0211095265698237,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:3181,oligodendroglioma,,0.0,0.0470424042253363,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:3070,"pediatric high grade glioma",,0.0,0.0473758452026855,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H422,Q9H422,DOID:305,Carcinoma,,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:5074,ependymoma,,0.0,3.89595214387176E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:423,"acute quadriplegic myopathy",,0.0,1.23128271251311E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:3068,glioblastoma,,0.0,1.56076490580617E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:4851,"Astrocytoma, Pilocytic",,0.0,2.34542873276975E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:3070,"adult high grade glioma",,0.0,3.4962449193728E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,3.08768599067066E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:0050902,"group 4 medulloblastoma",,0.0,0.00109071745981123,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:1485,"cystic fibrosis",,0.0,0.00131658310687496,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,0.0022362621822351,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:9538,"Multiple myeloma",,0.0,0.00312011748049824,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:3857,"medulloblastoma, large-cell",,0.0,0.003468095569519,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:3948,"adrenocortical carcinoma",,0.0,0.00394940623042623,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:2394,"ovarian cancer",,0.0,0.00610941748829444,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:3347,osteosarcoma,,0.0,0.00703936836466566,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:7575,"intraductal papillary-mucinous neoplasm (IPMN)",,0.0,0.0123245154823969,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:657,"aldosterone-producing adenoma",,0.0,0.0263102785329687,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:5077,"subependymal giant cell astrocytoma",,0.0,0.0265303616138645,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:305,Carcinoma,,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P78362,P78362,DOID:1242,"Globe disease",,0.0,2.4,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:0110380,"Retinitis pigmentosa 62",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1201,"Abnormality of retinal pigmentation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1694,"Abnormality of the retinal vasculature",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D349,"Anteverted nostril",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1693,"Atypical scarring of skin",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D137,"Autosomal recessive predisposition",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D771,"Blind Vision",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D757,"Blindness, Legal",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D348,"Broad flat nasal bridge",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D53,Cataract,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1372,"Conductive hearing loss",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1689,"Congenital anomaly of testis",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D66,"Congenital hypoplasia of penis",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1210,"Difficulties with night vision",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D135,"Dull intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D80,"Electroretinogram abnormal",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:1686,Glaucoma,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1686,Hyperinsulinism,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D38,Hypogonadism,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:1059,"Intellectual disability",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1687,Keratoconus,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D96,"Lens Opacities",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D73,"Low intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D42,"Mental Retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D91,"Mental deficiency",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D351,"Nasal bridge wide",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1172,"Night Blindness",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1696,"Night blindness, progressive",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D47,Nystagmus,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:9970,Obesity,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:539,Ophthalmoplegia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D48,"Optic Atrophy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1863,"Pallor of optic disc",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1692,Photodysphoria,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1688,Photophobia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D105,"Poor school performance",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1187,"Retinal pigment epithelial abnormality",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D1168,"Sensorineural Hearing Loss (disorder)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D9339,"Visual field defects",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:3347,osteosarcoma,,0.0,4.99834251459274E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:3905,"lung carcinoma",,0.0,1.15659639097303E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:1324,"lung cancer",,0.0,1.06200500849337E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:1790,"malignant mesothelioma",,0.0,2.37458730498305E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:0050902,"group 3 medulloblastoma",,0.0,4.3391143446537E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:8893,psoriasis,,0.0,7.004730638714E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:399,tuberculosis,,0.0,0.00368839144297136,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:3857,"medulloblastoma, large-cell",,0.0,0.0103798528869771,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:5074,ependymoma,,0.0,0.0230828258982536,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:305,Carcinoma,,0.0,0.7,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:4447,"Cystoid macular edema",,4.038,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P20794,P20794,DOID:0050661,"Vitelliform macular dystrophy",,3.112,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P20794,P20794,IDG:D49,"Retinitis Pigmentosa",,4.23,2.1,Monarch
+https://pharos.nih.gov/idg/targets/Q13164,Q13164,IDG:D1079,Hyperalgesia,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q13164,Q13164,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,8.24481945894059E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13164,Q13164,DOID:3068,glioblastoma,,0.0,4.91426500389595E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13164,Q13164,DOID:0050902,"group 3 medulloblastoma",,0.0,4.23434874857314E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13164,Q13164,DOID:171,"primitive neuroectodermal tumor",,0.0,1.59261562172589E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13164,Q13164,DOID:3857,"medulloblastoma, large-cell",,0.0,0.00171181057546805,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13164,Q13164,DOID:5074,ependymoma,,0.0,0.0102180883218436,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13164,Q13164,DOID:305,Carcinoma,,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q13164,Q13164,DOID:162,Cancer,,3.962,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q13164,Q13164,DOID:1936,Atherosclerosis,,3.063,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q00536,Q00536,IDG:D190,Schizophrenia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00536,Q00536,IDG:D4369,"Hamman-Rich syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q00536,Q00536,DOID:3908,"non-small cell lung cancer",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q00536,Q00536,DOID:5074,ependymoma,,0.0,6.27612767293824E-14,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00536,Q00536,DOID:1612,"Breast cancer",,0.0,1.39846918017211E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00536,Q00536,DOID:4851,"Astrocytoma, Pilocytic",,0.0,9.00879022029282E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00536,Q00536,DOID:8893,psoriasis,,0.0,1.87795989895229E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00536,Q00536,DOID:3857,"medulloblastoma, large-cell",,0.0,3.91634466417052E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00536,Q00536,DOID:3070,"adult high grade glioma",,0.0,1.573904731495E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00536,Q00536,DOID:9119,"acute myeloid leukemia",,0.0,0.00246105833926604,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00536,Q00536,DOID:7148,"Rheumatoid arthritis",,0.0,0.0200882909394653,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00536,Q00536,DOID:5077,"subependymal giant cell astrocytoma",,0.0,0.0277093618601262,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00536,Q00536,DOID:305,Carcinoma,,0.0,0.7,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D10531,"Lissencephaly 7 with cerebellar hypoplasia",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:680,Tauopathies,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:0050453,Lissencephaly,,3.749,1.9,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D618,"Absent reflex",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D621,"Absent tendon reflex",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D55,"Agenesis of corpus callosum",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D3077,Agyria,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D935,Arthrogryposis,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D137,"Autosomal recessive predisposition",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D67,"Cerebellar Hypoplasia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D124,"Chubby cheeks",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D1305,"Clenched hands",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D3327,"Cocaine Dependence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D118,"Cognitive delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D120,"Full cheeks",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D84,"Global developmental delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D2054,Hirsutism,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D148,"Hyperplasia of cheeks",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D147,"Hypertrophy of cheeks",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D114,"Hypoplastic mandible condyle",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D2826,"Lymphatic obstruction",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:4977,Lymphedema,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D61,"Mandibular hypoplasia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D134,"Mental and motor retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D43,Micrognathism,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D2842,"Onset of lymphedema around puberty",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D974,"Prenatal onset",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D132,"Puffy cheeks",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D620,"Reflex, Deep Tendon, Absent",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D190,Schizophrenia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D82,"Short neck",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,IDG:D74,"Small head",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:1612,"Breast cancer",,0.0,9.42995005602899E-21,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:3905,"lung carcinoma",,0.0,4.25263954615921E-20,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,3.25104229464896E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:4851,"Astrocytoma, Pilocytic",,0.0,2.87762288186566E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:399,tuberculosis,,0.0,1.52425284430794E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:1790,"malignant mesothelioma",,0.0,6.05559819661961E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:1324,"lung cancer",,0.0,6.60015350607793E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:3070,"adult high grade glioma",,0.0,6.62637186326459E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:0050902,medulloblastoma,,0.0,1.34294200405626E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:3068,glioblastoma,,0.0,1.77916906760991E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:3857,"medulloblastoma, large-cell",,0.0,5.85986346837997E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:3069,"astrocytic glioma",,0.0,0.0022569256752187,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:3008,"invasive ductal carcinoma",,0.0,0.00349875090732816,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:5074,ependymoma,,0.0,0.00795083106652198,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:11870,"Pick disease",,0.0,0.00998230397190246,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:3181,oligodendroglioma,,0.0,0.016125836276006,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:219,"colon cancer",,0.0,0.0441378904523649,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:1289,"Neurodegenerative disease",,0.0,4.0,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:10652,"Alzheimer's disease",,6.143,3.1,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:3602,"Toxic encephalopathy",,4.332,2.2,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:332,"Amyotrophic lateral sclerosis",,4.107,2.1,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:14330,"Parkinson's disease",,4.001,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:162,Cancer,,3.703,1.9,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:1307,Dementia,,3.562,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q00535,Q00535,DOID:936,"Brain disease",,3.179,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q96SB4,Q96SB4,DOID:3908,"non-small cell lung cancer",,0.0,1.71373000029276E-17,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96SB4,Q96SB4,DOID:8893,psoriasis,,0.0,3.35687105420079E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96SB4,Q96SB4,DOID:1612,"Breast cancer",,0.0,2.70329950140068E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96SB4,Q96SB4,DOID:3910,"lung adenocarcinoma",,0.0,1.53116088397693E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96SB4,Q96SB4,DOID:0060074,"ductal carcinoma in situ",,0.0,5.70349031329502E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96SB4,Q96SB4,DOID:3857,"medulloblastoma, large-cell",,0.0,7.61115345259438E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96SB4,Q96SB4,DOID:1324,"lung cancer",,0.0,8.16267524689353E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96SB4,Q96SB4,DOID:3347,osteosarcoma,,0.0,0.00371890823539654,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96SB4,Q96SB4,DOID:0050169,"cutaneous lupus erythematosus",,0.0,0.00477683283096482,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96SB4,Q96SB4,DOID:7574,"intraductal papillary-mucinous carcinoma (IPMC)",,0.0,0.00938693272848689,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96SB4,Q96SB4,DOID:5077,"subependymal giant cell astrocytoma",,0.0,0.0168170464889968,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96SB4,Q96SB4,DOID:3008,"invasive ductal carcinoma",,0.0,0.0187412882909448,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96SB4,Q96SB4,DOID:305,Carcinoma,,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P53778,P53778,DOID:5074,"posterior fossa group A ependymoma",,0.0,1.95477004966634E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53778,P53778,DOID:14203,"juvenile dermatomyositis",,0.0,4.21993033203168E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53778,P53778,DOID:2129,"atypical teratoid/rhabdoid tumor",,0.0,2.59125597015561E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53778,P53778,DOID:0050902,"group 3 medulloblastoma",,0.0,0.00421885286016917,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53778,P53778,DOID:11726,"autosomal dominant Emery-Dreifuss muscular dystrophy",,0.0,0.0074632063099579,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53778,P53778,DOID:162,Cancer,,3.033,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D470,"Aggressive behavior",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D479,"Aggressive reaction",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D7424,"Atypical absence seizure",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D2769,"Autism Spectrum Disorders",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D4606,"Autistic behavior",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D7428,"Brainstem abnormalities",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D135,"Dull intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D7430,"EEG with focal sharp slow waves",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D1346,Encephalopathies,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D7423,"Epileptic drop attack",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D9787,"Epileptic encephalopathy, Lennox-Gastaut type",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D2061,"Hyperactive behavior",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D7425,"Hypertonic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D7426,"Hypotonic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:1059,"Intellectual disability",,0.0,4.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D1094,"Lennox-Gastaut syndrome",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D73,"Low intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D42,"Mental Retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D91,"Mental deficiency",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D1712,"Mental deterioration",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D2368,Myoclonus,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D7422,"Personality Disorders",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D476,"Physical aggression",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D105,"Poor school performance",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D3893,"Tonic - clonic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,3.7497214948156E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:3910,"lung adenocarcinoma",,0.0,9.26382659899632E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:3068,glioblastoma,,0.0,5.22573761263333E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:7574,"intraductal papillary-mucinous carcinoma (IPMC)",,0.0,3.94213870079444E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:3857,"medulloblastoma, large-cell",,0.0,4.03450896094164E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:0050902,"group 3 medulloblastoma",,0.0,7.97901114297258E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,1.0390008295257E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:3070,"adult high grade glioma",,0.0,7.68971835369438E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:171,"primitive neuroectodermal tumor",,0.0,0.00117204517248269,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:7575,"intraductal papillary-mucinous neoplasm (IPMN)",,0.0,0.00731937877087651,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:5077,"subependymal giant cell astrocytoma",,0.0,0.0198376777519042,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:3008,"invasive ductal carcinoma",,0.0,0.0283498956488256,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:305,Carcinoma,,0.0,0.7,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D316,Epilepsy,,0.0,4.0,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/P53779,P53779,IDG:D399,"Brain Ischemia",,3.934,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P53779,P53779,DOID:1289,"Neurodegenerative disease",,3.494,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9BWU1,Q9BWU1,DOID:8552,"Chronic myeloid leukemia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9BWU1,Q9BWU1,IDG:D6477,"Philadelphia chromosome-positive acute lymphoblastic leukemia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9BWU1,Q9BWU1,DOID:399,tuberculosis,,0.0,3.44963799271454E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9BWU1,Q9BWU1,DOID:2394,"ovarian cancer",,0.0,3.92466745188071E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9BWU1,Q9BWU1,DOID:5074,"posterior fossa group B ependymoma",,0.0,1.2493004559121E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9BWU1,Q9BWU1,DOID:3857,"medulloblastoma, large-cell",,0.0,2.98895001296558E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9BWU1,Q9BWU1,DOID:8893,psoriasis,,0.0,6.24924121914749E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9BWU1,Q9BWU1,DOID:3347,osteosarcoma,,0.0,0.00136619275754317,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9BWU1,Q9BWU1,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,0.00737872131036685,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9BWU1,Q9BWU1,DOID:3498,"primary pancreatic ductal adenocarcinoma",,0.0,0.0117257661643432,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9BWU1,Q9BWU1,DOID:7148,"Rheumatoid arthritis",,0.0,0.014004634306269,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9BWU1,Q9BWU1,DOID:5077,"subependymal giant cell astrocytoma",,0.0,0.016967047403542,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9BWU1,Q9BWU1,DOID:11870,"Pick disease",,0.0,0.032229321682069,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9BWU1,Q9BWU1,DOID:305,Carcinoma,,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:9253,"Gastrointestinal Stromal Tumors",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:332,"Amyotrophic lateral sclerosis",,0.0,3.36745313521643E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:3347,osteosarcoma,,0.0,2.0068521266285E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:423,"acute quadriplegic myopathy",,0.0,1.33218092427585E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:11870,"Pick disease",,0.0,3.86704387625379E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:8893,psoriasis,,0.0,8.67858036164286E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:3857,"medulloblastoma, large-cell",,0.0,4.1054873873997E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:7148,"Rheumatoid arthritis",,0.0,4.79254040593879E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:1324,"lung cancer",,0.0,5.44313348703671E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,6.63473787467399E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:3068,glioblastoma,,0.0,9.51876195558882E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:2394,"ovarian cancer",,0.0,0.00150020874718349,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:3069,"astrocytic glioma",,0.0,0.0094052173763533,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:5074,ependymoma,,0.0,0.0107166736936848,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:10652,"Alzheimer's disease",,0.0,0.017458194522668,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:0050902,"group 4 medulloblastoma",,0.0,0.0178939479287993,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:3070,"pediatric high grade glioma",,0.0,0.026497181798576,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:3181,oligodendroglioma,,0.0,0.0384464176498209,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:5077,"subependymal giant cell astrocytoma",,0.0,0.0437575939742624,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:0050127,"cystic fibrosis and chronic rhinosinusitis",,0.0,0.0439842902417581,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q86Z02,Q86Z02,DOID:305,Carcinoma,,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D490,Anemia,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:7148,"Arthritis, Rheumatoid",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D10533,"Brain Stem Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D3613,Chloracne,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D6057,"Chromosome Aberrations",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:9119,"Leukemia, Myeloid, Acute",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D10534,"MICROCEPHALY 12, PRIMARY, AUTOSOMAL RECESSIVE",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D1665,"Mammary Neoplasms, Experimental",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:1790,"Mesothelioma, Malignant",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D176,"Precursor Cell Lymphoblastic Leukemia-Lymphoma",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:3068,glioblastoma,,0.0,2.92246829481614E-4,CTD
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:0050902,medulloblastoma,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D3260,"Abnormal cortical bone morphology",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D55,"Agenesis of corpus callosum",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D137,"Autosomal recessive predisposition",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D118,"Cognitive delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D1787,"Cortical gyral simplification",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D1054,"Dilated ventricles (finding)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D135,"Dull intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D3253,"Ectopic Tissue",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D3258,"Frontal lobe hypoplasia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D84,"Global developmental delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D575,Hyperreflexia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:1059,"Intellectual disability",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D2357,"Leukemia, Myelocytic, Acute",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D73,"Low intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D3259,"MICROCEPHALY, PRIMARY AUTOSOMAL RECESSIVE, 1",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D42,"Mental Retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D134,"Mental and motor retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D91,"Mental deficiency",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D4341,"Mild Mental Retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D756,Pachygyria,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D105,"Poor school performance",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D164,"Precursor Cell Lymphoblastic Leukemia Lymphoma",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D748,"Severe mental retardation (I.Q. 20-34)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D72,"Short stature",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D116,"Sloping forehead",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D74,"Small head",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D1852,"Thin upper lip vermilion",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D2885,"Unilateral agenesis of kidney",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D334,"Upward slant of palpebral fissure",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D3255,"Vesico-Ureteral Reflux",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:1790,"malignant mesothelioma",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D4600,"Hormone receptor positive malignant neoplasm of breast",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D10536,"Human epidermal growth factor 2 negative carcinoma of breast",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:3905,"lung carcinoma",,0.0,2.52635670232052E-11,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:399,tuberculosis,,0.0,2.22129308807863E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:8893,psoriasis,,0.0,2.34865418014704E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:1485,"cystic fibrosis",,0.0,4.3476469982337E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:4851,"Astrocytoma, Pilocytic",,0.0,1.72139424651535E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:1324,"lung cancer",,0.0,3.09260014027644E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:2394,"ovarian cancer",,0.0,4.60504158709711E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:3910,"lung adenocarcinoma",,0.0,1.49459288753196E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:0050902,"group 3 medulloblastoma",,0.0,2.19243939788667E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,2.2480611198574E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:1612,"Breast cancer",,0.0,2.67455199902701E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:3857,"medulloblastoma, large-cell",,0.0,3.1290267190843E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:3070,"adult high grade glioma",,0.0,4.38646720420219E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:2671,"urothelial carcinoma",,0.0,6.03036371607341E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:3498,"primary pancreatic ductal adenocarcinoma",,0.0,0.00517072998220278,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:1793,"pancreatic cancer",,0.0,0.00596658410205524,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:0050891,"adrenocortical adenoma",,0.0,0.00636589296680147,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,0.00691239037277844,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:11335,sarcoidosis,,0.0,0.00762751537880298,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:5074,ependymoma,,0.0,0.00871065506915101,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:171,"primitive neuroectodermal tumor",,0.0,0.00894681588483226,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:3008,"invasive ductal carcinoma",,0.0,0.0245094030434492,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:3347,osteosarcoma,,0.0,0.0249697867404122,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:9119,"acute myeloid leukemia",,0.0,0.0281360118635497,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:7574,"intraductal papillary-mucinous carcinoma (IPMC)",,0.0,0.0304941081719032,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:0060158,"Acquired metabolic disease",,0.0,3.0,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:7148,"Rheumatoid arthritis",,0.0,0.00782823502037131,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:10907,Microcephaly,,0.0,4.0,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,DOID:162,Cancer,,5.739,2.9,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q00534,Q00534,IDG:D10535,"Primary autosomal recessive microcephaly 12",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:1206,"Rett syndrome",,7.219,3.6,CTD
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:1932,"Angelman syndrome",,3.098,1.5,CTD
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D11571,"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 2",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D322,Seizures,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D316,Epilepsy,,5.591,2.8,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:1059,"Intellectual disability",,5.231,2.6,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D11573,"Abnormality of the antitragus",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D2993,"Abnormality of the fingernails",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D5292,"Abnormality of the metacarpal bones",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D342,"Acquired scoliosis",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D349,"Anteverted nostril",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D352,"Bilateral fifth finger clinodactyly",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D894,"Broad forehead",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D902,"Bulging forehead",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1390,"Cerebellar hypoplasia and atrophy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D578,"Cerebral atrophy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D118,"Cognitive delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1270,"Congenital deafness",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1075,Constipation,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D371,"Curvature of little finger",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D323,"Curvature of spine",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1260,Deafness,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D587,"Developmental regression",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1054,"Dilated ventricles (finding)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D135,"Dull intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1082,Dyschezia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1813,"Early infantile epileptic encephalopathy with suppression bursts",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D574,"Electroencephalogram abnormal",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D2180,Enophthalmos,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1779,"Epilepsies, Myoclonic",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D2768,"Epileptic encephalopathy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D2836,"Fine hair",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D953,"Flexion contracture of proximal interphalangeal joint",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D3759,"Full lower lip",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D719,"Gastroesophageal reflux disease",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1789,"Generalized myoclonic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D84,"Global developmental delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1262,"Hearing Loss, Partial",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D845,Heartburn,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D824,Hyperventilation,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D2247,"Hypoplastic feet",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1780,Hypsarrhythmia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D9065,"Infantile Spasm",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D640,"Infantile onset",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D358,"Long philtrum",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D586,"Loss of developmental milestones",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D73,"Low intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D41,Macrostomia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D42,"Mental Retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D134,"Mental and motor retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D91,"Mental deficiency",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D594,"Mental deterioration in childhood",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D516,"Movement Disorders",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D573,"Muscle Spasticity",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D45,"Muscle hypotonia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1781,"Myoclonic Epilepsies, Progressive",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D2368,Myoclonus,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:585,Nephrolithiasis,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D593,"Neurodevelopmental regression",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D3495,"Poor eye contact",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D105,"Poor school performance",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D741,"Profound Mental Retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D808,"Profound intellectual disabilities",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D3498,"Progressive microcephaly",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D887,"Prominent forehead",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D3754,"Prominent lower lip",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D591,"Psychomotor regression",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D592,"Psychomotor regression beginning in infancy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D590,"Psychomotor regression in infants",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D588,"Psychomotor regression, progressive",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D11572,"Rett Syndrome, Atypical",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D4111,"Short hands",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D4109,"Small hand",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D74,"Small head",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1762,"Stereotyped Behavior",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1763,"Stereotypic Movement Disorder",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D2186,"Sunken eyes",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1529,"Tapering fingers (finding)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D3933,"Thick vermilion border",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D5262,"Thin hypoplastic alae nasi",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1306,"Wide nose",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1866,"X-linked dominant",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1276,"hearing impairment",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:3068,glioblastoma,,0.0,9.07382979484013E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:3910,"lung adenocarcinoma",,0.0,1.07985370359918E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,1.19326534333693E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:3347,osteosarcoma,,0.0,3.72272551903026E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:4851,"Astrocytoma, Pilocytic",,0.0,7.9147394359324E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:171,"primitive neuroectodermal tumor",,0.0,3.31086432114844E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:3857,"medulloblastoma, large-cell",,0.0,4.97420496663515E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:3070,"adult high grade glioma",,0.0,6.1269839102549E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:1785,"pituitary cancer",,0.0,9.26354045835605E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:5074,ependymoma,,0.0,0.00127063815376426,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:13949,"interstitial cystitis",,0.0,0.00202374340091673,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:8778,"active Crohn's disease",,0.0,0.00204618764689147,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:2394,"ovarian cancer",,0.0,0.00230198102405551,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:3069,"astrocytic glioma",,0.0,0.00432193378667857,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:0050902,"group 4 medulloblastoma",,0.0,0.00610797969621935,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:3181,oligodendroglioma,,0.0,0.00673503246515655,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:3948,"adrenocortical carcinoma",,0.0,0.0259765894262365,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:305,Carcinoma,,0.0,1.0,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:263,"Kidney cancer",,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:10907,Microcephaly,,3.927,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D717,"Autistic Disorder",,3.682,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:8461,"Aicardi syndrome",,3.651,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:0060488,"Pitt-Hopkins syndrome",,3.53,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:0060599,"Nance-Horan syndrome",,3.525,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/O76039,O76039,DOID:0060237,"Warburg micro syndrome",,3.128,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D11574,"Atypical Rett syndrome",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1818,"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 1",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D11575,"Juvenile retinoschisis",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/O76039,O76039,IDG:D1812,"West Syndrome",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D2387,Atrophy,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D399,"Brain Ischemia",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D2380,"CEROID LIPOFUSCINOSIS, NEURONAL, 6",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:1749,"Carcinoma, Squamous Cell",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D1354,Cardiomyopathies,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:13619,"Cholestasis, Extrahepatic",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D518,"Cocaine-Related Disorders",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D926,"Disease Models, Animal",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D571,Gliosis,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D3618,"Head and Neck Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D1079,Hyperalgesia,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D3619,Hypertrophy,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D1510,"Infertility, Female",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:263,"Kidney Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D3624,"Liver Neoplasms, Experimental",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:3683,"Lung Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D531,"Neoplasm Invasiveness",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D1464,"Neoplasm Metastasis",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D1517,"Nerve Degeneration",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:2394,"Ovarian Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D3625,"Pneumonia, Pneumococcal",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D196,"Prostatic Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D3626,"Radiation Injuries, Experimental",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D3622,Sepsis,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D492,"Stomach Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D3362,"Substance Withdrawal Syndrome",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D3620,"Trigeminal Neuralgia",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D2374,Atrophic,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D245,"Depressive disorder",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D1457,"Female infertility",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D1938,"Kidney Neoplasm",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D244,"Mental Depression",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D190,Schizophrenia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:1749,"Squamous cell carcinoma",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D3621,"Streptococcal pneumonia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D2317,"ovarian neoplasm",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D3628,"Carcinoma of thyroid",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D3627,"Liver cell carcinoma",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P27361,P27361,IDG:D2344,"Renal Cell Carcinoma",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:162,Cancer,,6.489,3.2,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:178,"Vascular disease",,5.445,2.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:9351,"diabetes mellitus",,4.274,2.1,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:3602,"Toxic encephalopathy",,4.078,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:557,"Kidney disease",,3.908,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:2841,Asthma,,3.779,1.9,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:9970,Obesity,,3.742,1.9,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:10652,"Alzheimer's disease",,3.67,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:848,Arthritis,,3.662,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:77,"Gastrointestinal system disease",,3.651,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:114,"Heart disease",,3.598,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:14330,"Parkinson's disease",,3.358,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:5614,"Eye disease",,3.355,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:850,"Lung disease",,3.144,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P27361,P27361,DOID:4195,Hyperglycemia,,3.142,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P67870,P67870,DOID:1749,"Carcinoma, Squamous Cell",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P67870,P67870,DOID:5603,"Leukemia-Lymphoma, Adult T-Cell",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P67870,P67870,IDG:D4285,"Skin Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P67870,P67870,IDG:D1640,"Adult T-Cell Lymphoma/Leukemia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P67870,P67870,DOID:1749,"Squamous cell carcinoma",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P67870,P67870,DOID:308,"Early myoclonic encephalopathy",,3.184,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D266,"Arthritis, Juvenile",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D399,"Brain Ischemia",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D2380,"CEROID LIPOFUSCINOSIS, NEURONAL, 6",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:1749,"Carcinoma, Squamous Cell",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D1354,Cardiomyopathies,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:13619,"Cholestasis, Extrahepatic",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D518,"Cocaine-Related Disorders",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D926,"Disease Models, Animal",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D571,Gliosis,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D3618,"Head and Neck Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D1079,Hyperalgesia,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D3619,Hypertrophy,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D1510,"Infertility, Female",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:263,"Kidney Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D3624,"Liver Neoplasms, Experimental",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:3683,"Lung Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D531,"Neoplasm Invasiveness",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D1464,"Neoplasm Metastasis",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D1517,"Nerve Degeneration",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:2394,"Ovarian Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D3625,"Pneumonia, Pneumococcal",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D3626,"Radiation Injuries, Experimental",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D3622,Sepsis,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D2780,"Sezary Syndrome",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D492,"Stomach Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D3362,"Substance Withdrawal Syndrome",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D3620,"Trigeminal Neuralgia",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D4114,"Abnormality of earlobe",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D7265,"Absent fingernails",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D7266,"Absent toenails (anonychia)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D3743,"Acquired flat foot",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D7264,Anhedonia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D352,"Bilateral fifth finger clinodactyly",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D224,"Bipolar Disorder",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D5087,"Bowed and upward slanting eyebrows",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D118,"Cognitive delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D371,"Curvature of little finger",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D135,"Dull intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D2180,Enophthalmos,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D1457,"Female infertility",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D33,"Fetal Growth Retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D3730,Flatfoot,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D84,"Global developmental delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D39,"Infant, Small for Gestational Age",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:1059,"Intellectual disability",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D95,"Intrauterine retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D249,"Juvenile arthritis",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D1938,"Kidney Neoplasm",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D2437,"Language Disorders",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D73,"Low intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D42,"Mental Retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D134,"Mental and motor retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D91,"Mental deficiency",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D7267,"Persistant truncus arteriosus",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D1849,"Pointed chin",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D105,"Poor school performance",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D944,"Premature Birth",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D946,"Premature birth of newborn",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D190,Schizophrenia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D72,"Short stature",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D74,"Small head",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D345,"Smooth philtrum",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:1749,"Squamous cell carcinoma",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D3621,"Streptococcal pneumonia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D2186,"Sunken eyes",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D5086,"Thick, flared eyebrows",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D5262,"Thin hypoplastic alae nasi",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D1852,"Thin upper lip vermilion",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D2317,"ovarian neoplasm",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:14203,"juvenile dermatomyositis",,0.0,2.59230109205773E-13,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:2394,"ovarian cancer",,0.0,3.08408485988011E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:8893,psoriasis,,0.0,3.09887334484221E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:332,"Amyotrophic lateral sclerosis",,0.0,3.84702816951857E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:3068,glioblastoma,,0.0,8.56821163807698E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:171,"primitive neuroectodermal tumor",,0.0,1.04080159249763E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:3857,"medulloblastoma, large-cell",,0.0,1.80136785994386E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,3.19488512363457E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:11870,"Pick disease",,0.0,4.21421920380619E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:3347,osteosarcoma,,0.0,5.76527525048545E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:399,"tuberculosis and treatment for 6 months",,0.0,0.0027703706139829,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:0050902,"group 3 medulloblastoma",,0.0,0.00826487359688398,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:1612,"Breast cancer",,0.0,0.0227903694665997,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:4914,"esophageal adenocarcinoma",,0.0,0.0294922197126826,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:305,Carcinoma,,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P28482,P28482,IDG:D403,"Multiple Sclerosis",,0.0,3.0,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:162,Cancer,,5.333,2.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:11729,"Lyme disease",,4.004,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:178,"Vascular disease",,3.816,1.9,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:848,Arthritis,,3.55,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:1289,"Neurodegenerative disease",,3.328,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:77,"Gastrointestinal system disease",,3.309,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:635,"Acquired immunodeficiency syndrome",,3.065,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P28482,P28482,DOID:0060413,"Chromosome 22q11.2 deletion syndrome, distal",,3.724,1.9,Monarch
+https://pharos.nih.gov/idg/targets/Q9UQ07,Q9UQ07,DOID:9352,"Diabetes Mellitus, Type 2",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UQ07,Q9UQ07,IDG:D294,"Diabetes Mellitus, Non-Insulin-Dependent",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQ07,Q9UQ07,DOID:1790,"malignant mesothelioma",,0.0,3.47482514640923E-10,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQ07,Q9UQ07,DOID:9261,"nasopharyngeal carcinoma",,0.0,1.91772491805516E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQ07,Q9UQ07,DOID:0050902,"group 3 medulloblastoma",,0.0,1.02914974567617E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQ07,Q9UQ07,DOID:1485,"cystic fibrosis",,0.0,1.10283591873131E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQ07,Q9UQ07,DOID:0050127,"chronic rhinosinusitis",,0.0,0.00975678078094467,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQ07,Q9UQ07,DOID:5074,ependymoma,,0.0,0.0218102889099614,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQ07,Q9UQ07,DOID:305,Carcinoma,,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9UQ07,Q9UQ07,IDG:D2344,"Renal Cell Carcinoma",,3.06,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D190,Schizophrenia,,3.41,1.7,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D2773,"Abnormalities, Multiple",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D1492,"Acute kidney injury",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:10652,"Alzheimer Disease",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D2957,"Arthritis, Experimental",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D2728,"Brain Injuries",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D2380,"CEROID LIPOFUSCINOSIS, NEURONAL, 6",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D2053,Cardiomegaly,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D512,"Cognition Disorders",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D245,"Depressive disorder",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D1342,"Heart failure",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:10763,Hypertension,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D6741,"Lymphoma, Mantle-Cell",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:767,"Muscular atrophy",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D1559,"Myocardial Infarction",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:8283,Peritonitis,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D6951,Poisoning,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D196,"Prostatic Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:680,Tauopathies,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:10652,"Alzheimer's disease",,5.128,2.6,DisGeNET
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D37,"Hypertensive disease",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D478,"Major Depressive Disorder",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D6740,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D244,"Mental Depression",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D519,"Mood Disorders",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D224,"Bipolar Disorder",,4.159,2.1,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D195,"Bipolar affective disorder, current episode manic",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D1122,"Bipolar disorder in remission",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D8706,Dysmenorrhea,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D1261,Fever,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D9239,"Headache disorder",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D3518,"Juvenile rheumatoid arthritis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D1006,Osteoarthritis,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49841,P49841,IDG:D3717,Pain,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:7148,"Rheumatoid arthritis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:3068,glioblastoma,,0.0,6.80171833532839E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:3070,"adult high grade glioma",,0.0,7.75583944881069E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,1.61863167441537E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:399,tuberculosis,,0.0,2.09689998750759E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:11870,"Pick disease",,0.0,7.34888984285488E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:2394,"ovarian cancer",,0.0,8.86635708031529E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:3857,"medulloblastoma, large-cell",,0.0,1.01291585091312E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:8893,psoriasis,,0.0,3.84557418673988E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:7574,"intraductal papillary-mucinous carcinoma (IPMC)",,0.0,0.00103065803693171,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,0.00112740844494754,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:3347,osteosarcoma,,0.0,0.00116316360389257,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:3181,oligodendroglioma,,0.0,0.00167925303580463,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:0050902,"group 4 medulloblastoma",,0.0,0.00246380622739004,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:3069,astrocytoma,,0.0,0.00493562604126679,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:7575,"intraductal papillary-mucinous neoplasm (IPMN)",,0.0,0.0108513874838958,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:5074,ependymoma,,0.0,0.0256646944724784,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:5077,"subependymal giant cell astrocytoma",,0.0,0.0378865079948349,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:0080016,"spina bifida",,0.0,0.0476565698273514,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:1612,"Breast cancer",,0.0,0.0482690292425466,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:305,Carcinoma,,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:263,"Kidney cancer",,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:9351,"diabetes mellitus",,3.442,1.7,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:162,Cancer,,4.965,2.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:3602,"Toxic encephalopathy",,3.994,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:178,"Vascular disease",,3.985,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:0050439,"Usher syndrome",,3.923,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:14330,"Parkinson's disease",,3.286,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:1307,Dementia,,3.198,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P49841,P49841,DOID:0060255,"Rippling muscle disease",,3.196,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P49840,P49840,IDG:D245,"Depressive disorder",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49840,P49840,IDG:D190,Schizophrenia,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P49840,P49840,IDG:D224,"Bipolar Disorder",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49840,P49840,IDG:D195,"Bipolar affective disorder, current episode manic",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49840,P49840,IDG:D1122,"Bipolar disorder in remission",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49840,P49840,IDG:D8706,Dysmenorrhea,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49840,P49840,IDG:D1261,Fever,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49840,P49840,IDG:D9239,"Headache disorder",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49840,P49840,IDG:D3518,"Juvenile rheumatoid arthritis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49840,P49840,IDG:D1006,Osteoarthritis,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49840,P49840,IDG:D3717,Pain,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49840,P49840,DOID:7148,"Rheumatoid arthritis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49840,P49840,DOID:305,Carcinoma,,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P49840,P49840,DOID:263,"Kidney cancer",,0.0,0.5,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P49840,P49840,DOID:10652,"Alzheimer's disease",,0.0,4.0,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/P49840,P49840,DOID:9351,"diabetes mellitus",,0.0,4.0,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:8552,"Chronic myeloid leukemia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49336,P49336,IDG:D6477,"Philadelphia chromosome-positive acute lymphoblastic leukemia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:3347,osteosarcoma,,0.0,1.06305636754287E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:8893,psoriasis,,0.0,3.82999347553281E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:3857,"medulloblastoma, large-cell",,0.0,6.2592884779674E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:1612,"Breast cancer",,0.0,0.00101553835553172,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:5077,"subependymal giant cell astrocytoma",,0.0,0.00120402403272957,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:2394,"ovarian cancer",,0.0,0.00169804985721388,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:1324,"lung cancer",,0.0,0.00172060920123406,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:1785,"pituitary cancer",,0.0,0.0134985974906414,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:7575,"intraductal papillary-mucinous neoplasm (IPMN)",,0.0,0.0293506288525417,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:3948,"adrenocortical carcinoma",,0.0,0.0442971181471562,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:0050902,"group 3 medulloblastoma",,0.0,0.047789047476275,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:305,Carcinoma,,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:0110923,"Familial hemophagocytic lymphohistiocytosis 3",,3.893,1.9,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:162,Cancer,,3.601,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:0110922,"Familial hemophagocytic lymphohistiocytosis 2",,3.166,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P49336,P49336,DOID:0110727,"Neuronal ceroid lipofuscinosis 13",,3.051,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P50750,P50750,DOID:1926,"Gaucher disease type 3",,0.0,6.24722900313832E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P50750,P50750,DOID:2508,"Takayasu's arteritis",,6.541,3.3,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P50750,P50750,DOID:865,Vasculitis,,4.31,2.2,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P50750,P50750,DOID:162,Cancer,,4.236,2.1,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P50750,P50750,DOID:635,"Acquired immunodeficiency syndrome",,3.327,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P50750,P50750,DOID:6713,"Cerebrovascular disease",,3.097,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/O15264,O15264,DOID:13580,Cholestasis,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/O15264,O15264,DOID:8893,psoriasis,,0.0,1.91039651493463E-11,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O15264,O15264,DOID:3459,"breast carcinoma",,0.0,1.71543926850876E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O15264,O15264,DOID:0060074,"ductal carcinoma in situ",,0.0,2.47075242568299E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O15264,O15264,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,5.19392794543508E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O15264,O15264,DOID:3008,"invasive ductal carcinoma",,0.0,9.74771381984829E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O15264,O15264,DOID:1324,"lung cancer",,0.0,0.00113097065654128,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O15264,O15264,DOID:13949,"interstitial cystitis",,0.0,0.00264711318621058,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O15264,O15264,DOID:3948,"adrenocortical carcinoma",,0.0,0.0062850331521358,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O15264,O15264,DOID:3347,osteosarcoma,,0.0,0.0101257880257982,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O15264,O15264,DOID:305,Carcinoma,,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P49760,P49760,DOID:9253,"Gastrointestinal stromal tumor",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49760,P49760,IDG:D4370,"Pancreatic Neuroendocrine Tumor",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49760,P49760,IDG:D2344,"Renal Cell Carcinoma",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P49760,P49760,DOID:2394,"ovarian cancer",,0.0,2.13336312249922E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49760,P49760,DOID:0050902,"group 3 medulloblastoma",,0.0,4.60603937501959E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49760,P49760,DOID:1324,"lung cancer",,0.0,7.31132755577311E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49760,P49760,DOID:3069,astrocytoma,,0.0,0.0054854439387554,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49760,P49760,DOID:305,Carcinoma,,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P50613,P50613,DOID:0050427,"Xeroderma pigmentosum",,5.007,2.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P50613,P50613,DOID:2960,"Photosensitive trichothiodystrophy",,4.521,2.3,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P50613,P50613,DOID:162,Cancer,,4.177,2.1,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P50613,P50613,DOID:2962,"Cockayne syndrome",,4.007,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P50613,P50613,DOID:0110923,"Familial hemophagocytic lymphohistiocytosis 3",,3.335,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:1909,Melanoma,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:5074,ependymoma,,0.0,3.44327302944307E-15,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:3068,glioblastoma,,0.0,1.85731264131525E-11,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,1.40260736372058E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:1790,"malignant mesothelioma",,0.0,5.1967941867182E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:4851,"Astrocytoma, Pilocytic",,0.0,8.96618098529201E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:0050902,"group 3 medulloblastoma",,0.0,1.71803634567765E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:3070,"adult high grade glioma",,0.0,2.27915577979611E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:3347,osteosarcoma,,0.0,6.93799867057627E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:171,"primitive neuroectodermal tumor",,0.0,1.46247763251E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:3948,"adrenocortical carcinoma",,0.0,7.01648990391871E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:3857,"medulloblastoma, large-cell",,0.0,0.00124523981122312,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:219,"colon cancer",,0.0,0.00130522606407618,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:8893,psoriasis,,0.0,0.0130947791708806,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:305,Carcinoma,,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:986,"Alopecia areata",,0.0,2.5,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:2841,Asthma,,0.0,3.0,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:3083,"Chronic obstructive pulmonary disease",,0.0,0.7,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/P24941,P24941,DOID:162,Cancer,,6.468,3.2,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D5149,"Brain Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D10533,"Brain Stem Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:305,Carcinoma,,0.0,0.7,CTD
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D507,"Carcinoma, Hepatocellular",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D3214,Liposarcoma,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D14590,"MELANOMA, CUTANEOUS MALIGNANT, SUSCEPTIBILITY TO, 3",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D1666,"Mammary Neoplasms, Animal",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D1665,"Mammary Neoplasms, Experimental",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D4459,"Neoplasms, Experimental",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D492,"Stomach Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D2275,"Abnormality of the lymphatic system",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D1664,"Animal Mammary Neoplasms",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D2262,"Dry skin",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D2257,Freckles,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D2273,"Hair shaft abnormalities",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D2269,"Hereditary Melanoma",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D12585,"Liposarcoma, Dedifferentiated",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D12586,"Liposarcoma, well differentiated",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D506,"Liver carcinoma",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D2258,"Lymphatic Diseases",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D2270,"MELANOMA, CUTANEOUS MALIGNANT, 1",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D1560,"Melanocytic nevus",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:1909,Melanoma,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D7362,"Multiple, subcutaneous nodules",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D2259,Nevus,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D7358,"Subcutaneous nodule",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D2265,Xerosis,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D2264,"hair abnormalities (non-specific)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D4600,"Hormone receptor positive malignant neoplasm of breast",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D10536,"Human epidermal growth factor 2 negative carcinoma of breast",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:3908,"non-small cell lung cancer",,0.0,4.34786179322362E-22,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:3069,astrocytoma,,0.0,9.46663782092978E-15,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:5074,ependymoma,,0.0,2.01821799363966E-13,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,7.22246376591165E-11,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:3068,glioblastoma,,0.0,1.37767633048689E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:4851,"Astrocytoma, Pilocytic",,0.0,3.52662395069613E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:3910,"lung adenocarcinoma",,0.0,4.25375179721531E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:0050902,"group 3 medulloblastoma",,0.0,1.36957590223637E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:3857,"medulloblastoma, large-cell",,0.0,1.41116329506263E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:1790,"malignant mesothelioma",,0.0,2.21525165590476E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:3070,"adult high grade glioma",,0.0,2.86928191382567E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:9261,"nasopharyngeal carcinoma",,0.0,1.67542630589046E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:2394,"ovarian cancer",,0.0,3.17355995882135E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:171,"primitive neuroectodermal tumor",,0.0,5.69110551207228E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:219,"colon cancer",,0.0,4.94356948923687E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:1324,"lung cancer",,0.0,0.00815424667829708,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:3181,oligodendroglioma,,0.0,0.0224546520124635,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:9119,"acute myeloid leukemia",,0.0,0.0421056630363035,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:162,Cancer,,6.693,3.3,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:3315,Lipoma,,4.65,2.3,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:10534,"Stomach cancer",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/P11802,P11802,IDG:D12587,"Well Differentiated Liposarcoma",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/P11802,P11802,DOID:6846,"familial melanoma",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:9253,"Gastrointestinal Stromal Tumors",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:9253,"Gastrointestinal stromal tumor",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,IDG:D4370,"Pancreatic Neuroendocrine Tumor",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,IDG:D2344,"Renal Cell Carcinoma",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:3347,osteosarcoma,,0.0,2.05878981937554E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:1790,"malignant mesothelioma",,0.0,1.93551518346155E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:11870,"Pick disease",,0.0,1.5686500402204E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:2394,"ovarian cancer",,0.0,2.27458934287024E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:10534,"gastric cancer",,0.0,5.83107479313657E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:3070,"adult high grade glioma",,0.0,7.29404921739742E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:3857,"medulloblastoma, large-cell",,0.0,8.05404008868634E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:8893,psoriasis,,0.0,9.83205950815401E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:3068,glioblastoma,,0.0,0.00115551920681606,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,0.00211030417362921,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:1785,"pituitary cancer",,0.0,0.00223880121356358,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:3008,"invasive ductal carcinoma",,0.0,0.00424525890091466,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:7148,"Rheumatoid arthritis",,0.0,0.00433719320157745,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:14250,"Down syndrome",,0.0,0.00597892837504073,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,0.00753035444997724,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:399,"tuberculosis and treatment for 6 months",,0.0,0.00839673115450809,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:3069,"astrocytic glioma",,0.0,0.0127925185308718,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:2476,"hereditary spastic paraplegia",,0.0,0.0265884888241963,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:3181,oligodendroglioma,,0.0,0.0289513316706568,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:0050902,"group 3 medulloblastoma",,0.0,0.0350139449521897,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:5077,"subependymal giant cell astrocytoma",,0.0,0.047338281070306,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:305,Carcinoma,,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9H2X6,Q9H2X6,DOID:162,Cancer,,3.624,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:3347,osteosarcoma,,0.0,1.20810614267955E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:3068,glioblastoma,,0.0,5.14262211087827E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:2394,"ovarian cancer",,0.0,4.40833697551817E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,6.80743202753086E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:4851,"Astrocytoma, Pilocytic",,0.0,9.90433839296502E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:684,"hepatocellular carcinoma",,0.0,1.37384456081043E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:3070,"adult high grade glioma",,0.0,4.30108963382229E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:10534,"gastric cancer",,0.0,0.00165982064754171,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:8893,psoriasis,,0.0,0.00329322468065331,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:3069,"astrocytic glioma",,0.0,0.00398328351653095,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:5074,ependymoma,,0.0,0.00403150022525756,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:7148,"Rheumatoid arthritis",,0.0,0.010939674875943,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:1324,"lung cancer",,0.0,0.0111487325153711,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:171,"primitive neuroectodermal tumor",,0.0,0.0124883687142196,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:3181,oligodendroglioma,,0.0,0.0139658856525843,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:3948,"adrenocortical carcinoma",,0.0,0.0158759539117096,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:0050902,"group 4 medulloblastoma",,0.0,0.0336378838698295,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:14330,"Parkinson's disease",,0.0,0.0364890087491501,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:11870,"Pick disease",,0.0,0.0418384408652441,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:9119,"acute myeloid leukemia",,0.0,0.043651335633605,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UBE8,Q9UBE8,DOID:305,Carcinoma,,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D1354,Cardiomyopathies,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:13580,Cholestasis,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:8552,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D515,"Liver neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:3683,"Lung Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D248,"Myocardial Ischemia",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D8670,"Depressive Symptoms",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D7673,"Drug-induced depressive state",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D12226,"Dysphoric mood",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D3794,"Marijuana Abuse",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D10438,"Myeloid Leukemia, Chronic",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D190,Schizophrenia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D4869,"Blastic phase chronic myeloid leukemia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D4868,"Chronic Myelocytic Leukemia Accelerated Phase",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D6478,"Chronic phase chronic myeloid leukemia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D6476,"Philadelphia Chromosome Positive Chronic Myelocytic Leukemia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D6477,"Philadelphia chromosome-positive acute lymphoblastic leukemia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:2394,"ovarian cancer",,0.0,6.45519397600645E-12,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:5074,ependymoma,,0.0,1.19073896252102E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:8893,psoriasis,,0.0,9.02905705434981E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,1.45532491755904E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:3347,osteosarcoma,,0.0,5.14653233647883E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:3857,"medulloblastoma, large-cell",,0.0,1.03689981058689E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:3068,glioblastoma,,0.0,1.39966373458009E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:4851,"Astrocytoma, Pilocytic",,0.0,0.00101659982686229,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:1324,"lung cancer",,0.0,0.00121089162467192,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:3070,"adult high grade glioma",,0.0,0.00516000731763631,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:5077,"subependymal giant cell astrocytoma",,0.0,0.00778724225303235,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:0050902,"group 3 medulloblastoma",,0.0,0.00795889293321134,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:678,"progressive supranuclear palsy",,0.0,0.0102812286321136,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:1926,"Gaucher disease type 1",,0.0,0.0129636437819695,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:0050747,"Waldenstrons macroglobulinemia",,0.0,0.0135809793145851,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:3498,"pancreatic ductal adenocarcinoma liver metastasis",,0.0,0.019489404739811,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:1123,"axial spondyloarthropathy",,0.0,0.0436381926826045,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:305,Carcinoma,,0.0,0.7,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:162,Cancer,,4.496,2.2,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:178,"Vascular disease",,4.203,2.1,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:848,Arthritis,,4.073,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,IDG:D403,"Multiple Sclerosis",,3.976,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:10652,"Alzheimer's disease",,3.593,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:10471,"Patellar tendinitis",,3.403,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:936,"Brain disease",,3.276,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:7017,"Lumbosacral lipoma",,3.091,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q16539,Q16539,DOID:850,"Lung disease",,3.036,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,IDG:D3820,"Cell Transformation, Neoplastic",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:13619,"Cholestasis, Extrahepatic",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45983,P45983,IDG:D400,"Dermatitis, Atopic",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45983,P45983,IDG:D926,"Disease Models, Animal",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45983,P45983,IDG:D1079,Hyperalgesia,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45983,P45983,IDG:D617,"Liver Failure, Acute",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45983,P45983,IDG:D3368,"Precancerous Conditions",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45983,P45983,IDG:D404,"Reperfusion Injury",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45983,P45983,IDG:D492,"Stomach Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45983,P45983,IDG:D3620,"Trigeminal Neuralgia",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45983,P45983,IDG:D245,"Depressive disorder",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P45983,P45983,IDG:D244,"Mental Depression",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P45983,P45983,IDG:D3789,"Neoplastic Cell Transformation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P45983,P45983,IDG:D190,Schizophrenia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:1612,"Breast cancer",,0.0,1.68444546455907E-12,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:3068,glioblastoma,,0.0,1.41497231807673E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:5074,ependymoma,,0.0,2.5756270977587E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:2394,"ovarian cancer",,0.0,4.9652524861862E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:399,tuberculosis,,0.0,4.13192423336763E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,4.73202812226812E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:4851,"Astrocytoma, Pilocytic",,0.0,1.21836843442787E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:0050902,"group 4 medulloblastoma",,0.0,2.62324113009151E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:3347,osteosarcoma,,0.0,5.57965320292022E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:3070,"adult high grade glioma",,0.0,0.00285473762325167,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:7574,"intraductal papillary-mucinous carcinoma (IPMC)",,0.0,0.00725786337169613,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:0080016,"spina bifida",,0.0,0.0367449651877039,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:9119,"acute myeloid leukemia",,0.0,0.0479132005362848,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:305,Carcinoma,,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:162,Cancer,,6.475,3.2,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:178,"Vascular disease",,5.535,2.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:9351,"diabetes mellitus",,4.852,2.4,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:848,Arthritis,,4.823,2.4,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:3602,"Toxic encephalopathy",,4.798,2.4,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:9970,Obesity,,4.672,2.3,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:10652,"Alzheimer's disease",,4.563,2.3,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:14330,"Parkinson's disease",,4.254,2.1,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:4195,Hyperglycemia,,3.953,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:9452,"Fatty liver disease",,3.786,1.9,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:3388,"Periodontal disease",,3.773,1.9,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:2841,Asthma,,3.745,1.9,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:850,"Lung disease",,3.659,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:5614,"Eye disease",,3.569,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:0050589,"Inflammatory bowel disease",,3.533,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:557,"Kidney disease",,3.519,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:409,"Liver disease",,3.498,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:114,"Heart disease",,3.492,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:11476,Osteoporosis,,3.265,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45983,P45983,DOID:936,"Brain disease",,3.185,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:13619,"Cholestasis, Extrahepatic",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45984,P45984,IDG:D926,"Disease Models, Animal",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45984,P45984,IDG:D1079,Hyperalgesia,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45984,P45984,IDG:D4276,Ischemia,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45984,P45984,IDG:D1464,"Neoplasm Metastasis",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45984,P45984,IDG:D3368,"Precancerous Conditions",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45984,P45984,IDG:D404,"Reperfusion Injury",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45984,P45984,IDG:D3620,"Trigeminal Neuralgia",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P45984,P45984,IDG:D4342,"Myocardial Reperfusion Injury",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:3181,oligodendroglioma,,0.0,1.01609744833202E-14,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,6.83928229803372E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:1785,"pituitary cancer",,0.0,8.07725206504338E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:3857,"medulloblastoma, large-cell",,0.0,1.90017788396743E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:3068,glioblastoma,,0.0,2.3259812027334E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:4851,"Astrocytoma, Pilocytic",,0.0,3.53011462895715E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:0050902,"group 3 medulloblastoma",,0.0,9.69351933356265E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:171,"primitive neuroectodermal tumor",,0.0,1.13583545752931E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:8893,psoriasis,,0.0,1.21916517596467E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:3070,"adult high grade glioma",,0.0,2.49262803879406E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:11870,"Pick disease",,0.0,0.00394084518233534,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:2394,"ovarian cancer",,0.0,0.00452742240577423,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:3069,"astrocytic glioma",,0.0,0.0154716797805872,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:5077,"subependymal giant cell astrocytoma",,0.0,0.016288031256399,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:5074,ependymoma,,0.0,0.0305982440881321,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:305,Carcinoma,,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:162,Cancer,,4.44,2.2,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P45984,P45984,DOID:178,"Vascular disease",,3.241,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q16659,Q16659,IDG:D286,Hyperplasia,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q16659,Q16659,DOID:8893,psoriasis,,0.0,4.67972945417832E-11,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16659,Q16659,DOID:1324,"lung cancer",,0.0,4.8601308838656E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16659,Q16659,DOID:7575,"intraductal papillary-mucinous neoplasm (IPMN)",,0.0,0.00185301259761892,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16659,Q16659,DOID:3069,astrocytoma,,0.0,0.00244829653559453,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16659,Q16659,DOID:7574,"intraductal papillary-mucinous carcinoma (IPMC)",,0.0,0.00339753327201154,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16659,Q16659,DOID:3347,osteosarcoma,,0.0,0.00472119457865233,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16659,Q16659,DOID:399,tuberculosis,,0.0,0.00849853303154234,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16659,Q16659,DOID:9538,"Multiple myeloma",,0.0,0.020684317598554,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q16659,Q16659,DOID:305,Carcinoma,,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P68400,P68400,DOID:1749,"Carcinoma, Squamous Cell",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P68400,P68400,DOID:5603,"Leukemia-Lymphoma, Adult T-Cell",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P68400,P68400,IDG:D18413,"OKUR-CHUNG NEURODEVELOPMENTAL SYNDROME",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P68400,P68400,IDG:D4285,"Skin Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P68400,P68400,IDG:D1640,"Adult T-Cell Lymphoma/Leukemia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P68400,P68400,DOID:1749,"Squamous cell carcinoma",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P68400,P68400,DOID:3908,"non-small cell lung cancer",,0.0,1.65549505202521E-17,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P68400,P68400,DOID:2394,"ovarian cancer",,0.0,2.24284382954625E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P68400,P68400,DOID:3857,"medulloblastoma, large-cell",,0.0,2.24285816011954E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P68400,P68400,DOID:3347,osteosarcoma,,0.0,5.93389781403975E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P68400,P68400,DOID:0050902,"sonic hedgehog group medulloblastoma",,0.0,5.29841535073375E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P68400,P68400,DOID:7575,"intraductal papillary-mucinous neoplasm (IPMN)",,0.0,0.00349145304168847,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P68400,P68400,DOID:1324,"lung cancer",,0.0,0.00543282725532506,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P68400,P68400,DOID:7148,"Rheumatoid arthritis",,0.0,0.0183184761271057,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P68400,P68400,DOID:305,Carcinoma,,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P68400,P68400,DOID:583,"Hemolytic anemia",,0.0,3.0,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/P68400,P68400,DOID:1059,"Intellectual disability",,0.0,4.0,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,IDG:D17979,"CONGENITAL HEART DEFECTS, DYSMORPHIC FACIAL FEATURES, AND INTELLECTUAL DEVELOPMENTAL DISORDER",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:11870,"Pick disease",,0.0,2.85638822472778E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:2394,"ovarian cancer",,0.0,9.37576871160464E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:14203,"juvenile dermatomyositis",,0.0,1.09855996897682E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:1790,"malignant mesothelioma",,0.0,9.52733069335807E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:3347,osteosarcoma,,0.0,6.3926382579863E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:3498,"pancreatic ductal adenocarcinoma liver metastasis",,0.0,3.14603273114518E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:1926,"Gaucher disease type 1",,0.0,0.00330748684378632,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:3181,oligodendroglioma,,0.0,0.0088898441302355,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:0050902,"group 3 medulloblastoma",,0.0,0.0134377082023478,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:5074,ependymoma,,0.0,0.0160548426248473,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:3069,"astrocytic glioma",,0.0,0.0329808010165715,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:305,Carcinoma,,0.0,1.1,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:263,"Kidney cancer",,0.0,0.5,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:1059,"Intellectual disability",,0.0,4.0,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/Q14004,Q14004,DOID:0060649,"Congenital hereditary endothelial dystrophy of cornea",,6.125,3.1,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P06493,P06493,IDG:D663,"Liver Cirrhosis, Experimental",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P06493,P06493,IDG:D5360,"Lymphoma, Large B-Cell, Diffuse",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:0050745,"Diffuse large B-cell lymphoma",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P06493,P06493,IDG:D11212,"Drug-induced paranoid state",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:3459,"breast carcinoma",,0.0,6.73318258953181E-49,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:3908,"non-small cell lung cancer",,0.0,6.05281312780199E-30,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:3068,glioblastoma,,0.0,1.52224087102254E-12,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,6.8913558270959E-11,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:5074,ependymoma,,0.0,1.69462881686195E-10,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:0050902,"group 3 medulloblastoma",,0.0,3.11566174820974E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:8893,psoriasis,,0.0,3.51330686954365E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:171,"primitive neuroectodermal tumor",,0.0,7.97549534647917E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:3857,"medulloblastoma, large-cell",,0.0,1.2825339934648E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:3948,"adrenocortical carcinoma",,0.0,1.08365087417743E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:1793,"pancreatic cancer",,0.0,1.93789643553275E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:9261,"nasopharyngeal carcinoma",,0.0,2.15535292008802E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:3069,astrocytoma,,0.0,2.63527052481962E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:1790,"malignant mesothelioma",,0.0,4.27048691668082E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:3181,oligodendroglioma,,0.0,9.98082720642842E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:3310,"Atopic dermatitis",,0.0,3.3694769320478E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:3070,"adult high grade glioma",,0.0,4.25194094432433E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:7574,"intraductal papillary-mucinous carcinoma (IPMC)",,0.0,1.25339073087424E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:4851,"Astrocytoma, Pilocytic",,0.0,1.66191490752398E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:1324,"lung cancer",,0.0,1.90353746969007E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:2394,"ovarian cancer",,0.0,2.38034800831623E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:0060074,"ductal carcinoma in situ",,0.0,5.2433228856552E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:3008,"invasive ductal carcinoma",,0.0,5.52677253647718E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:399,tuberculosis,,0.0,7.77366393275033E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:7575,"intraductal papillary-mucinous neoplasm (IPMN)",,0.0,0.00125988788597811,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:12894,"primary Sjogren syndrome",,0.0,0.0024185828272376,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:8577,"ulcerative colitis",,0.0,0.00344962766991134,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:3910,"lung adenocarcinoma",,0.0,0.00496720775619162,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,IDG:D247,Endometriosis,,0.0,0.00568504607473194,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:13949,"interstitial cystitis",,0.0,0.0262954545951014,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:4914,"esophageal adenocarcinoma",,0.0,0.0300577994931908,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:0050747,"Waldenstrons macroglobulinemia",,0.0,0.0303971670108097,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:1612,"Breast cancer",,0.0,0.0346689193861353,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:219,"colon cancer",,0.0,0.0364884280332746,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:9352,"Type 2 diabetes mellitus",,0.0,0.8,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:162,Cancer,,5.879,2.9,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P06493,P06493,DOID:14503,"Neuronal ceroid lipofuscinosis",,3.222,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q15759,Q15759,IDG:D1354,Cardiomyopathies,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q15759,Q15759,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,6.26046589468745E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15759,Q15759,DOID:5074,"posterior fossa group A ependymoma",,0.0,2.08072819907447E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15759,Q15759,DOID:3068,glioblastoma,,0.0,2.69658427674527E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15759,Q15759,DOID:4851,"Astrocytoma, Pilocytic",,0.0,4.96831439495579E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15759,Q15759,DOID:3857,"medulloblastoma, large-cell",,0.0,1.05936496110073E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15759,Q15759,DOID:0050902,medulloblastoma,,0.0,7.34918071570802E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15759,Q15759,DOID:3070,"adult high grade glioma",,0.0,0.0013845787931568,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15131,Q15131,DOID:3347,osteosarcoma,,0.0,1.38469924854521E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15131,Q15131,DOID:3068,glioblastoma,,0.0,2.87933126991944E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15131,Q15131,DOID:2394,"ovarian cancer",,0.0,4.51730674053818E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15131,Q15131,DOID:3857,"medulloblastoma, large-cell",,0.0,1.32302758843637E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15131,Q15131,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,0.0114390213463592,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15131,Q15131,DOID:305,Carcinoma,,0.0,0.5,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q15131,Q15131,DOID:1909,Melanoma,,0.0,3.0,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q15131,Q15131,DOID:4109,"Tick infestation",,3.187,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P21127,P21127,DOID:305,Carcinoma,,0.0,0.5,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/O94921,O94921,IDG:D507,"Carcinoma, Hepatocellular",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/O94921,O94921,IDG:D506,"Liver carcinoma",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:824,periodontitis,,0.0,1.9556137129828E-29,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:3347,osteosarcoma,,0.0,9.56452440390736E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:2394,"ovarian cancer",,0.0,2.46562468234879E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,IDG:D163,"Chronic Lymphocytic Leukemia",,0.0,6.68745121935499E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:0050902,"sonic hedgehog group medulloblastoma",,0.0,7.56598242245258E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:3857,"medulloblastoma, large-cell",,0.0,1.08318791017977E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:8577,"ulcerative colitis",,0.0,5.64042936664027E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:7574,"intraductal papillary-mucinous carcinoma (IPMC)",,0.0,6.64460516054564E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:3070,"adult high grade glioma",,0.0,9.14393010408334E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,9.29233079948997E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:8893,psoriasis,,0.0,0.00109410861305008,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,0.00123228591792418,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:1793,"pancreatic cancer",,0.0,0.0059552318837674,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:4905,"pancreatic carcinoma",,0.0,0.00595523188376742,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:7575,"intraductal papillary-mucinous neoplasm (IPMN)",,0.0,0.0141979993194962,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:171,"primitive neuroectodermal tumor",,0.0,0.0175364611725682,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:1324,"lung cancer",,0.0,0.0182915873417162,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:3068,glioblastoma,,0.0,0.0415527459558369,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:305,Carcinoma,,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:1936,Atherosclerosis,,0.0,1.1,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/O94921,O94921,DOID:1287,"Cardiovascular system disease",,0.0,0.7,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q96Q40,Q96Q40,DOID:2394,"ovarian cancer",,0.0,5.63351675400908E-10,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96Q40,Q96Q40,DOID:1485,"cystic fibrosis",,0.0,5.37450863421357E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96Q40,Q96Q40,DOID:3857,"medulloblastoma, large-cell",,0.0,5.25670462125734E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96Q40,Q96Q40,DOID:3070,"adult high grade glioma",,0.0,0.00376753964689862,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96Q40,Q96Q40,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,0.00474695980019843,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96Q40,Q96Q40,DOID:3068,glioblastoma,,0.0,0.0180122677478729,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q96Q40,Q96Q40,DOID:305,Carcinoma,,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:14203,"juvenile dermatomyositis",,0.0,2.15226912145263E-10,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:423,"acute quadriplegic myopathy",,0.0,1.54833731090997E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:399,tuberculosis,,0.0,9.47048162226853E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,5.1989782589514E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:3857,"medulloblastoma, large-cell",,0.0,1.25901937034731E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:1790,"malignant mesothelioma",,0.0,3.66244863569944E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:3347,osteosarcoma,,0.0,4.3877551145585E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:10223,dermatomyositis,,0.0,0.00193964812560125,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:2394,"ovarian cancer",,0.0,0.00304869831759398,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:1926,"Gaucher disease type 3",,0.0,0.00584738560701462,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:0050902,"group 4 medulloblastoma",,0.0,0.0092266107784963,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:9351,"diabetes mellitus",,0.0,0.0108231468785124,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:3068,glioblastoma,,0.0,0.0287303366153951,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:305,Carcinoma,,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q00537,Q00537,DOID:0060158,"Acquired metabolic disease",,0.0,1.1,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q07002,Q07002,DOID:5074,ependymoma,,0.0,3.92236472004712E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q07002,Q07002,DOID:1790,"malignant mesothelioma",,0.0,6.01390515899926E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q07002,Q07002,DOID:1785,"pituitary cancer",,0.0,1.485342108204E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q07002,Q07002,DOID:2129,"atypical teratoid/rhabdoid tumor",,0.0,2.14636370752912E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q07002,Q07002,DOID:11870,"Pick disease",,0.0,0.00125122924459287,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q07002,Q07002,DOID:0050902,"group 4 medulloblastoma",,0.0,0.00902839757821284,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q07002,Q07002,DOID:11168,"Anogenital venereal wart",,3.029,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q00532,Q00532,DOID:3347,osteosarcoma,,0.0,4.8147092731184E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00532,Q00532,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,2.85264377776806E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00532,Q00532,DOID:1324,"lung cancer",,0.0,2.90047741718142E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00532,Q00532,DOID:8893,psoriasis,,0.0,3.26790491712507E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00532,Q00532,DOID:1485,"cystic fibrosis",,0.0,3.70128989457372E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00532,Q00532,DOID:0050902,medulloblastoma,,0.0,6.6618969272859E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00532,Q00532,DOID:171,"primitive neuroectodermal tumor",,0.0,0.00100152574024141,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00532,Q00532,DOID:219,"colon cancer",,0.0,0.00238904999887735,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00532,Q00532,DOID:3068,glioblastoma,,0.0,0.00358716683407165,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00532,Q00532,DOID:3069,"astrocytic glioma",,0.0,0.00491310591845987,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00532,Q00532,DOID:13949,"interstitial cystitis",,0.0,0.00848089456702243,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00532,Q00532,DOID:3181,oligodendroglioma,,0.0,0.0133120790494507,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q00532,Q00532,DOID:0050778,"Meckel syndrome",,3.212,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q92772,Q92772,IDG:D3820,"Cell Transformation, Neoplastic",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q92772,Q92772,IDG:D496,"Disease Progression",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q92772,Q92772,IDG:D1665,"Mammary Neoplasms, Experimental",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q92772,Q92772,IDG:D1464,"Neoplasm Metastasis",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q92772,Q92772,IDG:D3789,"Neoplastic Cell Transformation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q92772,Q92772,DOID:8893,psoriasis,,0.0,3.8841994201046E-32,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92772,Q92772,DOID:2394,"ovarian cancer",,0.0,5.27027644902517E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92772,Q92772,DOID:3905,"lung carcinoma",,0.0,1.70608201724525E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92772,Q92772,DOID:1324,"lung cancer",,0.0,1.03058602406479E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92772,Q92772,DOID:305,Carcinoma,,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q92772,Q92772,DOID:0050778,"Meckel syndrome",,3.339,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q8IVW4,Q8IVW4,DOID:2394,"ovarian cancer",,0.0,5.24548822511213E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q8IVW4,Q8IVW4,DOID:3347,osteosarcoma,,0.0,2.76663908090644E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q8IVW4,Q8IVW4,DOID:305,Carcinoma,,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q8IVW4,Q8IVW4,DOID:0050778,"Meckel syndrome",,3.516,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q8IVW4,Q8IVW4,DOID:0050777,"Joubert syndrome",,3.173,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P49761,P49761,DOID:2394,"ovarian cancer",,0.0,1.18000994669131E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49761,P49761,DOID:3347,osteosarcoma,,0.0,1.20266620306665E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P49761,P49761,DOID:305,Carcinoma,,0.0,0.7,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P49761,P49761,DOID:8778,"Crohn's disease",,0.0,0.9,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q8TD08,Q8TD08,DOID:11054,"Urinary Bladder Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q8TD08,Q8TD08,IDG:D695,"Bladder Neoplasm",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q8TD08,Q8TD08,DOID:5074,ependymoma,,0.0,1.50553070120028E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q8TD08,Q8TD08,DOID:10112,"Sleeping sickness",,4.143,2.1,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P31152,P31152,DOID:8893,psoriasis,,0.0,4.84050925676531E-64,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P31152,P31152,DOID:657,"aldosterone-producing adenoma",,0.0,0.0143787872289871,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P31152,P31152,DOID:305,Carcinoma,,0.0,0.7,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P31152,P31152,DOID:424,"Pulmonary immaturity",,4.45,2.2,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:9253,"Gastrointestinal stromal tumor",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,IDG:D4369,"Hamman-Rich syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,IDG:D4370,"Pancreatic Neuroendocrine Tumor",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,IDG:D2344,"Renal Cell Carcinoma",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:3908,"non-small cell lung cancer",,0.0,6.12407193283221E-15,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:2394,"ovarian cancer",,0.0,1.60799077252996E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:8893,psoriasis,,0.0,6.15500893376108E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:399,tuberculosis,,0.0,6.17572436781084E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:1612,"Breast cancer",,0.0,5.07515301886934E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:3347,osteosarcoma,,0.0,1.31726761864461E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:11870,"Pick disease",,0.0,2.58476026320728E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:3008,"invasive ductal carcinoma",,0.0,0.00251087339340637,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:3857,"medulloblastoma, large-cell",,0.0,0.00264146955734198,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:9538,"Multiple myeloma",,0.0,0.00372960923926633,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:1785,"pituitary cancer",,0.0,0.00805407398159812,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:1485,"cystic fibrosis",,0.0,0.00924250792780669,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:305,Carcinoma,,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9HAZ1,Q9HAZ1,DOID:263,"Kidney cancer",,0.0,0.7,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P19784,P19784,DOID:1749,"Carcinoma, Squamous Cell",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P19784,P19784,IDG:D4285,"Skin Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P19784,P19784,DOID:1749,"Squamous cell carcinoma",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P19784,P19784,DOID:2394,"ovarian cancer",,0.0,9.59670624789218E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P19784,P19784,DOID:9351,"diabetes mellitus",,0.0,0.00136423596999125,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P19784,P19784,DOID:8893,psoriasis,,0.0,0.00495954992666629,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P19784,P19784,DOID:7574,"intraductal papillary-mucinous carcinoma (IPMC)",,0.0,0.00551830317810626,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P19784,P19784,DOID:7575,"intraductal papillary-mucinous neoplasm (IPMN)",,0.0,0.0130551622207037,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P19784,P19784,DOID:305,Carcinoma,,0.0,0.5,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P19784,P19784,DOID:162,Cancer,,3.373,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9Y463,Q9Y463,IDG:D5652,"ABDOMINAL OBESITY-METABOLIC SYNDROME 3",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9Y463,Q9Y463,DOID:2394,"Ovarian Neoplasms",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9Y463,Q9Y463,IDG:D402,Hypercholesterolemia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y463,Q9Y463,IDG:D37,"Hypertensive disease",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y463,Q9Y463,IDG:D81,"Increase in blood pressure",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y463,Q9Y463,IDG:D4108,"Obesity, Abdominal",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y463,Q9Y463,IDG:D3587,"Serum cholesterol raised",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y463,Q9Y463,IDG:D2317,"ovarian neoplasm",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y463,Q9Y463,DOID:305,Carcinoma,,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9Y463,Q9Y463,DOID:9970,Obesity,,0.0,4.0,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/Q9Y463,Q9Y463,DOID:9351,"diabetes mellitus",,0.0,4.0,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/Q9Y463,Q9Y463,DOID:14250,"Down syndrome",,3.239,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9Y463,Q9Y463,DOID:162,Cancer,,3.14,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:9253,"Gastrointestinal Stromal Tumors",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:3908,"non-small cell lung cancer",,0.0,3.07092530066395E-21,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:0050902,"group 3 medulloblastoma",,0.0,1.15373538774433E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:2394,"ovarian cancer",,0.0,3.17453385128055E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:1485,"cystic fibrosis",,0.0,5.15471176035145E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:14203,"juvenile dermatomyositis",,0.0,8.0060434853514E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:3068,glioblastoma,,0.0,1.03000697954774E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:171,"primitive neuroectodermal tumor",,0.0,1.06171882862758E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:3948,"adrenocortical carcinoma",,0.0,2.623963511537E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:8577,"ulcerative colitis",,0.0,3.00002169585246E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:3857,"medulloblastoma, large-cell",,0.0,3.92266231141551E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:8893,psoriasis,,0.0,4.39468705246908E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:3347,osteosarcoma,,0.0,0.00109121863346351,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:399,"tuberculosis and treatment for 6 months",,0.0,0.00114132693800401,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:7575,"intraductal papillary-mucinous neoplasm (IPMN)",,0.0,0.00150669353761985,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:11870,"Pick disease",,0.0,0.00158497092955521,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:8778,"Crohn's disease",,0.0,0.00161218387707112,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:7148,"Rheumatoid arthritis",,0.0,0.002504130062424,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,0.00286593712544432,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:1324,"lung cancer",,0.0,0.00311724678940717,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:7574,"intraductal papillary-mucinous carcinoma (IPMC)",,0.0,0.00704381150900063,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:10223,dermatomyositis,,0.0,0.0125761856360629,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:11335,sarcoidosis,,0.0,0.0148472982431713,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:5517,"gastric carcinoma",,0.0,0.0168320787514706,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:5074,ependymoma,,0.0,0.0172689873751817,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:3181,oligodendroglioma,,0.0,0.0210772241869226,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:784,"chronic kidney disease",,0.0,0.0367993794549958,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:305,Carcinoma,,0.0,0.7,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q92630,Q92630,DOID:14250,"Down syndrome",,3.426,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/O43781,O43781,DOID:5074,"posterior fossa group B ependymoma",,0.0,6.36358500603304E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O43781,O43781,DOID:1790,"malignant mesothelioma",,0.0,9.28972862626133E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O43781,O43781,DOID:3910,"lung adenocarcinoma",,0.0,4.24017673087702E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O43781,O43781,DOID:1324,"lung cancer",,0.0,6.82324254608908E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/O43781,O43781,DOID:305,Carcinoma,,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/O43781,O43781,DOID:263,"Kidney cancer",,0.0,0.5,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/O43781,O43781,DOID:14250,"Down syndrome",,3.373,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9NR20,Q9NR20,DOID:0050902,"group 4 medulloblastoma",,0.0,4.49233379829877E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NR20,Q9NR20,DOID:14250,"Down syndrome",,3.95,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q8NE63,Q8NE63,IDG:D3628,"Carcinoma of thyroid",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q8NE63,Q8NE63,IDG:D3627,"Liver cell carcinoma",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q8NE63,Q8NE63,IDG:D2344,"Renal Cell Carcinoma",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q8NE63,Q8NE63,DOID:305,Carcinoma,,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q8NE63,Q8NE63,IDG:D1947,"Otitis Media",,3.116,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,IDG:D4369,"Hamman-Rich syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:3908,"non-small cell lung cancer",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,3.70532397615798E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:332,"Amyotrophic lateral sclerosis",,0.0,7.16573936297663E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:3910,"lung adenocarcinoma",,0.0,9.15947312166097E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:171,"primitive neuroectodermal tumor",,0.0,2.9977132360825E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:3347,osteosarcoma,,0.0,6.08543809165822E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:423,"acute quadriplegic myopathy",,0.0,5.37364843438252E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:2394,"ovarian cancer",,0.0,7.64029384805863E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:10223,dermatomyositis,,0.0,8.495461032455E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:8893,psoriasis,,0.0,9.29718434766553E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:0050902,"group 4 medulloblastoma",,0.0,0.0011687445585925,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:14250,"Down syndrome",,0.0,0.00282083731451393,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:11870,"Pick disease",,0.0,0.00400832223689652,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:2476,"hereditary spastic paraplegia",,0.0,0.00581014418183384,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:5074,ependymoma,,0.0,0.00625665540413311,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:1926,"Gaucher disease type 1",,0.0,0.00882671131359319,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:3857,"medulloblastoma, large-cell",,0.0,0.0105501203092021,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:7574,"intraductal papillary-mucinous carcinoma (IPMC)",,0.0,0.011628228285692,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:3068,glioblastoma,,0.0,0.0131525138053049,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,0.0184778859885002,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:678,"progressive supranuclear palsy",,0.0,0.0208341688401196,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:3181,oligodendroglioma,,0.0,0.0349324899117151,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:3069,"astrocytic glioma",,0.0,0.0406516286158337,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:3070,"pediatric high grade glioma",,0.0,0.0425268888654283,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:305,Carcinoma,,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q13523,Q13523,DOID:3571,"Liver cancer",,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9UPE1,Q9UPE1,IDG:D4369,"Hamman-Rich syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UPE1,Q9UPE1,DOID:3908,"non-small cell lung cancer",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UPE1,Q9UPE1,DOID:8893,psoriasis,,0.0,4.13278239664688E-31,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UPE1,Q9UPE1,DOID:3347,osteosarcoma,,0.0,0.00514618304013991,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UPE1,Q9UPE1,DOID:305,Carcinoma,,0.0,0.5,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9UPE1,Q9UPE1,DOID:905,"Zellweger syndrome",,3.199,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9UPE1,Q9UPE1,DOID:0060320,"Inguinal hernia",,3.19,1.6,"JensenLab Text Mining"

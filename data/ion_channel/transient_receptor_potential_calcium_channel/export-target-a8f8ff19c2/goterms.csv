@@ -1,0 +1,472 @@
+"URL","Uniprot ID","GOTerm","GOType"
+https://pharos.nih.gov/idg/targets/O94759,O94759,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O94759,O94759,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O94759,O94759,"lysosomal membrane",GO Component
+https://pharos.nih.gov/idg/targets/O94759,O94759,"cell projection",GO Component
+https://pharos.nih.gov/idg/targets/O94759,O94759,"cytoplasmic vesicle membrane",GO Component
+https://pharos.nih.gov/idg/targets/O94759,O94759,lysosome,GO Component
+https://pharos.nih.gov/idg/targets/O94759,O94759,"specific granule membrane",GO Component
+https://pharos.nih.gov/idg/targets/O94759,O94759,"tertiary granule membrane",GO Component
+https://pharos.nih.gov/idg/targets/O94759,O94759,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/O94759,O94759,"ficolin-1-rich granule membrane",GO Component
+https://pharos.nih.gov/idg/targets/O94759,O94759,"calcium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/O94759,O94759,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O94759,O94759,"cation channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O94759,O94759,"calcium-release channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O94759,O94759,"ligand-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O94759,O94759,"sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O94759,O94759,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"cellular response to calcium ion",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"neutrophil degranulation",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"cellular response to hydrogen peroxide",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"regulation of actin cytoskeleton reorganization",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"zinc II ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"temperature homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"calcium ion transmembrane import into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"calcium ion import across plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"calcium-mediated signaling using intracellular calcium source",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"cellular response to purine-containing compound",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"cellular response to temperature stimulus",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"dendritic cell chemotaxis",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"dendritic cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"regulation of filopodium assembly",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"release of sequestered calcium ion into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/O94759,O94759,"response to purine-containing compound",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"axonal growth cone",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"cell body",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"growth cone membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,melanosome,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"cation channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"ion transmembrane transporter activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"positive regulation of axon extension",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"sensory perception",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"positive regulation of calcium ion import",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"response to heat",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S1,Q9Y5S1,"response to temperature stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,ruffle,GO Component
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"actin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"myosin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"protein autophosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"actomyosin structure organization",GO Process
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"protein tetramerization",GO Process
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"calcium-dependent cell-matrix adhesion",GO Process
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"cellular magnesium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q96QT4,Q96QT4,"necroptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q9HCF6,Q9HCF6,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9HCF6,Q9HCF6,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9HCF6,Q9HCF6,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9HCF6,Q9HCF6,"cation channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9HCF6,Q9HCF6,"calcium activated cation channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9HCF6,Q9HCF6,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9HCF6,Q9HCF6,"cation transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9HCF6,Q9HCF6,"protein tetramerization",GO Process
+https://pharos.nih.gov/idg/targets/Q9HCF6,Q9HCF6,"sensory perception of temperature stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q9HCF6,Q9HCF6,"detection of temperature stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q9HCX4,Q9HCX4,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9HCX4,Q9HCX4,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9HCX4,Q9HCX4,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/Q9HCX4,Q9HCX4,"cis-Golgi network",GO Component
+https://pharos.nih.gov/idg/targets/Q9HCX4,Q9HCX4,"nuclear envelope",GO Component
+https://pharos.nih.gov/idg/targets/Q9HCX4,Q9HCX4,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9HCX4,Q9HCX4,"store-operated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9HCX4,Q9HCX4,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9HCX4,Q9HCX4,"manganese ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9HCX4,Q9HCX4,"regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/Q9HCX4,Q9HCX4,"platelet activation",GO Process
+https://pharos.nih.gov/idg/targets/Q9HCX4,Q9HCX4,"single fertilization",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"apical plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"cytoplasmic vesicle",GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"adherens junction",GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"growth cone",GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,cilium,GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"focal adhesion",GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,filopodium,GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"cortical actin cytoskeleton",GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,lamellipodium,GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"cytoplasmic microtubule",GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"ruffle membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"protein kinase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"actin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"beta-tubulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"protein kinase C binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"actin filament binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"microtubule binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"alpha-tubulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"cation channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"SH2 domain binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"osmosensor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"stretch-activated, cation-selective, calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"actin filament organization",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"positive regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"actin cytoskeleton reorganization",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"negative regulation of transcription from RNA polymerase II promoter",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"response to mechanical stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"negative regulation of neuron projection development",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"positive regulation of ERK1 and ERK2 cascade",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"glucose homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"positive regulation of JNK cascade",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"microtubule polymerization",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"cell volume homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"response to insulin",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"positive regulation of gene expression",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"positive regulation of interleukin-6 secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"positive regulation of chemokine (C-C motif) ligand 5 production",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"cell-cell junction assembly",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"calcium ion import",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"cellular calcium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"positive regulation of monocyte chemotactic protein-1 production",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"positive regulation of macrophage chemotaxis",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"positive regulation of inflammatory response",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"hyperosmotic salinity response",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"multicellular organismal water homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"cortical microtubule organization",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"cellular hypotonic response",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"cellular response to heat",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"cellular response to osmotic stress",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"blood vessel endothelial cell delamination",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"cartilage development involved in endochondral bone morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"cellular hypotonic salinity response",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"diet induced thermogenesis",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"negative regulation of brown fat cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"osmosensory signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"positive regulation of chemokine (C-X-C motif) ligand 1 production",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"positive regulation of energy homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"positive regulation of macrophage inflammatory protein 1 alpha production",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"positive regulation of microtubule depolymerization",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"positive regulation of vascular permeability",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"regulation of response to osmotic stress",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"signal transduction involved in regulation of aerobic respiration",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBA0,Q9HBA0,"vasopressin secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q9NZQ8,Q9NZQ8,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NZQ8,Q9NZQ8,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NZQ8,Q9NZQ8,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q9NZQ8,Q9NZQ8,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/Q9NZQ8,Q9NZQ8,"voltage-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9NZQ8,Q9NZQ8,"ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9NZQ8,Q9NZQ8,"potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9NZQ8,Q9NZQ8,"sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9NZQ8,Q9NZQ8,"calcium activated cation channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9NZQ8,Q9NZQ8,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9NZQ8,Q9NZQ8,"sensory perception of taste",GO Process
+https://pharos.nih.gov/idg/targets/O75762,O75762,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O75762,O75762,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O75762,O75762,"stereocilium bundle",GO Component
+https://pharos.nih.gov/idg/targets/O75762,O75762,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/O75762,O75762,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O75762,O75762,"calcium-release channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O75762,O75762,"channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O75762,O75762,"temperature-gated cation channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O75762,O75762,"response to hydrogen peroxide",GO Process
+https://pharos.nih.gov/idg/targets/O75762,O75762,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/O75762,O75762,"response to drug",GO Process
+https://pharos.nih.gov/idg/targets/O75762,O75762,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O75762,O75762,"sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/O75762,O75762,"ion transport",GO Process
+https://pharos.nih.gov/idg/targets/O75762,O75762,"protein homotetramerization",GO Process
+https://pharos.nih.gov/idg/targets/O75762,O75762,"response to cold",GO Process
+https://pharos.nih.gov/idg/targets/O75762,O75762,"response to organic cyclic compound",GO Process
+https://pharos.nih.gov/idg/targets/O75762,O75762,"response to organic substance",GO Process
+https://pharos.nih.gov/idg/targets/O75762,O75762,"detection of mechanical stimulus involved in sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/O75762,O75762,"response to pain",GO Process
+https://pharos.nih.gov/idg/targets/O75762,O75762,"detection of chemical stimulus involved in sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/O75762,O75762,thermoception,GO Process
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"lysosomal membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"late endosome",GO Component
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"cell projection",GO Component
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"late endosome membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"endosome membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"phagocytic vesicle membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,lysosome,GO Component
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"phagocytic cup",GO Component
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"cation channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"iron ion transmembrane transporter activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"NAADP-sensitive calcium-release channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"cation transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"adaptive immune response",GO Process
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"autophagosome maturation",GO Process
+https://pharos.nih.gov/idg/targets/Q9GZU1,Q9GZU1,"transferrin transport",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"external side of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"intrinsic component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"dendritic spine membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"phosphatidylinositol binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"transmembrane signaling receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"calcium-release channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"phosphoprotein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"chloride channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"excitatory extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"temperature-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"positive regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"negative regulation of transcription from RNA polymerase II promoter",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"lipid metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"cellular response to tumor necrosis factor",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"positive regulation of nitric oxide biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"detection of temperature stimulus involved in sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"protein homotetramerization",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"cellular response to nerve growth factor stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"calcium ion import across plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"cellular response to temperature stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"glutamate secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"response to peptide hormone",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"behavioral response to pain",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"cellular response to heat",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"detection of chemical stimulus involved in sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"diet induced thermogenesis",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"cellular response to acidic pH",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"smooth muscle contraction involved in micturition",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"chemosensory behavior",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"cellular response to ATP",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"microglial cell activation",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"fever generation",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"sensory perception of mechanical stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"cellular response to alkaloid",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"negative regulation of establishment of blood-brain barrier",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"detection of temperature stimulus involved in thermoception",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"peptide secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"positive regulation of gastric acid secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,"response to capsazepine",GO Process
+https://pharos.nih.gov/idg/targets/Q8NER1,Q8NER1,thermoception,GO Process
+https://pharos.nih.gov/idg/targets/Q7Z4N2,Q7Z4N2,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q7Z4N2,Q7Z4N2,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q7Z4N2,Q7Z4N2,"new growing cell tip",GO Component
+https://pharos.nih.gov/idg/targets/Q7Z4N2,Q7Z4N2,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q7Z4N2,Q7Z4N2,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q7Z4N2,Q7Z4N2,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q7Z4N2,Q7Z4N2,"visual perception",GO Process
+https://pharos.nih.gov/idg/targets/Q7Z4N2,Q7Z4N2,"retinal rod cell development",GO Process
+https://pharos.nih.gov/idg/targets/Q7Z4N2,Q7Z4N2,"protein tetramerization",GO Process
+https://pharos.nih.gov/idg/targets/Q7Z4N2,Q7Z4N2,"calcium ion transport into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/Q7Z4N2,Q7Z4N2,"G-protein coupled glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q7Z4N2,Q7Z4N2,"cellular response to light stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q9H1D0,Q9H1D0,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9H1D0,Q9H1D0,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9H1D0,Q9H1D0,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/Q9H1D0,Q9H1D0,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9H1D0,Q9H1D0,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9H1D0,Q9H1D0,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9H1D0,Q9H1D0,"response to calcium ion",GO Process
+https://pharos.nih.gov/idg/targets/Q9H1D0,Q9H1D0,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9H1D0,Q9H1D0,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9H1D0,Q9H1D0,"regulation of calcium ion-dependent exocytosis",GO Process
+https://pharos.nih.gov/idg/targets/Q9H1D0,Q9H1D0,"calcium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q9H1D0,Q9H1D0,"calcium ion import across plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"Golgi apparatus",GO Component
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"sodium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"calcium activated cation channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"positive regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"calcium-mediated signaling",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"positive regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"negative regulation of osteoblast differentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"positive regulation of fat cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"protein sumoylation",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"positive regulation of vasoconstriction",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"positive regulation of canonical Wnt signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"adaptive immune response",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"sodium ion import across plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"regulation of heart rate by cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"positive regulation of insulin secretion involved in cellular response to glucose stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"positive regulation of heart rate",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"positive regulation of adipose tissue development",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"regulation of ventricular cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"dendritic cell chemotaxis",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,vasoconstriction,GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"membrane depolarization during AV node cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"negative regulation of bone mineralization",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"regulation of T cell cytokine production",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"membrane depolarization during Purkinje myocyte cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"membrane depolarization during bundle of His cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"positive regulation of atrial cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q8TD43,Q8TD43,"positive regulation of regulation of vascular smooth muscle cell membrane depolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,membrane,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"slit diaphragm",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"protein homodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"actin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"actinin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"ATPase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"clathrin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"inositol 1,4,5 trisphosphate binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"store-operated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"cation channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"manganese ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"negative regulation of dendrite morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"neuron differentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"positive regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"positive regulation of peptidyl-threonine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,aging,GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"cation transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"platelet activation",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"cellular response to hydrogen peroxide",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"single fertilization",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"cellular response to hypoxia",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"positive regulation of neuron differentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"positive regulation of calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y210,Q9Y210,"positive regulation of ion transmembrane transporter activity",GO Process
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"membrane raft",GO Component
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"growth cone",GO Component
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"actin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"actinin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"ATPase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"clathrin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"inositol 1,4,5 trisphosphate binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"store-operated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"positive regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"manganese ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"negative regulation of dendrite morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"nervous system development",GO Process
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"neuron differentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"positive regulation of axon extension",GO Process
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"positive regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"positive regulation of peptidyl-threonine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/Q9UL62,Q9UL62,"regulation of membrane hyperpolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,"inositol 1,4,5 trisphosphate binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,"store-operated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,"response to calcium ion",GO Process
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,"manganese ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,"platelet activation",GO Process
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,phototransduction,GO Process
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,"single fertilization",GO Process
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,"response to ATP",GO Process
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,"positive regulation of calcium ion transport into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/Q13507,Q13507,"positive regulation of cardiac muscle hypertrophy in response to stress",GO Process
+https://pharos.nih.gov/idg/targets/Q8NET8,Q8NET8,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NET8,Q8NET8,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NET8,Q8NET8,"receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q8NET8,Q8NET8,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8NET8,Q8NET8,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q8NET8,Q8NET8,"positive regulation of calcium ion import",GO Process
+https://pharos.nih.gov/idg/targets/Q8NET8,Q8NET8,"response to heat",GO Process
+https://pharos.nih.gov/idg/targets/Q8NET8,Q8NET8,"negative regulation of hair cycle",GO Process
+https://pharos.nih.gov/idg/targets/Q7Z2W7,Q7Z2W7,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q7Z2W7,Q7Z2W7,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q7Z2W7,Q7Z2W7,"membrane raft",GO Component
+https://pharos.nih.gov/idg/targets/Q7Z2W7,Q7Z2W7,"endoplasmic reticulum membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q7Z2W7,Q7Z2W7,"external side of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q7Z2W7,Q7Z2W7,"protein homodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/Q7Z2W7,Q7Z2W7,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q7Z2W7,Q7Z2W7,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q7Z2W7,Q7Z2W7,"protein homotetramerization",GO Process
+https://pharos.nih.gov/idg/targets/Q7Z2W7,Q7Z2W7,"cellular calcium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q7Z2W7,Q7Z2W7,"response to cold",GO Process
+https://pharos.nih.gov/idg/targets/Q7Z2W7,Q7Z2W7,"protein homotrimerization",GO Process
+https://pharos.nih.gov/idg/targets/Q7Z2W7,Q7Z2W7,"detection of temperature stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q7Z2W7,Q7Z2W7,thermoception,GO Process
+https://pharos.nih.gov/idg/targets/Q8TDD5,Q8TDD5,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8TDD5,Q8TDD5,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8TDD5,Q8TDD5,"lysosomal membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8TDD5,Q8TDD5,"early endosome membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8TDD5,Q8TDD5,"late endosome membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8TDD5,Q8TDD5,"autophagosome membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8TDD5,Q8TDD5,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8TDD5,Q8TDD5,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q8TDD5,Q8TDD5,"locomotory behavior",GO Process
+https://pharos.nih.gov/idg/targets/Q8TDD5,Q8TDD5,"auditory receptor cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,caveola,GO Component
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"cortical cytoskeleton",GO Component
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"protein complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"basolateral plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"inositol 1,4,5 trisphosphate binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"store-operated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"cadherin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"beta-catenin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"manganese ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"calcium ion import",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"oligodendrocyte differentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBN4,Q9UBN4,"gamma-aminobutyric acid secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q9NQA5,Q9NQA5,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NQA5,Q9NQA5,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NQA5,Q9NQA5,"apical plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NQA5,Q9NQA5,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9NQA5,Q9NQA5,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9NQA5,Q9NQA5,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9NQA5,Q9NQA5,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9NQA5,Q9NQA5,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9NQA5,Q9NQA5,"protein tetramerization",GO Process
+https://pharos.nih.gov/idg/targets/Q9NQA5,Q9NQA5,"calcium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q9NQA5,Q9NQA5,"calcium ion import across plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/Q9NQA5,Q9NQA5,"regulation of urine volume",GO Process

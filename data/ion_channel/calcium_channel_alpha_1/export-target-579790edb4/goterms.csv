@@ -1,0 +1,232 @@
+"URL","Uniprot ID","GOTerm","GOType"
+https://pharos.nih.gov/idg/targets/O43497,O43497,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/O43497,O43497,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O43497,O43497,"voltage-gated calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/O43497,O43497,"voltage-gated sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O43497,O43497,"scaffold protein binding",GO Function
+https://pharos.nih.gov/idg/targets/O43497,O43497,"voltage-gated calcium channel activity involved SA node cell action potential",GO Function
+https://pharos.nih.gov/idg/targets/O43497,O43497,"low voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O43497,O43497,"voltage-gated calcium channel activity involved in AV node cell action potential",GO Function
+https://pharos.nih.gov/idg/targets/O43497,O43497,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"AV node cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"regulation of atrial cardiac muscle cell membrane depolarization",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"regulation of heart rate by cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"cardiac muscle cell action potential involved in contraction",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"SA node cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"calcium ion import",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"membrane depolarization during SA node cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"positive regulation of calcium ion-dependent exocytosis",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"AV node cell to bundle of His cell signaling",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"membrane depolarization during AV node cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"response to nickel cation",GO Process
+https://pharos.nih.gov/idg/targets/O43497,O43497,"SA node cell to atrial cardiac muscle cell signaling",GO Process
+https://pharos.nih.gov/idg/targets/Q9ULQ1,Q9ULQ1,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9ULQ1,Q9ULQ1,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9ULQ1,Q9ULQ1,endosome,GO Component
+https://pharos.nih.gov/idg/targets/Q9ULQ1,Q9ULQ1,"lysosomal membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9ULQ1,Q9ULQ1,"endosome membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9ULQ1,Q9ULQ1,lysosome,GO Component
+https://pharos.nih.gov/idg/targets/Q9ULQ1,Q9ULQ1,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9ULQ1,Q9ULQ1,"voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9ULQ1,Q9ULQ1,"NAADP-sensitive calcium-release channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9ULQ1,Q9ULQ1,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9ULQ1,Q9ULQ1,"ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9ULQ1,Q9ULQ1,"positive regulation of autophagy",GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O95180,O95180,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/O95180,O95180,"voltage-gated calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/O95180,O95180,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/O95180,O95180,"voltage-gated sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O95180,O95180,"scaffold protein binding",GO Function
+https://pharos.nih.gov/idg/targets/O95180,O95180,"low voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O95180,O95180,"cellular response to hormone stimulus",GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,"muscle organ development",GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,"muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,transport,GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,"calcium ion import",GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,"positive regulation of acrosome reaction",GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,"myoblast fusion",GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,"regulation of heart contraction",GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,"positive regulation of calcium ion-dependent exocytosis",GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,"cellular response to potassium ion",GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,"aldosterone biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/O95180,O95180,"cortisol biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/O00555,O00555,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/O00555,O00555,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/O00555,O00555,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O00555,O00555,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/O00555,O00555,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/O00555,O00555,"cell projection",GO Component
+https://pharos.nih.gov/idg/targets/O00555,O00555,"voltage-gated calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/O00555,O00555,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/O00555,O00555,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O00555,O00555,"syntaxin binding",GO Function
+https://pharos.nih.gov/idg/targets/O00555,O00555,"voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O00555,O00555,"high voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O00555,O00555,"cell death",GO Process
+https://pharos.nih.gov/idg/targets/O00555,O00555,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/O00555,O00555,"positive regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/O00555,O00555,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/O00555,O00555,"membrane depolarization",GO Process
+https://pharos.nih.gov/idg/targets/O00555,O00555,"regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/O00555,O00555,"cellular response to amyloid-beta",GO Process
+https://pharos.nih.gov/idg/targets/O00555,O00555,"response to amyloid-beta",GO Process
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,presynapse,GO Component
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"voltage-gated calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"calcium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"protein C-terminus binding",GO Function
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"high voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"regulation of blood pressure",GO Process
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"locomotory behavior",GO Process
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"membrane depolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"neurotransmitter secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"regulation of calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"regulation of heart contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q00975,Q00975,"response to pain",GO Process
+https://pharos.nih.gov/idg/targets/Q9P0X4,Q9P0X4,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9P0X4,Q9P0X4,"voltage-gated calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9P0X4,Q9P0X4,"voltage-gated sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9P0X4,Q9P0X4,"voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9P0X4,Q9P0X4,"low voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9P0X4,Q9P0X4,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9P0X4,Q9P0X4,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9P0X4,Q9P0X4,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9P0X4,Q9P0X4,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q9P0X4,Q9P0X4,"flagellated sperm motility",GO Process
+https://pharos.nih.gov/idg/targets/Q9P0X4,Q9P0X4,"calcium ion import",GO Process
+https://pharos.nih.gov/idg/targets/Q9P0X4,Q9P0X4,sleep,GO Process
+https://pharos.nih.gov/idg/targets/Q9P0X4,Q9P0X4,"positive regulation of calcium ion-dependent exocytosis",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"Z disc",GO Component
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"voltage-gated calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"L-type voltage-gated calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"alpha-actinin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"high voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"voltage-gated calcium channel activity involved in cardiac muscle cell action potential",GO Function
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"voltage-gated calcium channel activity involved in AV node cell action potential",GO Function
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"positive regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"heart development",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"membrane depolarization during cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"regulation of heart rate by cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"cardiac muscle cell action potential involved in contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"calcium ion transport into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"embryonic forelimb morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"camera-type eye development",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"cell communication by electrical coupling involved in cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"regulation of ventricular cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"membrane depolarization during AV node cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"calcium ion transmembrane transport via high voltage-gated calcium channel",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"calcium-mediated signaling using extracellular calcium source",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"immune system development",GO Process
+https://pharos.nih.gov/idg/targets/Q13936,Q13936,"membrane depolarization during atrial cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,"voltage-gated calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,T-tubule,GO Component
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,"L-type voltage-gated calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,"I band",GO Component
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,"voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,"high voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,"muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,"cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q13698,Q13698,"cellular response to caffeine",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"Z disc",GO Component
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"voltage-gated calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"L-type voltage-gated calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"alpha-actinin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"ankyrin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"high voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"voltage-gated calcium channel activity involved in cardiac muscle cell action potential",GO Function
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"voltage-gated calcium channel activity involved SA node cell action potential",GO Function
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"calcium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"sensory perception of sound",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"adenylate cyclase-modulating G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"membrane depolarization during cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"regulation of heart rate by cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"cardiac muscle cell action potential involved in contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"calcium ion import",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"regulation of potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"regulation of potassium ion transmembrane transporter activity",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"positive regulation of calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"membrane depolarization during SA node cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q01668,Q01668,"regulation of atrial cardiac muscle cell membrane repolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"lysosomal membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"endosome membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,lysosome,GO Component
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"protein kinase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"NAADP-sensitive calcium-release channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"calcium-mediated signaling",GO Process
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"lysosome organization",GO Process
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"regulation of autophagy",GO Process
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"cellular calcium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"smooth muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q8NHX9,Q8NHX9,"response to vitamin D",GO Process
+https://pharos.nih.gov/idg/targets/O60840,O60840,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O60840,O60840,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/O60840,O60840,"voltage-gated calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/O60840,O60840,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/O60840,O60840,"photoreceptor outer segment",GO Component
+https://pharos.nih.gov/idg/targets/O60840,O60840,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/O60840,O60840,"voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O60840,O60840,"high voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O60840,O60840,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/O60840,O60840,"visual perception",GO Process
+https://pharos.nih.gov/idg/targets/O60840,O60840,"cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/O60840,O60840,"T cell homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/O60840,O60840,"regulation of T cell receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O60840,O60840,"negative regulation of voltage-gated calcium channel activity",GO Process
+https://pharos.nih.gov/idg/targets/O60840,O60840,"detection of light stimulus involved in visual perception",GO Process
+https://pharos.nih.gov/idg/targets/Q15878,Q15878,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q15878,Q15878,"voltage-gated calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q15878,Q15878,"calcium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q15878,Q15878,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15878,Q15878,"voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15878,Q15878,"high voltage-gated calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15878,Q15878,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q15878,Q15878,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q15878,Q15878,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q15878,Q15878,"membrane depolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q15878,Q15878,"regulation of insulin secretion",GO Process

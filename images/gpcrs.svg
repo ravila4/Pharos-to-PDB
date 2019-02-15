@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="52mm" height="28mm" viewBox="0 0 5200 2800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(255,255,255)" stroke="none" d="M 30,0 L 5216,0 5216,2814 30,2814 30,0 Z"/>
+ <path fill="rgb(255,255,255)" stroke="none" d="M 2623,2814 L 30,2814 30,0 5216,0 5216,2814 2623,2814 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 1637,56 C 1495,56 1354,78 1219,122 1084,165 957,230 842,314 728,397 627,498 544,612 460,727 395,854 352,989 308,1124 286,1265 286,1406 286,1547 308,1688 352,1823 395,1958 460,2085 544,2200 627,2314 728,2415 842,2498 957,2582 1084,2647 1219,2690 1354,2734 1495,2757 1636,2757 1778,2757 1919,2734 2054,2690 2189,2647 2316,2582 2431,2498 2545,2415 2645,2314 2728,2200 2812,2085 2877,1958 2920,1823 2956,1714 2977,1602 2984,1488 L 1637,1407 1637,1407 1637,1407 1637,1407 1637,1407 1637,1407 1637,1407 1637,1407 1637,1407 1637,1407 1637,1407 1637,1407 1637,1407 1637,1407 1637,1407 1637,1407 1637,56 Z"/>
+ <path fill="rgb(89,131,176)" stroke="none" d="M 2984,1488 C 2986,1461 2987,1433 2987,1407 2987,1265 2964,1124 2920,989 2877,854 2812,727 2728,612 2673,537 2611,467 2542,404 L 1637,1407 1637,1407 1637,1407 1637,1407 1637,1407 2984,1488 Z"/>
+ <path fill="rgb(52,101,164)" stroke="none" d="M 2542,404 C 2506,372 2469,342 2431,314 2316,230 2189,165 2054,122 1919,78 1778,56 1637,56 L 1637,1407 1637,1407 1637,1407 1637,1407 2542,404 Z"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="698" y="2252"><tspan fill="rgb(0,0,0)" stroke="none">57</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="2427" y="1107"><tspan fill="rgb(0,0,0)" stroke="none">11</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1909" y="492"><tspan fill="rgb(0,0,0)" stroke="none">9</tspan></tspan></tspan></text>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 3466,1014 L 3360,1014 3360,803 3571,803 3571,1014 3466,1014 Z"/>
+ <path fill="rgb(89,131,176)" stroke="none" d="M 3466,1511 L 3360,1511 3360,1301 3571,1301 3571,1511 3466,1511 Z"/>
+ <path fill="rgb(52,101,164)" stroke="none" d="M 3466,2009 L 3360,2009 3360,1798 3571,1798 3571,2009 3466,2009 Z"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3671" y="1028"><tspan fill="rgb(0,0,0)" stroke="none">Class A</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3671" y="1525"><tspan fill="rgb(0,0,0)" stroke="none">Class B</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3671" y="2023"><tspan fill="rgb(0,0,0)" stroke="none">Class C</tspan></tspan></tspan></text>
+</svg>

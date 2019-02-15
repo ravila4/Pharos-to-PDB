@@ -1,0 +1,392 @@
+"URL","Uniprot ID","GOTerm","GOType"
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,membrane,GO Component
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"neuron projection",GO Component
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,synapse,GO Component
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"NMDA selective glutamate receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"protein phosphatase 2A binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"NMDA glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"glycine binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"dendrite development",GO Process
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"prepulse inhibition",GO Process
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"response to ethanol",GO Process
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"terminal bouton",GO Component
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"kainate selective glutamate receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"PDZ domain binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"SH3 domain binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"kainate selective glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"positive regulation of neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"cellular response to glucose stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"receptor clustering",GO Process
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"synaptic transmission, glutamatergic",GO Process
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"protein retention in ER lumen",GO Process
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"regulation of synaptic vesicle fusion to presynaptic active zone membrane",GO Process
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"establishment of localization in cell",GO Process
+https://pharos.nih.gov/idg/targets/O60391,O60391,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/O60391,O60391,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/O60391,O60391,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/O60391,O60391,"NMDA selective glutamate receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/O60391,O60391,"neurotransmitter receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/O60391,O60391,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O60391,O60391,"cation channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O60391,O60391,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O60391,O60391,"glycine binding",GO Function
+https://pharos.nih.gov/idg/targets/O60391,O60391,"ionotropic glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/O60391,O60391,"neurotransmitter binding",GO Function
+https://pharos.nih.gov/idg/targets/O60391,O60391,"regulation of calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/O60391,O60391,"protein insertion into membrane",GO Process
+https://pharos.nih.gov/idg/targets/O60391,O60391,"ionotropic glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"kainate selective glutamate receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"kainate selective glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,transport,GO Process
+https://pharos.nih.gov/idg/targets/P42261,P42261,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Golgi membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"endoplasmic reticulum membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"recycling endosome",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"early endosome membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"ER to Golgi transport vesicle membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"synaptic vesicle",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"AMPA glutamate receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"endocytic vesicle membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"postsynaptic density membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"dendritic spine",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"endoplasmic reticulum-Golgi intermediate compartment membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"recycling endosome membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"neuron spine",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"dendritic spine membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"axonal spine",GO Component
+https://pharos.nih.gov/idg/targets/P42261,P42261,"PDZ domain binding",GO Function
+https://pharos.nih.gov/idg/targets/P42261,P42261,"amyloid-beta binding",GO Function
+https://pharos.nih.gov/idg/targets/P42261,P42261,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P42261,P42261,"glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P42261,P42261,"neurotransmitter receptor activity involved in regulation of postsynaptic cytosolic calcium ion concentration",GO Function
+https://pharos.nih.gov/idg/targets/P42261,P42261,"transmitter-gated ion channel activity involved in regulation of postsynaptic membrane potential",GO Function
+https://pharos.nih.gov/idg/targets/P42261,P42261,"AMPA glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P42261,P42261,"excitatory extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P42261,P42261,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P42261,P42261,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P42261,P42261,"COPII vesicle coating",GO Process
+https://pharos.nih.gov/idg/targets/P42261,P42261,"ER to Golgi vesicle-mediated transport",GO Process
+https://pharos.nih.gov/idg/targets/P42261,P42261,"long term synaptic depression",GO Process
+https://pharos.nih.gov/idg/targets/P42261,P42261,"long-term memory",GO Process
+https://pharos.nih.gov/idg/targets/P42261,P42261,"receptor internalization",GO Process
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"NMDA selective glutamate receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Ras guanyl-nucleotide exchange factor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"glutamate-gated calcium ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"NMDA glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"protein localization",GO Process
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"response to wounding",GO Process
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"MAPK cascade",GO Process
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"neuromuscular process controlling balance",GO Process
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"calcium ion transmembrane import into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"directional locomotion",GO Process
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"negative regulation of protein catabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P39086,P39086,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P39086,P39086,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P39086,P39086,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P39086,P39086,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P39086,P39086,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P39086,P39086,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P39086,P39086,"kainate selective glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P39086,P39086,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P39086,P39086,"nervous system development",GO Process
+https://pharos.nih.gov/idg/targets/P39086,P39086,"glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P39086,P39086,transport,GO Process
+https://pharos.nih.gov/idg/targets/P39086,P39086,"central nervous system development",GO Process
+https://pharos.nih.gov/idg/targets/P39086,P39086,"regulation of synaptic transmission, glutamatergic",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"neuron projection",GO Component
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"synaptic vesicle",GO Component
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"NMDA selective glutamate receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"integral component of postsynaptic density membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"zinc ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Ras guanyl-nucleotide exchange factor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"glutamate-gated calcium ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"NMDA glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"positive regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"response to drug",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"response to amphetamine",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"learning or memory",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"protein localization",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"response to wounding",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"MAPK cascade",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"long-term synaptic potentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"positive regulation of long-term synaptic potentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"visual learning",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,memory,GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"dopamine metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"regulation of sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"response to ethanol",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,neurogenesis,GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"calcium ion transmembrane import into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"directional locomotion",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"negative regulation of protein catabolic process",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"serotonin metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"startle response",GO Process
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,sleep,GO Process
+https://pharos.nih.gov/idg/targets/P48058,P48058,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P48058,P48058,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/P48058,P48058,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P48058,P48058,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P48058,P48058,"extracellular vesicle",GO Component
+https://pharos.nih.gov/idg/targets/P48058,P48058,"AMPA glutamate receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P48058,P48058,"endocytic vesicle membrane",GO Component
+https://pharos.nih.gov/idg/targets/P48058,P48058,"dendritic spine",GO Component
+https://pharos.nih.gov/idg/targets/P48058,P48058,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P48058,P48058,"ionotropic glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P48058,P48058,"AMPA glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P48058,P48058,"excitatory extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P48058,P48058,"glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P48058,P48058,transport,GO Process
+https://pharos.nih.gov/idg/targets/O15399,O15399,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O15399,O15399,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O15399,O15399,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/O15399,O15399,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/O15399,O15399,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/O15399,O15399,"NMDA selective glutamate receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Ras guanyl-nucleotide exchange factor activity",GO Function
+https://pharos.nih.gov/idg/targets/O15399,O15399,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O15399,O15399,"glutamate-gated calcium ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O15399,O15399,"NMDA glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/O15399,O15399,"ionotropic glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/O15399,O15399,"MAPK cascade",GO Process
+https://pharos.nih.gov/idg/targets/O15399,O15399,"adult locomotory behavior",GO Process
+https://pharos.nih.gov/idg/targets/O15399,O15399,"regulation of sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/O15399,O15399,"calcium ion transmembrane import into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/O15399,O15399,"startle response",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"neuron projection",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,synapse,GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"synaptic vesicle",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"synaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"postsynaptic density membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"dendritic spine",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"terminal bouton",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"excitatory synapse",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"NMDA selective glutamate receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"synaptic cleft",GO Component
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"calcium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"receptor binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"protein complex binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Ras guanyl-nucleotide exchange factor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"glutamate-gated calcium ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"NMDA glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"glutamate binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"glycine binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"transmitter-gated ion channel activity involved in regulation of postsynaptic membrane potential",GO Function
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"neurotransmitter binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"positive regulation of transcription from RNA polymerase II promoter",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"positive regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"response to morphine",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"response to amphetamine",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"cation transport",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"ephrin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"cerebral cortex development",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"MAPK cascade",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"respiratory gaseous exchange",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"visual learning",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"social behavior",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"positive regulation of excitatory postsynaptic potential",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"prepulse inhibition",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"long-term memory",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"regulation of respiratory gaseous exchange",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"adult locomotory behavior",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"response to ethanol",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"regulation of axonogenesis",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"regulation of dendrite morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"calcium ion transmembrane import into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"negative regulation of neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"synaptic transmission, glutamatergic",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"regulation of long-term neuronal synaptic plasticity",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"positive regulation of reactive oxygen species biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"calcium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"positive regulation of calcium ion transport into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"excitatory postsynaptic potential",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"suckling behavior",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"conditioned taste aversion",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"regulation of synapse assembly",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"male mating behavior",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"protein heterotetramerization",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"ionotropic glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"olfactory learning",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"pons maturation",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"propylene metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"response to glycine",GO Process
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"neuron projection",GO Component
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"NMDA selective glutamate receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"zinc ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Ras guanyl-nucleotide exchange factor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"glutamate-gated calcium ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"NMDA glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"glutamate binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"glycine binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"learning or memory",GO Process
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"ephrin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"MAPK cascade",GO Process
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"response to ethanol",GO Process
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"calcium ion transmembrane import into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"protein heterotetramerization",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"terminal bouton",GO Component
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"dendrite cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"kainate selective glutamate receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"protein homodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"PDZ domain binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"ubiquitin protein ligase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"ubiquitin conjugating enzyme binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"kainate selective glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"positive regulation of neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"intracellular protein transport",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"cellular calcium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"positive regulation of synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"receptor clustering",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"modulation of chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"negative regulation of neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"synaptic transmission, glutamatergic",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"regulation of long-term neuronal synaptic plasticity",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"behavioral fear response",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"regulation of JNK cascade",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"inhibitory postsynaptic potential",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"negative regulation of synaptic transmission, glutamatergic",GO Process
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"regulation of short-term neuronal synaptic plasticity",GO Process
+https://pharos.nih.gov/idg/targets/P42263,P42263,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42263,P42263,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42263,P42263,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P42263,P42263,"AMPA glutamate receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P42263,P42263,"endocytic vesicle membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42263,P42263,"amyloid-beta binding",GO Function
+https://pharos.nih.gov/idg/targets/P42263,P42263,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P42263,P42263,"AMPA glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P42263,P42263,"excitatory extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P42263,P42263,"glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P42263,P42263,transport,GO Process
+https://pharos.nih.gov/idg/targets/P42262,P42262,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42262,P42262,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42262,P42262,"endoplasmic reticulum membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42262,P42262,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/P42262,P42262,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42262,P42262,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P42262,P42262,"external side of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42262,P42262,"AMPA glutamate receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P42262,P42262,"endocytic vesicle membrane",GO Component
+https://pharos.nih.gov/idg/targets/P42262,P42262,"dendritic spine",GO Component
+https://pharos.nih.gov/idg/targets/P42262,P42262,"excitatory synapse",GO Component
+https://pharos.nih.gov/idg/targets/P42262,P42262,postsynapse,GO Component
+https://pharos.nih.gov/idg/targets/P42262,P42262,"postsynaptic endocytic zone",GO Component
+https://pharos.nih.gov/idg/targets/P42262,P42262,"amyloid-beta binding",GO Function
+https://pharos.nih.gov/idg/targets/P42262,P42262,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P42262,P42262,"ionotropic glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P42262,P42262,"AMPA glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P42262,P42262,"excitatory extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P42262,P42262,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P42262,P42262,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P42262,P42262,"synaptic transmission, glutamatergic",GO Process
+https://pharos.nih.gov/idg/targets/P42262,P42262,"ionotropic glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,axon,GO Component
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"terminal bouton",GO Component
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"dendrite cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"G-protein coupled receptor binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"extracellular-glutamate-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"kainate selective glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"ionotropic glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"adenylate cyclase inhibiting G-protein coupled glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"G-protein coupled glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"negative regulation of synaptic transmission, glutamatergic",GO Process

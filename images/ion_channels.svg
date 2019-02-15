@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="60mm" height="35mm" viewBox="0 0 6000 3500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(255,255,255)" stroke="none" d="M 38,0 L 6000,0 6000,3454 38,3454 38,0 Z"/>
+ <path fill="rgb(255,255,255)" stroke="none" d="M 3019,3454 L 38,3454 38,0 6000,0 6000,3454 3019,3454 Z"/>
+ <path fill="rgb(123,61,0)" stroke="none" d="M 1683,288 C 1535,288 1389,311 1250,356 1110,401 978,469 859,555 740,641 635,746 549,865 463,984 395,1116 350,1256 305,1395 282,1541 282,1689 282,1792 293,1897 317,1999 L 1683,1689 1683,1689 1683,1689 1683,1689 1683,1689 1683,1689 1683,1689 1683,288 Z"/>
+ <path fill="rgb(190,72,10)" stroke="none" d="M 317,1999 C 326,2040 337,2081 350,2120 395,2260 463,2392 549,2511 635,2630 740,2735 859,2821 978,2907 1110,2975 1250,3020 1389,3065 1535,3089 1682,3089 1772,3089 1862,3080 1950,3063 L 1683,1689 1683,1689 1683,1689 1683,1689 1683,1689 1683,1689 1683,1689 317,1999 Z"/>
+ <path fill="rgb(184,92,0)" stroke="none" d="M 1950,3063 C 2006,3052 2061,3038 2115,3020 2255,2975 2387,2907 2506,2821 2625,2735 2730,2630 2816,2511 2902,2392 2970,2260 3015,2120 3059,1981 3083,1835 3083,1689 3083,1554 3063,1419 3025,1290 L 1683,1689 1683,1689 1683,1689 1683,1689 1683,1689 1683,1689 1683,1689 1950,3063 Z"/>
+ <path fill="rgb(234,117,0)" stroke="none" d="M 3025,1290 C 3021,1278 3019,1267 3015,1256 2970,1116 2902,984 2816,865 2730,746 2625,641 2506,555 2462,523 2417,494 2370,468 L 1683,1689 1683,1689 1683,1689 1683,1689 1683,1689 3025,1290 Z"/>
+ <path fill="rgb(255,151,47)" stroke="none" d="M 2370,468 C 2289,422 2204,385 2115,356 1976,311 1830,288 1683,288 L 1683,1689 1683,1689 1683,1689 2370,468 Z"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="651" y="1113"><tspan fill="rgb(0,0,0)" stroke="none">14</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="894" y="2726"><tspan fill="rgb(0,0,0)" stroke="none">12</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="2427" y="2398"><tspan fill="rgb(0,0,0)" stroke="none">13</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="2448" y="1029"><tspan fill="rgb(0,0,0)" stroke="none">6</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1861" y="691"><tspan fill="rgb(0,0,0)" stroke="none">4</tspan></tspan></tspan></text>
+ <path fill="rgb(123,61,0)" stroke="none" d="M 3699,764 L 3593,764 3593,553 3804,553 3804,764 3699,764 Z"/>
+ <path fill="rgb(190,72,10)" stroke="none" d="M 3699,1270 L 3593,1270 3593,1059 3804,1059 3804,1270 3699,1270 Z"/>
+ <path fill="rgb(184,92,0)" stroke="none" d="M 3699,1775 L 3593,1775 3593,1565 3804,1565 3804,1775 3699,1775 Z"/>
+ <path fill="rgb(234,117,0)" stroke="none" d="M 3699,2678 L 3593,2678 3593,2467 3804,2467 3804,2678 3699,2678 Z"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3904" y="778"><tspan fill="rgb(0,0,0)" stroke="none">LIC</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3904" y="1284"><tspan fill="rgb(0,0,0)" stroke="none">TRP-CC</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3904" y="1789"><tspan fill="rgb(0,0,0)" stroke="none">Potassium </tspan></tspan><tspan class="TextPosition" x="3904" y="2186"><tspan fill="rgb(0,0,0)" stroke="none">channel</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3904" y="2692"><tspan fill="rgb(0,0,0)" stroke="none">Glutamate </tspan></tspan><tspan class="TextPosition" x="3904" y="3089"><tspan fill="rgb(0,0,0)" stroke="none">gated</tspan></tspan></tspan></text>
+</svg>

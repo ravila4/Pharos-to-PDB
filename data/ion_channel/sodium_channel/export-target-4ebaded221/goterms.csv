@@ -1,0 +1,183 @@
+"URL","Uniprot ID","GOTerm","GOType"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"clathrin complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"voltage-gated sodium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"ion channel binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"voltage-gated sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"odontogenesis of dentin-containing tooth",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"AV node cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"bundle of His cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"regulation of atrial cardiac muscle cell membrane depolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"regulation of cardiac muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"regulation of heart rate",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"regulation of ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"sensory perception",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,"sodium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,"voltage-gated sodium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,"voltage-gated sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,"sodium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,"voltage-gated sodium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,C-fiber,GO Component
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,"voltage-gated sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,"response to drug",GO Process
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,"sodium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,"regulation of sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,"cytoplasmic vesicle",GO Component
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,"voltage-gated sodium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,"Z disc",GO Component
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,"node of Ranvier",GO Component
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,"axon initial segment",GO Component
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,"voltage-gated sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,"nervous system development",GO Process
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,"sodium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,myelination,GO Process
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,"peripheral nervous system development",GO Process
+https://pharos.nih.gov/idg/targets/P35499,P35499,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P35499,P35499,"voltage-gated sodium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P35499,P35499,"voltage-gated sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P35499,P35499,"muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P35499,P35499,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/P35499,P35499,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/P35499,P35499,"sodium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P35498,P35498,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P35498,P35498,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P35498,P35498,"nuclear body",GO Component
+https://pharos.nih.gov/idg/targets/P35498,P35498,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/P35498,P35498,"voltage-gated sodium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P35498,P35498,"Z disc",GO Component
+https://pharos.nih.gov/idg/targets/P35498,P35498,"node of Ranvier",GO Component
+https://pharos.nih.gov/idg/targets/P35498,P35498,T-tubule,GO Component
+https://pharos.nih.gov/idg/targets/P35498,P35498,"intercalated disc",GO Component
+https://pharos.nih.gov/idg/targets/P35498,P35498,"axon initial segment",GO Component
+https://pharos.nih.gov/idg/targets/P35498,P35498,"voltage-gated sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P35498,P35498,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/P35498,P35498,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/P35498,P35498,"sodium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P35498,P35498,"cardiac muscle cell action potential involved in contraction",GO Process
+https://pharos.nih.gov/idg/targets/P35498,P35498,"detection of mechanical stimulus involved in sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/P35498,P35498,"neuromuscular process controlling posture",GO Process
+https://pharos.nih.gov/idg/targets/P35498,P35498,"adult walking behavior",GO Process
+https://pharos.nih.gov/idg/targets/P35498,P35498,"neuronal action potential propagation",GO Process
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,"cell projection",GO Component
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,"voltage-gated sodium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,"voltage-gated sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,"sodium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,"inflammatory response",GO Process
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,"post-embryonic development",GO Process
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,"sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,"sodium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,"sodium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,"response to toxic substance",GO Process
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,"behavioral response to pain",GO Process
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,axon,GO Component
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,"voltage-gated sodium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,"intrinsic component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,"node of Ranvier",GO Component
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,T-tubule,GO Component
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,"intercalated disc",GO Component
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,"sodium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,"paranode region of axon",GO Component
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,"voltage-gated sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,"sodium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,"sodium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,myelination,GO Process
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,"neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,"intrinsic apoptotic signaling pathway in response to osmotic stress",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,caveola,GO Component
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"lateral plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"voltage-gated sodium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"Z disc",GO Component
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,sarcolemma,GO Component
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,T-tubule,GO Component
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"intercalated disc",GO Component
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"protein kinase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"enzyme binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"ion channel binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"ubiquitin protein ligase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"voltage-gated sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"fibroblast growth factor binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"voltage-gated sodium channel activity involved in cardiac muscle cell action potential",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"protein domain specific binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"scaffold protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"ankyrin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"nitric-oxide synthase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"voltage-gated sodium channel activity involved in Purkinje myocyte action potential",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"voltage-gated sodium channel activity involved in AV node cell action potential",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"voltage-gated sodium channel activity involved in bundle of His cell action potential",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"voltage-gated sodium channel activity involved in SA node cell action potential",GO Function
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"cerebellum development",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"cellular response to calcium ion",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"odontogenesis of dentin-containing tooth",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"AV node cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"bundle of His cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"regulation of atrial cardiac muscle cell membrane depolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"regulation of heart rate",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"sodium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"sodium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"membrane depolarization during cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"regulation of heart rate by cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"regulation of ventricular cardiac muscle cell membrane repolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"membrane depolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"atrial cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"cardiac muscle cell action potential involved in contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"cardiac muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"positive regulation of sodium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"regulation of ventricular cardiac muscle cell membrane depolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"SA node cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"ventricular cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"cardiac ventricle development",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"positive regulation of epithelial cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"membrane depolarization during SA node cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"regulation of atrial cardiac muscle cell membrane repolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"regulation of cardiac muscle cell contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"brainstem development",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"regulation of sodium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"response to denervation involved in regulation of muscle adaptation",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"membrane depolarization during AV node cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"positive regulation of action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"membrane depolarization during atrial cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"telencephalon development",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"membrane depolarization during Purkinje myocyte cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"membrane depolarization during bundle of His cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,"AV node cell to bundle of His cell communication",GO Process
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,"voltage-gated sodium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,"glial cell projection",GO Component
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,"voltage-gated sodium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,"muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,"sodium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,"sodium ion homeostasis",GO Process

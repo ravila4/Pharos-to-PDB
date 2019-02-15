@@ -1,0 +1,498 @@
+"URL","Uniprot ID","Name","Source","Link"
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"GABA receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977443
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"GABA A receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977441
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"Prader-Willi and Angelman Syndrome","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3998_r96172
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/P28472,P28472,"Serotonergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04726
+https://pharos.nih.gov/idg/targets/P28472,P28472,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P28472,P28472,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P28472,P28472,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/P28472,P28472,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/P28472,P28472,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P28472,P28472,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P28472,P28472,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P28472,P28472,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P28472,P28472,"GABA receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977443
+https://pharos.nih.gov/idg/targets/P28472,P28472,"GABA A receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977441
+https://pharos.nih.gov/idg/targets/P28472,P28472,"Brain-Derived Neurotrophic Factor (BDNF) signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2380_r94178
+https://pharos.nih.gov/idg/targets/P28472,P28472,"Prader-Willi and Angelman Syndrome","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3998_r96172
+https://pharos.nih.gov/idg/targets/P28472,P28472,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Cholinergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04725
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/panther.pathway/P06587,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00406,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00392,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00393,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00394,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00395,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00396,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00397,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00398,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00399,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00400,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00401,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00402,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00403,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00404,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00405,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00407,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00408,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00409,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00410,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00411,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00412,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00413,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00414,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00415,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00416,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00417,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00422,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00423,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00424,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00425,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00426,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00431,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00671,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00672,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00673,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00674,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00675,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00676,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00677,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00678,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00679,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00680,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00681,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00683,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00684,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00685,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00686,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00687,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00688,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00689,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00690,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00691,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,http://identifiers.org/smpdb/SMP00628,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Acetylcholine binding and downstream events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-181431
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Activation of Nicotinic Acetylcholine Receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629602
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Highly calcium permeable nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629597
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Highly calcium permeable postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629594
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Highly sodium permeable acetylcholine nicotinic receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629587
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622327
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Presynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622323
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Circadian rythm related genes","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3594_r87161
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP706_r92921
+https://pharos.nih.gov/idg/targets/P17787,P17787,"Nicotine Activity on Dopaminergic Neurons","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1602_r78486
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"GABA receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977443
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"GABA A receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977441
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/P02708,P02708,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P02708,P02708,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P02708,P02708,http://pathwaycommons.org/pc2/Pathway_3d80c1301fe2a810e472ccef58fd3b9c,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P02708,P02708,http://pathwaycommons.org/pc2/Pathway_e3c0d7d526b2dc1ac3f8707fbce60b05,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P02708,P02708,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P02708,P02708,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P02708,P02708,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P48169,P48169,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P48169,P48169,"Taste transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04742
+https://pharos.nih.gov/idg/targets/P48169,P48169,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P48169,P48169,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/P48169,P48169,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/P48169,P48169,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P48169,P48169,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P48169,P48169,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P48169,P48169,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P48169,P48169,"GABA receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977443
+https://pharos.nih.gov/idg/targets/P48169,P48169,"GABA A receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977441
+https://pharos.nih.gov/idg/targets/P48169,P48169,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/O95264,O95264,"Serotonergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04726
+https://pharos.nih.gov/idg/targets/O95264,O95264,"Taste transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04742
+https://pharos.nih.gov/idg/targets/O95264,O95264,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/O95264,O95264,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/O95264,O95264,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P14867,P14867,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P14867,P14867,"Taste transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04742
+https://pharos.nih.gov/idg/targets/P14867,P14867,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P14867,P14867,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/P14867,P14867,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/P14867,P14867,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P14867,P14867,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P14867,P14867,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P14867,P14867,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P14867,P14867,"GABA receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977443
+https://pharos.nih.gov/idg/targets/P14867,P14867,"GABA A receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977441
+https://pharos.nih.gov/idg/targets/P14867,P14867,"Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP706_r92921
+https://pharos.nih.gov/idg/targets/P14867,P14867,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/P14867,P14867,"Serotonin and anxiety","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3947_r91925
+https://pharos.nih.gov/idg/targets/P36544,P36544,http://pathwaycommons.org/pc2/Pathway_734b38657ead53b0299e9671be672445,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/P36544,P36544,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P36544,P36544,http://identifiers.org/panther.pathway/P00003,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P36544,P36544,"Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP706_r92921
+https://pharos.nih.gov/idg/targets/P31644,P31644,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P31644,P31644,"Taste transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04742
+https://pharos.nih.gov/idg/targets/P31644,P31644,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P31644,P31644,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/P31644,P31644,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/P31644,P31644,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P31644,P31644,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P31644,P31644,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P31644,P31644,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P31644,P31644,"GABA receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977443
+https://pharos.nih.gov/idg/targets/P31644,P31644,"GABA A receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977441
+https://pharos.nih.gov/idg/targets/P31644,P31644,"Prader-Willi and Angelman Syndrome","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3998_r96172
+https://pharos.nih.gov/idg/targets/P31644,P31644,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/P18505,P18505,"Serotonergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04726
+https://pharos.nih.gov/idg/targets/P18505,P18505,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P18505,P18505,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P18505,P18505,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/P18505,P18505,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/P18505,P18505,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P18505,P18505,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P18505,P18505,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P18505,P18505,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P18505,P18505,"GABA receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977443
+https://pharos.nih.gov/idg/targets/P18505,P18505,"GABA A receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977441
+https://pharos.nih.gov/idg/targets/P18505,P18505,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Cholinergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04725
+https://pharos.nih.gov/idg/targets/P30926,P30926,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P30926,P30926,http://identifiers.org/panther.pathway/P06587,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Immune System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168256
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Innate Immune System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168249
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Neutrophil degranulation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6798695
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Acetylcholine binding and downstream events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-181431
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Activation of Nicotinic Acetylcholine Receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629602
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Highly calcium permeable nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629597
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Highly calcium permeable postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629594
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Highly sodium permeable acetylcholine nicotinic receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629587
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622327
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Presynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622323
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP706_r92921
+https://pharos.nih.gov/idg/targets/P30926,P30926,"Nicotine Activity on Chromaffin Cells","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1603_r78574
+https://pharos.nih.gov/idg/targets/P46098,P46098,"Serotonergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04726
+https://pharos.nih.gov/idg/targets/P46098,P46098,"Taste transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04742
+https://pharos.nih.gov/idg/targets/P46098,P46098,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P46098,P46098,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P46098,P46098,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P46098,P46098,"Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP706_r92921
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"Taste transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04742
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"GABA receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977443
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"GABA A receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977441
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/P34903,P34903,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P34903,P34903,"Taste transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04742
+https://pharos.nih.gov/idg/targets/P34903,P34903,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P34903,P34903,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/P34903,P34903,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/P34903,P34903,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P34903,P34903,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P34903,P34903,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P34903,P34903,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P34903,P34903,"GABA receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977443
+https://pharos.nih.gov/idg/targets/P34903,P34903,"GABA A receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977441
+https://pharos.nih.gov/idg/targets/P34903,P34903,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/O14764,O14764,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/O14764,O14764,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/O14764,O14764,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/O14764,O14764,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/O14764,O14764,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/O14764,O14764,"Prader-Willi and Angelman Syndrome","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3998_r96172
+https://pharos.nih.gov/idg/targets/O14764,O14764,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/P47869,P47869,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P47869,P47869,"Taste transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04742
+https://pharos.nih.gov/idg/targets/P47869,P47869,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P47869,P47869,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/P47869,P47869,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/P47869,P47869,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P47869,P47869,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P47869,P47869,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P47869,P47869,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P47869,P47869,"GABA receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977443
+https://pharos.nih.gov/idg/targets/P47869,P47869,"GABA A receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977441
+https://pharos.nih.gov/idg/targets/P47869,P47869,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/P47870,P47870,"Serotonergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04726
+https://pharos.nih.gov/idg/targets/P47870,P47870,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P47870,P47870,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P47870,P47870,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/P47870,P47870,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/P47870,P47870,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P47870,P47870,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P47870,P47870,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P47870,P47870,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P47870,P47870,"GABA receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977443
+https://pharos.nih.gov/idg/targets/P47870,P47870,"GABA A receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977441
+https://pharos.nih.gov/idg/targets/P47870,P47870,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/P32297,P32297,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P32297,P32297,"Cholinergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04725
+https://pharos.nih.gov/idg/targets/P32297,P32297,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P32297,P32297,http://identifiers.org/panther.pathway/P06587,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P32297,P32297,http://identifiers.org/smpdb/SMP00431,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P32297,P32297,http://identifiers.org/smpdb/SMP00628,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P32297,P32297,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P32297,P32297,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P32297,P32297,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P32297,P32297,"Acetylcholine binding and downstream events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-181431
+https://pharos.nih.gov/idg/targets/P32297,P32297,"Activation of Nicotinic Acetylcholine Receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629602
+https://pharos.nih.gov/idg/targets/P32297,P32297,"Highly calcium permeable nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629597
+https://pharos.nih.gov/idg/targets/P32297,P32297,"Highly calcium permeable postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629594
+https://pharos.nih.gov/idg/targets/P32297,P32297,"Postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622327
+https://pharos.nih.gov/idg/targets/P32297,P32297,"Presynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622323
+https://pharos.nih.gov/idg/targets/P32297,P32297,"Nicotine Activity on Chromaffin Cells","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1603_r78574
+https://pharos.nih.gov/idg/targets/P32297,P32297,"Nicotine Activity on Dopaminergic Neurons","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1602_r78486
+https://pharos.nih.gov/idg/targets/P23416,P23416,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P23416,P23416,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P23416,P23416,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P23416,P23416,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P23415,P23415,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P23415,P23415,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P23415,P23415,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P23415,P23415,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,http://pathwaycommons.org/pc2/Pathway_3d80c1301fe2a810e472ccef58fd3b9c,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"Acetylcholine binding and downstream events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-181431
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"Activation of Nicotinic Acetylcholine Receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629602
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"Highly sodium permeable acetylcholine nicotinic receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629587
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"Postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622327
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"Presynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622323
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,http://identifiers.org/panther.pathway/P06587,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"Acetylcholine binding and downstream events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-181431
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"Activation of Nicotinic Acetylcholine Receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629602
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"Highly calcium permeable nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629597
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"Highly calcium permeable postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629594
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"Postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622327
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"Presynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622323
+https://pharos.nih.gov/idg/targets/P07510,P07510,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P07510,P07510,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P07510,P07510,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P07510,P07510,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P07510,P07510,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P07510,P07510,"Acetylcholine binding and downstream events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-181431
+https://pharos.nih.gov/idg/targets/P07510,P07510,"Activation of Nicotinic Acetylcholine Receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629602
+https://pharos.nih.gov/idg/targets/P07510,P07510,"Highly sodium permeable acetylcholine nicotinic receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629587
+https://pharos.nih.gov/idg/targets/P07510,P07510,"Postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622327
+https://pharos.nih.gov/idg/targets/P07510,P07510,"Presynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622323
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"Acetylcholine binding and downstream events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-181431
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"Activation of Nicotinic Acetylcholine Receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629602
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"Highly calcium permeable postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629594
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"Postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622327
+https://pharos.nih.gov/idg/targets/P18507,P18507,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P18507,P18507,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P18507,P18507,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/P18507,P18507,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/P18507,P18507,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P18507,P18507,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P18507,P18507,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P18507,P18507,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P18507,P18507,"GABA receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977443
+https://pharos.nih.gov/idg/targets/P18507,P18507,"GABA A receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977441
+https://pharos.nih.gov/idg/targets/P18507,P18507,"Prader-Willi and Angelman Syndrome","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3998_r96172
+https://pharos.nih.gov/idg/targets/P18507,P18507,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/P18507,P18507,"Splicing factor NOVA regulated synaptic proteins","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4148_r94396
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Cholinergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04725
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/panther.pathway/P06587,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00406,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00392,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00393,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00394,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00395,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00396,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00397,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00398,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00399,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00400,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00401,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00402,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00403,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00404,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00405,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00407,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00408,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00409,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00410,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00411,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00412,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00413,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00414,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00415,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00416,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00417,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00422,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00423,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00424,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00425,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00426,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00431,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00671,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00672,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00673,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00674,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00675,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00676,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00677,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00678,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00679,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00680,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00681,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00683,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00684,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00685,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00686,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00687,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00688,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00689,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00690,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00691,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,http://identifiers.org/smpdb/SMP00628,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Acetylcholine binding and downstream events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-181431
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Activation of Nicotinic Acetylcholine Receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629602
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Highly calcium permeable nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629597
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Highly calcium permeable postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629594
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Highly sodium permeable acetylcholine nicotinic receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629587
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622327
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Presynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622323
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP706_r92921
+https://pharos.nih.gov/idg/targets/P43681,P43681,"Nicotine Activity on Dopaminergic Neurons","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1602_r78486
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"Cholinergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04725
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,http://identifiers.org/panther.pathway/P06587,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"Acetylcholine binding and downstream events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-181431
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"Activation of Nicotinic Acetylcholine Receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629602
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"Highly calcium permeable nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629597
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"Highly calcium permeable postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629594
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"Postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622327
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"Presynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622323
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"Nicotine Activity on Dopaminergic Neurons","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1602_r78486
+https://pharos.nih.gov/idg/targets/P78334,P78334,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P78334,P78334,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P78334,P78334,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/P78334,P78334,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/P78334,P78334,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P78334,P78334,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"Acetylcholine binding and downstream events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-181431
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"Activation of Nicotinic Acetylcholine Receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629602
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"Highly calcium permeable nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629597
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"Highly calcium permeable postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629594
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"Postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622327
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"Presynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622323
+https://pharos.nih.gov/idg/targets/P11230,P11230,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P11230,P11230,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,http://identifiers.org/panther.pathway/P00044,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"Acetylcholine binding and downstream events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-181431
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"Activation of Nicotinic Acetylcholine Receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629602
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"Highly sodium permeable acetylcholine nicotinic receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-629587
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"Postsynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622327
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"Presynaptic nicotinic acetylcholine receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-622323
+https://pharos.nih.gov/idg/targets/Q8WXA8,Q8WXA8,"Serotonergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04726
+https://pharos.nih.gov/idg/targets/Q8WXA8,Q8WXA8,"Taste transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04742
+https://pharos.nih.gov/idg/targets/Q8WXA8,Q8WXA8,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q8WXA8,Q8WXA8,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q8WXA8,Q8WXA8,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q70Z44,Q70Z44,"Serotonergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04726
+https://pharos.nih.gov/idg/targets/Q70Z44,Q70Z44,"Taste transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04742
+https://pharos.nih.gov/idg/targets/Q70Z44,Q70Z44,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q70Z44,Q70Z44,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q70Z44,Q70Z44,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/A5X5Y0,A5X5Y0,"Serotonergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04726
+https://pharos.nih.gov/idg/targets/A5X5Y0,A5X5Y0,"Taste transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04742
+https://pharos.nih.gov/idg/targets/A5X5Y0,A5X5Y0,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/A5X5Y0,A5X5Y0,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/A5X5Y0,A5X5Y0,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"Prader-Willi and Angelman Syndrome","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3998_r96172
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/O00591,O00591,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/O00591,O00591,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/O00591,O00591,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/O00591,O00591,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/O00591,O00591,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/O00591,O00591,"GABA receptor Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4159_r94955
+https://pharos.nih.gov/idg/targets/P24046,P24046,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P24046,P24046,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P24046,P24046,"GABAergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+https://pharos.nih.gov/idg/targets/P24046,P24046,"Morphine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+https://pharos.nih.gov/idg/targets/P24046,P24046,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P24046,P24046,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P24046,P24046,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P24046,P24046,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P24046,P24046,"GABA receptor activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-977443
+https://pharos.nih.gov/idg/targets/P24046,P24046,"Prader-Willi and Angelman Syndrome","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3998_r96172
+https://pharos.nih.gov/idg/targets/O75311,O75311,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/O75311,O75311,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/O75311,O75311,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/O75311,O75311,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P48167,P48167,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P48167,P48167,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P48167,P48167,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P48167,P48167,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315

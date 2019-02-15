@@ -1,0 +1,1692 @@
+"URL","Uniprot ID","GOTerm","GOType"
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,mitochondrion,GO Component
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,nucleolus,GO Component
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,"fibrillar center",GO Component
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,"kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,"negative regulation of ERK1 and ERK2 cascade",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,"central nervous system development",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,"DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,"negative regulation of embryonic development",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK32,Q9UK32,"negative regulation of mesoderm development",GO Process
+https://pharos.nih.gov/idg/targets/Q8WTQ7,Q8WTQ7,"photoreceptor disc membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8WTQ7,Q8WTQ7,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8WTQ7,Q8WTQ7,"G-protein coupled receptor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8WTQ7,Q8WTQ7,"rhodopsin kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8WTQ7,Q8WTQ7,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q8WTQ7,Q8WTQ7,"protein autophosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q8WTQ7,Q8WTQ7,"visual perception",GO Process
+https://pharos.nih.gov/idg/targets/Q8WTQ7,Q8WTQ7,"regulation of rhodopsin mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,centriole,GO Component
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"Golgi membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"extracellular region",GO Component
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,ruffle,GO Component
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,cytoskeleton,GO Component
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"secretory granule lumen",GO Component
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,lamellipodium,GO Component
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,bleb,GO Component
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"GTP-Rho binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"bleb assembly",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"protein localization to plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"leukocyte cell-cell adhesion",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"leukocyte migration",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"leukocyte tethering or rolling",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"execution phase of apoptosis",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"ephrin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"vascular endothelial growth factor receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"neutrophil degranulation",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"actin cytoskeleton organization",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"regulation of keratinocyte differentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"regulation of cell adhesion",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"positive regulation of focal adhesion assembly",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"Rho protein signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"regulation of stress fiber assembly",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"I-kappaB kinase-NF-kappaB signaling",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"negative regulation of angiogenesis",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"regulation of establishment of cell polarity",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"cortical actin cytoskeleton organization",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"negative regulation of protein binding",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"membrane to membrane docking",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"smooth muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"regulation of cell motility",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"negative regulation of neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"regulation of actin cytoskeleton organization",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"apical constriction",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"myoblast migration",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"regulation of focal adhesion assembly",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"negative regulation of bicellular tight junction assembly",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"negative regulation of myosin-light-chain-phosphatase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q13464,Q13464,"regulation of establishment of endothelial barrier",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/P05771,P05771,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P05771,P05771,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P05771,P05771,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P05771,P05771,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P05771,P05771,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/P05771,P05771,"zinc ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P05771,P05771,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P05771,P05771,"chromatin binding",GO Function
+https://pharos.nih.gov/idg/targets/P05771,P05771,"protein kinase C binding",GO Function
+https://pharos.nih.gov/idg/targets/P05771,P05771,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P05771,P05771,"histone binding",GO Function
+https://pharos.nih.gov/idg/targets/P05771,P05771,"androgen receptor binding",GO Function
+https://pharos.nih.gov/idg/targets/P05771,P05771,"ligand-dependent nuclear receptor transcription coactivator activity",GO Function
+https://pharos.nih.gov/idg/targets/P05771,P05771,"calcium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/P05771,P05771,"calcium-dependent protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/P05771,P05771,"histone kinase activity (H3-T6 specific)",GO Function
+https://pharos.nih.gov/idg/targets/P05771,P05771,"protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/P05771,P05771,"transcription, DNA-templated",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"B cell activation",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"regulation of transcription from RNA polymerase II promoter",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"positive regulation of NF-kappaB transcription factor activity",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"B cell receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"platelet activation",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"mitotic nuclear envelope disassembly",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"positive regulation of angiogenesis",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"response to hypoxia",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"adaptive immune response",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"positive regulation of I-kappaB kinase-NF-kappaB signaling",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"regulation of myeloid cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"positive regulation of B cell receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"cellular calcium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"positive regulation of vascular endothelial growth factor receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"negative regulation of glucose transport",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"negative regulation of insulin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"lipoprotein transport",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"cellular response to carbohydrate stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P05771,P05771,"histone H3-T6 phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"endoplasmic reticulum membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"nuclear membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"nuclear outer membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"sarcoplasmic reticulum membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"integral component of mitochondrial outer membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"heat shock protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"myosin phosphatase regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"regulation of cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"cellular calcium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"nuclear envelope organization",GO Process
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"regulation of heart contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"regulation of synapse structural plasticity",GO Process
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"regulation of sodium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"muscle cell apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"regulation of excitatory postsynaptic membrane potential involved in skeletal muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"regulation of myotube differentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q09013,Q09013,"regulation of skeletal muscle contraction by calcium ion signaling",GO Process
+https://pharos.nih.gov/idg/targets/O43930,O43930,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/O43930,O43930,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O43930,O43930,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/P05129,P05129,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P05129,P05129,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P05129,P05129,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/P05129,P05129,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/P05129,P05129,"cell-cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P05129,P05129,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/P05129,P05129,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/P05129,P05129,"synaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P05129,P05129,"zinc ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P05129,P05129,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P05129,P05129,"protein serine-threonine-tyrosine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P05129,P05129,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P05129,P05129,"calcium-dependent protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/P05129,P05129,"protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/P05129,P05129,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"regulation of circadian rhythm",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"rhythmic process",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"response to morphine",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"protein autophosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"learning or memory",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"platelet activation",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"negative regulation of protein ubiquitination",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,phosphorylation,GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"negative regulation of protein catabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"negative regulation of neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,innervation,GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"response to pain",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"regulation of phagocytosis",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"chemosensory behavior",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"negative regulation of proteasomal protein catabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"regulation of response to food",GO Process
+https://pharos.nih.gov/idg/targets/P05129,P05129,"positive regulation of mismatch repair",GO Process
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"protein serine-threonine-tyrosine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"cysteine-type endopeptidase inhibitor activity involved in apoptotic process",GO Function
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"positive regulation of transcription from RNA polymerase II promoter",GO Process
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"negative regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"positive regulation of cell growth",GO Process
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"positive regulation of cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"negative regulation of cysteine-type endopeptidase activity involved in apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"hepatocyte proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"regulation of DNA-templated transcription in response to stress",GO Process
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"regulation of translation in response to stress",GO Process
+https://pharos.nih.gov/idg/targets/Q15418,Q15418,"positive regulation of hepatic stellate cell activation",GO Process
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,centrosome,GO Component
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"cleavage furrow",GO Component
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"protein phosphatase 2A binding",GO Function
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"cellular response to DNA damage stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"cell division",GO Process
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"regulation of cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"G2-M transition of mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"negative regulation of phosphoprotein phosphatase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"female meiosis II",GO Process
+https://pharos.nih.gov/idg/targets/Q96GX5,Q96GX5,"positive regulation of ubiquitin-protein ligase activity involved in meiotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/P51817,P51817,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/P51817,P51817,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P51817,P51817,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P51817,P51817,"cAMP-dependent protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P51817,P51817,"cell adhesion",GO Process
+https://pharos.nih.gov/idg/targets/P51817,P51817,"protein autophosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P51817,P51817,angiogenesis,GO Process
+https://pharos.nih.gov/idg/targets/P51817,P51817,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P51817,P51817,"myeloid cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P51817,P51817,"regulation of cell adhesion",GO Process
+https://pharos.nih.gov/idg/targets/P51817,P51817,"endothelial cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P51817,P51817,"regulation of cell migration",GO Process
+https://pharos.nih.gov/idg/targets/P51817,P51817,"endothelial cell migration",GO Process
+https://pharos.nih.gov/idg/targets/P51817,P51817,"cell-substrate adhesion",GO Process
+https://pharos.nih.gov/idg/targets/P51817,P51817,"kidney morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/P51817,P51817,"epithelial tube morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/P51817,P51817,"regulation of epithelial cell differentiation involved in kidney development",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/P51812,P51812,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P51812,P51812,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P51812,P51812,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P51812,P51812,"protein kinase binding",GO Function
+https://pharos.nih.gov/idg/targets/P51812,P51812,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P51812,P51812,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P51812,P51812,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P51812,P51812,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P51812,P51812,"kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P51812,P51812,"cysteine-type endopeptidase inhibitor activity involved in apoptotic process",GO Function
+https://pharos.nih.gov/idg/targets/P51812,P51812,"positive regulation of transcription from RNA polymerase II promoter",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,"negative regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,"response to lipopolysaccharide",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,"positive regulation of cell growth",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,"cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,"toll-like receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,"positive regulation of cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,"central nervous system development",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,"skeletal system development",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,"negative regulation of cysteine-type endopeptidase activity involved in apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,"regulation of DNA-templated transcription in response to stress",GO Process
+https://pharos.nih.gov/idg/targets/P51812,P51812,"regulation of translation in response to stress",GO Process
+https://pharos.nih.gov/idg/targets/O14578,O14578,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/O14578,O14578,membrane,GO Component
+https://pharos.nih.gov/idg/targets/O14578,O14578,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O14578,O14578,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/O14578,O14578,"cleavage furrow",GO Component
+https://pharos.nih.gov/idg/targets/O14578,O14578,"Golgi cisterna",GO Component
+https://pharos.nih.gov/idg/targets/O14578,O14578,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/O14578,O14578,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/O14578,O14578,"PDZ domain binding",GO Function
+https://pharos.nih.gov/idg/targets/O14578,O14578,"SH3 domain binding",GO Function
+https://pharos.nih.gov/idg/targets/O14578,O14578,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O14578,O14578,"Rho GTPase binding",GO Function
+https://pharos.nih.gov/idg/targets/O14578,O14578,"scaffold protein binding",GO Function
+https://pharos.nih.gov/idg/targets/O14578,O14578,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/O14578,O14578,"Golgi organization",GO Process
+https://pharos.nih.gov/idg/targets/O14578,O14578,"mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/O14578,O14578,"G2-M transition of mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/O14578,O14578,"mitotic cytokinesis",GO Process
+https://pharos.nih.gov/idg/targets/O14578,O14578,"positive regulation of cytokinesis",GO Process
+https://pharos.nih.gov/idg/targets/O14578,O14578,"neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/O14578,O14578,"generation of neurons",GO Process
+https://pharos.nih.gov/idg/targets/O14578,O14578,"regulation of actin polymerization or depolymerization",GO Process
+https://pharos.nih.gov/idg/targets/P32298,P32298,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P32298,P32298,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/P32298,P32298,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/P32298,P32298,"cell cortex",GO Component
+https://pharos.nih.gov/idg/targets/P32298,P32298,"photoreceptor disc membrane",GO Component
+https://pharos.nih.gov/idg/targets/P32298,P32298,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P32298,P32298,"G-protein coupled receptor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P32298,P32298,"rhodopsin kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P32298,P32298,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P32298,P32298,"receptor internalization",GO Process
+https://pharos.nih.gov/idg/targets/P32298,P32298,"regulation of rhodopsin mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P32298,P32298,"G-protein coupled receptor internalization",GO Process
+https://pharos.nih.gov/idg/targets/P32298,P32298,"regulation of G-protein coupled receptor protein signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"extracellular region",GO Component
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"cell-cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"nuclear matrix",GO Component
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"azurophil granule lumen",GO Component
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"kinase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"protein kinase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"enzyme binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"non-membrane spanning protein tyrosine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"enzyme activator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"insulin receptor substrate binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"calcium-independent protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"activation of protein kinase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"negative regulation of MAP kinase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"interferon-gamma-mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"execution phase of apoptosis",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"Fc-gamma receptor signaling pathway involved in phagocytosis",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"platelet activation",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"neutrophil degranulation",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"protein stabilization",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"regulation of mRNA stability",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"stimulatory C-type lectin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"defense response to bacterium",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"peptidyl-threonine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"positive regulation of apoptotic signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"cellular response to hydrogen peroxide",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"B cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"cell chemotaxis",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"positive regulation of ceramide biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"negative regulation of actin filament polymerization",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"positive regulation of protein dephosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"immunoglobulin mediated immune response",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"negative regulation of inflammatory response",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"intrinsic apoptotic signaling pathway in response to oxidative stress",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"negative regulation of protein binding",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"negative regulation of insulin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"cellular response to hydroperoxide",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"regulation of actin cytoskeleton organization",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"regulation of receptor activity",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"cellular response to angiotensin",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"histone phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"positive regulation of response to DNA damage stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"positive regulation of protein import into nucleus",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"cellular senescence",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"neutrophil activation",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"positive regulation of superoxide anion generation",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"negative regulation of platelet aggregation",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"negative regulation of glial cell apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"interleukin-10 production",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"negative regulation of filopodium assembly",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"positive regulation of endodeoxyribonuclease activity",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"negative regulation of peptidyl-tyrosine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"interleukin-12 production",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"positive regulation of glucosylceramide catabolic process",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"positive regulation of phospholipid scramblase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"positive regulation of sphingomyelin catabolic process",GO Process
+https://pharos.nih.gov/idg/targets/Q05655,Q05655,"termination of signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,"cell-cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,lamellipodium,GO Component
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,actomyosin,GO Component
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,"cell leading edge",GO Component
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,"cell migration",GO Process
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,"actin cytoskeleton reorganization",GO Process
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q5VT25,Q5VT25,"actomyosin structure organization",GO Process
+https://pharos.nih.gov/idg/targets/P24723,P24723,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P24723,P24723,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P24723,P24723,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P24723,P24723,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/P24723,P24723,"cell-cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P24723,P24723,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P24723,P24723,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P24723,P24723,"enzyme binding",GO Function
+https://pharos.nih.gov/idg/targets/P24723,P24723,"Ral GTPase binding",GO Function
+https://pharos.nih.gov/idg/targets/P24723,P24723,"protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/P24723,P24723,"calcium-independent protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/P24723,P24723,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P24723,P24723,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P24723,P24723,"positive regulation of NF-kappaB transcription factor activity",GO Process
+https://pharos.nih.gov/idg/targets/P24723,P24723,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P24723,P24723,"platelet activation",GO Process
+https://pharos.nih.gov/idg/targets/P24723,P24723,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P24723,P24723,"protein kinase C signaling",GO Process
+https://pharos.nih.gov/idg/targets/P24723,P24723,"positive regulation of B cell receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P24723,P24723,"positive regulation of keratinocyte differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P24723,P24723,"positive regulation of protein localization to plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/P24723,P24723,"positive regulation of glial cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P24723,P24723,"positive regulation of macrophage derived foam cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P24723,P24723,"regulation of bicellular tight junction assembly",GO Process
+https://pharos.nih.gov/idg/targets/P24723,P24723,"negative regulation of glial cell apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/P23443,P23443,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P23443,P23443,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P23443,P23443,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P23443,P23443,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/P23443,P23443,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/P23443,P23443,"mitochondrial outer membrane",GO Component
+https://pharos.nih.gov/idg/targets/P23443,P23443,mitochondrion,GO Component
+https://pharos.nih.gov/idg/targets/P23443,P23443,"neuron projection",GO Component
+https://pharos.nih.gov/idg/targets/P23443,P23443,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P23443,P23443,synapse,GO Component
+https://pharos.nih.gov/idg/targets/P23443,P23443,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/P23443,P23443,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P23443,P23443,"peptide binding",GO Function
+https://pharos.nih.gov/idg/targets/P23443,P23443,"PDZ domain binding",GO Function
+https://pharos.nih.gov/idg/targets/P23443,P23443,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P23443,P23443,"protein serine-threonine-tyrosine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P23443,P23443,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P23443,P23443,"kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P23443,P23443,"protein phosphatase 2A binding",GO Function
+https://pharos.nih.gov/idg/targets/P23443,P23443,"ribosomal protein S6 kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P23443,P23443,"cell migration",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"negative regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to testosterone",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to lipopolysaccharide",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to tumor necrosis factor",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to nutrient",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to drug",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to mechanical stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"negative regulation of extrinsic apoptotic signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,aging,GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to glucose",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to wounding",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"cellular response to growth factor stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to insulin",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"positive regulation of smooth muscle cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to heat",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"positive regulation of translation",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"G1-S transition of mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to toxic substance",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"positive regulation of skeletal muscle tissue growth",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"long-term memory",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to ethanol",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"negative regulation of insulin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"protein kinase B signaling",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"cellular response to dexamethasone stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"phosphatidylinositol-mediated signaling",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"behavioral fear response",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"regulation of glucose import",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"TOR signaling",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"positive regulation of translational initiation",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"positive regulation of mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"positive regulation of smooth muscle cell migration",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to electrical stimulus involved in regulation of muscle adaptation",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"skeletal muscle atrophy",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"germ cell development",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"skeletal muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to glucagon",GO Process
+https://pharos.nih.gov/idg/targets/P23443,P23443,"response to leucine",GO Process
+https://pharos.nih.gov/idg/targets/Q15349,Q15349,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q15349,Q15349,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q15349,Q15349,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q15349,Q15349,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q15349,Q15349,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q15349,Q15349,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15349,Q15349,"protein serine-threonine-tyrosine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15349,Q15349,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q15349,Q15349,"kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15349,Q15349,"negative regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q15349,Q15349,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q15349,Q15349,"positive regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q15349,Q15349,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q15349,Q15349,"negative regulation of cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/Q15208,Q15208,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q15208,Q15208,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q15208,Q15208,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q15208,Q15208,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q15208,Q15208,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15208,Q15208,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q15208,Q15208,"cadherin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q15208,Q15208,"mitogen-activated protein kinase kinase kinase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q15208,Q15208,"cellular protein modification process",GO Process
+https://pharos.nih.gov/idg/targets/Q15208,Q15208,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q15208,Q15208,"negative regulation of MAP kinase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q15208,Q15208,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q15208,Q15208,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,endosome,GO Component
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"protein complex",GO Component
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,midbody,GO Component
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"cleavage furrow",GO Component
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"chromatin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"histone deacetylase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"protein kinase C binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"histone binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"GTP-Rho binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"Rac GTPase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"androgen receptor binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"ligand-dependent nuclear receptor transcription coactivator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"histone kinase activity (H3-T11 specific)",GO Function
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"transcription, DNA-templated",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"regulation of transcription from RNA polymerase II promoter",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"negative regulation of protein kinase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"spleen development",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"epithelial cell migration",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"B cell homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"B cell apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"activation of JUN kinase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"regulation of cell motility",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"negative regulation of B cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"renal system process",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"hyperosmotic response",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"regulation of germinal center formation",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"histone H3-T11 phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q16512,Q16512,"regulation of immunoglobulin production",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,membrane,GO Component
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"protein complex",GO Component
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,cytoskeleton,GO Component
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,midbody,GO Component
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"cleavage furrow",GO Component
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,lamellipodium,GO Component
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"apical junction complex",GO Component
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"RNA binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"histone deacetylase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"cadherin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"RNA polymerase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"regulation of transcription, DNA-templated",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"transcription, DNA-templated",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"cell adhesion",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"cell division",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"epithelial cell migration",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"positive regulation of cytokinesis",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"regulation of cell motility",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"positive regulation of viral genome replication",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"positive regulation of mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/Q16513,Q16513,"apical junction assembly",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y2H9,Q9Y2H9,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y2H9,Q9Y2H9,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y2H9,Q9Y2H9,cytoskeleton,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y2H9,Q9Y2H9,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y2H9,Q9Y2H9,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y2H9,Q9Y2H9,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y2H9,Q9Y2H9,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y2H9,Q9Y2H9,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y2H9,Q9Y2H9,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y2H9,Q9Y2H9,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y2H9,Q9Y2H9,"cytoskeleton organization",GO Process
+https://pharos.nih.gov/idg/targets/Q13237,Q13237,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q13237,Q13237,"apical plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13237,Q13237,"nuclear membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13237,Q13237,"protein homodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13237,Q13237,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13237,Q13237,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13237,Q13237,"cGMP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13237,Q13237,"cGMP-dependent protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13237,Q13237,"protein localization to plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/Q13237,Q13237,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q13237,Q13237,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q13237,Q13237,"regulation of nitric-oxide synthase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q13237,Q13237,"peptidyl-serine autophosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q13237,Q13237,"negative regulation of chloride transport",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/P41743,P41743,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P41743,P41743,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P41743,P41743,"apical plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P41743,P41743,"Golgi membrane",GO Component
+https://pharos.nih.gov/idg/targets/P41743,P41743,endosome,GO Component
+https://pharos.nih.gov/idg/targets/P41743,P41743,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/P41743,P41743,"protein complex",GO Component
+https://pharos.nih.gov/idg/targets/P41743,P41743,"bicellular tight junction",GO Component
+https://pharos.nih.gov/idg/targets/P41743,P41743,"microtubule cytoskeleton",GO Component
+https://pharos.nih.gov/idg/targets/P41743,P41743,"cell leading edge",GO Component
+https://pharos.nih.gov/idg/targets/P41743,P41743,"intercellular bridge",GO Component
+https://pharos.nih.gov/idg/targets/P41743,P41743,"Schmidt-Lanterman incisure",GO Component
+https://pharos.nih.gov/idg/targets/P41743,P41743,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P41743,P41743,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P41743,P41743,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P41743,P41743,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P41743,P41743,"protein domain specific binding",GO Function
+https://pharos.nih.gov/idg/targets/P41743,P41743,"phospholipid binding",GO Function
+https://pharos.nih.gov/idg/targets/P41743,P41743,"protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/P41743,P41743,"actin filament organization",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"cell migration",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"negative regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"response to interleukin-1",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"cellular response to insulin stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"positive regulation of NF-kappaB transcription factor activity",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"vesicle-mediated transport",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"membrane organization",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"positive regulation of neuron projection development",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"protein targeting to membrane",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"cytoskeleton organization",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"eye photoreceptor cell development",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"bicellular tight junction assembly",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"positive regulation of endothelial cell apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"positive regulation of protein localization to plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"positive regulation of glucose import",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"establishment or maintenance of epithelial cell apical-basal polarity",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"cell-cell junction organization",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"negative regulation of neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"positive regulation of glial cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"Golgi vesicle budding",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,secretion,GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"establishment of apical-basal cell polarity",GO Process
+https://pharos.nih.gov/idg/targets/P41743,P41743,"negative regulation of glial cell apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"Golgi apparatus",GO Component
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"calcium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"cGMP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"cGMP-dependent protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"forebrain development",GO Process
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"regulation of GTPase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"actin cytoskeleton organization",GO Process
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"neuron migration",GO Process
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"dendrite development",GO Process
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"cGMP-mediated signaling",GO Process
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"relaxation of vascular smooth muscle",GO Process
+https://pharos.nih.gov/idg/targets/Q13976,Q13976,"negative regulation of platelet aggregation",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,centrosome,GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"calcium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,mitochondrion,GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"nuclear speck",GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"acrosomal vesicle",GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"neuromuscular junction",GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"dendritic spine",GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"sperm flagellum",GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"intercellular bridge",GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"plasma membrane raft",GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"sperm midpiece",GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"nucleotide-activated protein kinase complex",GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"cAMP-dependent protein kinase complex",GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"ciliary base",GO Component
+https://pharos.nih.gov/idg/targets/P17612,P17612,"protein kinase binding",GO Function
+https://pharos.nih.gov/idg/targets/P17612,P17612,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P17612,P17612,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P17612,P17612,"protein serine-threonine-tyrosine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P17612,P17612,"ubiquitin protein ligase binding",GO Function
+https://pharos.nih.gov/idg/targets/P17612,P17612,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P17612,P17612,"manganese ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P17612,P17612,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P17612,P17612,"protein kinase A regulatory subunit binding",GO Function
+https://pharos.nih.gov/idg/targets/P17612,P17612,"protein domain specific binding",GO Function
+https://pharos.nih.gov/idg/targets/P17612,P17612,"cAMP-dependent protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P17612,P17612,"ciliary basal body-plasma membrane docking",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"neural tube closure",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"regulation of macroautophagy",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"mRNA processing",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"protein autophosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"regulation of cardiac muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"regulation of heart rate",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"cellular response to glucose stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"regulation of cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"regulation of proteasomal protein catabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"stimulatory C-type lectin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"blood coagulation",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"peptidyl-threonine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"G2-M transition of mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"regulation of G2-M transition of mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"cellular response to glucagon stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"regulation of osteoblast differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"high-density lipoprotein particle assembly",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"mesoderm formation",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"sperm capacitation",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"positive regulation of protein export from nucleus",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"activation of protein kinase A activity",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"renal water homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"regulation of ryanodine-sensitive calcium-release channel activity",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"regulation of protein processing",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"positive regulation of cell cycle arrest",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"modulation of chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"cell communication by electrical coupling involved in cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"regulation of bicellular tight junction assembly",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"calcium-mediated signaling using intracellular calcium source",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"cellular response to epinephrine stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"cellular response to heat",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"cellular response to parathyroid hormone stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"negative regulation of smoothened signaling pathway involved in dorsal-ventral neural tube patterning",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion",GO Process
+https://pharos.nih.gov/idg/targets/P17612,P17612,"regulation of protein binding",GO Process
+https://pharos.nih.gov/idg/targets/P25098,P25098,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P25098,P25098,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P25098,P25098,membrane,GO Component
+https://pharos.nih.gov/idg/targets/P25098,P25098,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P25098,P25098,cilium,GO Component
+https://pharos.nih.gov/idg/targets/P25098,P25098,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P25098,P25098,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P25098,P25098,"G-protein coupled receptor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P25098,P25098,"alpha-2A adrenergic receptor binding",GO Function
+https://pharos.nih.gov/idg/targets/P25098,P25098,"beta-adrenergic receptor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P25098,P25098,"Edg-2 lysophosphatidic acid receptor binding",GO Function
+https://pharos.nih.gov/idg/targets/P25098,P25098,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P25098,P25098,"heart development",GO Process
+https://pharos.nih.gov/idg/targets/P25098,P25098,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P25098,P25098,"peptidyl-threonine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P25098,P25098,"cardiac muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P25098,P25098,"viral entry into host cell",GO Process
+https://pharos.nih.gov/idg/targets/P25098,P25098,"G-protein coupled acetylcholine receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P25098,P25098,"receptor internalization",GO Process
+https://pharos.nih.gov/idg/targets/P25098,P25098,"tachykinin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P25098,P25098,"positive regulation of catecholamine secretion",GO Process
+https://pharos.nih.gov/idg/targets/P25098,P25098,"viral genome replication",GO Process
+https://pharos.nih.gov/idg/targets/P25098,P25098,"desensitization of G-protein coupled receptor protein signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P25098,P25098,"negative regulation of striated muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P25098,P25098,"negative regulation of the force of heart contraction by chemical signal",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/O95835,O95835,"microtubule organizing center",GO Component
+https://pharos.nih.gov/idg/targets/O95835,O95835,"spindle pole",GO Component
+https://pharos.nih.gov/idg/targets/O95835,O95835,"protein kinase binding",GO Function
+https://pharos.nih.gov/idg/targets/O95835,O95835,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/O95835,O95835,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O95835,O95835,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/O95835,O95835,"estrogen receptor binding",GO Function
+https://pharos.nih.gov/idg/targets/O95835,O95835,"positive regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"cytoplasmic sequestering of protein",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"negative regulation of canonical Wnt signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"cell division",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"mammary gland epithelial cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"keratinocyte differentiation",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"G2-M transition of mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"positive regulation of peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"regulation of organ growth",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"G1-S transition of mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"regulation of intracellular estrogen receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"cellular protein localization",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"hippo signaling",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"negative regulation of cyclin-dependent protein serine-threonine kinase activity",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"regulation of actin filament polymerization",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"sister chromatid segregation",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"hormone-mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"inner cell mass cell fate commitment",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"inner cell mass cellular morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"regulation of protein complex assembly",GO Process
+https://pharos.nih.gov/idg/targets/O95835,O95835,"regulation of protein ubiquitination involved in ubiquitin-dependent protein catabolic process",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"potassium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"sodium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"calcium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"chloride channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"response to oxidative stress",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"regulation of cell growth",GO Process
+https://pharos.nih.gov/idg/targets/Q9HBY8,Q9HBY8,"positive regulation of transporter activity",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/O75116,O75116,centrosome,GO Component
+https://pharos.nih.gov/idg/targets/O75116,O75116,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/O75116,O75116,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O75116,O75116,"cytoplasmic ribonucleoprotein granule",GO Component
+https://pharos.nih.gov/idg/targets/O75116,O75116,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/O75116,O75116,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/O75116,O75116,"RNA binding",GO Function
+https://pharos.nih.gov/idg/targets/O75116,O75116,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O75116,O75116,"structural molecule activity",GO Function
+https://pharos.nih.gov/idg/targets/O75116,O75116,"Rho GTPase binding",GO Function
+https://pharos.nih.gov/idg/targets/O75116,O75116,"Rho-dependent protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O75116,O75116,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"regulation of circadian rhythm",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"rhythmic process",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"protein localization to plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"ephrin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"vascular endothelial growth factor receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"positive regulation of protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"positive regulation of gene expression",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"regulation of keratinocyte differentiation",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"regulation of cell adhesion",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"Rho protein signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"regulation of stress fiber assembly",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"I-kappaB kinase-NF-kappaB signaling",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"negative regulation of angiogenesis",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"centrosome duplication",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"regulation of establishment of cell polarity",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"cortical actin cytoskeleton organization",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"cellular response to testosterone stimulus",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"positive regulation of endothelial cell migration",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"smooth muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"regulation of cell motility",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,cytokinesis,GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"regulation of actin cytoskeleton organization",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"regulation of focal adhesion assembly",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"positive regulation of centrosome duplication",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"negative regulation of bicellular tight junction assembly",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"negative regulation of myosin-light-chain-phosphatase activity",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"regulation of establishment of endothelial barrier",GO Process
+https://pharos.nih.gov/idg/targets/O75116,O75116,"viral RNA genome replication",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/O15530,O15530,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/O15530,O15530,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/O15530,O15530,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O15530,O15530,"cytoplasmic vesicle",GO Component
+https://pharos.nih.gov/idg/targets/O15530,O15530,"cell projection",GO Component
+https://pharos.nih.gov/idg/targets/O15530,O15530,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/O15530,O15530,"focal adhesion",GO Component
+https://pharos.nih.gov/idg/targets/O15530,O15530,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/O15530,O15530,"protein kinase binding",GO Function
+https://pharos.nih.gov/idg/targets/O15530,O15530,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/O15530,O15530,"phospholipase binding",GO Function
+https://pharos.nih.gov/idg/targets/O15530,O15530,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O15530,O15530,"kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O15530,O15530,"phospholipase activator activity",GO Function
+https://pharos.nih.gov/idg/targets/O15530,O15530,"insulin receptor binding",GO Function
+https://pharos.nih.gov/idg/targets/O15530,O15530,"3-phosphoinositide-dependent protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O15530,O15530,"regulation of transcription, DNA-templated",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"transcription, DNA-templated",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"cell migration",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"regulation of endothelial cell migration",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"negative regulation of protein kinase activity",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"calcium-mediated signaling",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"cellular response to insulin stimulus",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"Fc-epsilon receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"protein autophosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"regulation of mast cell degranulation",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"platelet activation",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"stimulatory C-type lectin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"T cell receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"negative regulation of cardiac muscle cell apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"actin cytoskeleton organization",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"focal adhesion assembly",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"peptidyl-threonine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"negative regulation of transforming growth factor beta receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"T cell costimulation",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"positive regulation of protein localization to plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"positive regulation of release of sequestered calcium ion into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"positive regulation of phospholipase activity",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"cellular response to epidermal growth factor stimulus",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"negative regulation of neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"epidermal growth factor receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"negative regulation of toll-like receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"cellular response to brain-derived neurotrophic factor stimulus",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"activation of protein kinase B activity",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"regulation of I-kappaB kinase-NF-kappaB signaling",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"type B pancreatic cell development",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"extrinsic apoptotic signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O15530,O15530,"hyperosmotic response",GO Process
+https://pharos.nih.gov/idg/targets/P35626,P35626,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P35626,P35626,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P35626,P35626,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P35626,P35626,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P35626,P35626,"G-protein coupled receptor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P35626,P35626,"beta-adrenergic receptor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P35626,P35626,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P35626,P35626,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P35626,P35626,"receptor internalization",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/O75582,O75582,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/O75582,O75582,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/O75582,O75582,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/O75582,O75582,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O75582,O75582,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/O75582,O75582,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O75582,O75582,"regulation of transcription, DNA-templated",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"positive regulation of transcription from RNA polymerase II promoter",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"inflammatory response",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"positive regulation of NF-kappaB transcription factor activity",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"negative regulation of transcription, DNA-templated",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"stimulatory C-type lectin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"axon guidance",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"interleukin-1-mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"histone H3-S10 phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"negative regulation of cytokine production",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"positive regulation of histone acetylation",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"positive regulation of histone phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"epidermal growth factor receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"histone phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"positive regulation of CREB transcription factor activity",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"histone H2A-S1 phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O75582,O75582,"histone H3-S28 phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O75676,O75676,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/O75676,O75676,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/O75676,O75676,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/O75676,O75676,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/O75676,O75676,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/O75676,O75676,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O75676,O75676,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/O75676,O75676,"ribosomal protein S6 kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O75676,O75676,"regulation of transcription, DNA-templated",GO Process
+https://pharos.nih.gov/idg/targets/O75676,O75676,"positive regulation of transcription from RNA polymerase II promoter",GO Process
+https://pharos.nih.gov/idg/targets/O75676,O75676,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/O75676,O75676,"inflammatory response",GO Process
+https://pharos.nih.gov/idg/targets/O75676,O75676,"positive regulation of NF-kappaB transcription factor activity",GO Process
+https://pharos.nih.gov/idg/targets/O75676,O75676,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O75676,O75676,"interleukin-1-mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O75676,O75676,"histone H3-S10 phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O75676,O75676,"negative regulation of cytokine production",GO Process
+https://pharos.nih.gov/idg/targets/O75676,O75676,"positive regulation of histone acetylation",GO Process
+https://pharos.nih.gov/idg/targets/O75676,O75676,"positive regulation of histone phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O75676,O75676,"histone phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O75676,O75676,"positive regulation of CREB transcription factor activity",GO Process
+https://pharos.nih.gov/idg/targets/O75676,O75676,"histone H3-S28 phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/O00141,O00141,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/O00141,O00141,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/O00141,O00141,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O00141,O00141,"endoplasmic reticulum membrane",GO Component
+https://pharos.nih.gov/idg/targets/O00141,O00141,mitochondrion,GO Component
+https://pharos.nih.gov/idg/targets/O00141,O00141,"nuclear speck",GO Component
+https://pharos.nih.gov/idg/targets/O00141,O00141,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/O00141,O00141,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O00141,O00141,"protein serine-threonine-tyrosine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O00141,O00141,"potassium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/O00141,O00141,"sodium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/O00141,O00141,"calcium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/O00141,O00141,"chloride channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/O00141,O00141,"regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"regulation of blood pressure",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"cellular response to DNA damage stimulus",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"response to stress",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"sodium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"regulation of cell growth",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"regulation of cell migration",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"regulation of catalytic activity",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"long-term memory",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"regulation of sequence-specific DNA binding transcription factor activity",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"neuron projection morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"positive regulation of transporter activity",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"renal sodium ion absorption",GO Process
+https://pharos.nih.gov/idg/targets/O00141,O00141,"regulation of gastric acid secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"cytoplasmic vesicle",GO Component
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"early endosome",GO Component
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"recycling endosome",GO Component
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"phosphatidylinositol binding",GO Function
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"potassium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"sodium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"calcium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"chloride channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"response to stress",GO Process
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"regulation of cell growth",GO Process
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"regulation of cell migration",GO Process
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"regulation of sequence-specific DNA binding transcription factor activity",GO Process
+https://pharos.nih.gov/idg/targets/Q96BR1,Q96BR1,"positive regulation of transporter activity",GO Process
+https://pharos.nih.gov/idg/targets/P43250,P43250,membrane,GO Component
+https://pharos.nih.gov/idg/targets/P43250,P43250,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P43250,P43250,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P43250,P43250,"G-protein coupled receptor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P43250,P43250,"beta-adrenergic receptor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P43250,P43250,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P43250,P43250,"Wnt signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P43250,P43250,"regulation of G-protein coupled receptor protein signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,membrane,GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"apical plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"membrane raft",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,endosome,GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"bicellular tight junction",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"cell-cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,vesicle,GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"microtubule organizing center",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"nuclear matrix",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"cell leading edge",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"nuclear envelope",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"apical cortex",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"filamentous actin",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"axon hillock",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"myelin sheath abaxonal region",GO Component
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"protein kinase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"phospholipase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"potassium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"protein domain specific binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"14-3-3 protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"insulin receptor substrate binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"cell migration",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"positive regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"positive regulation of cell-matrix adhesion",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"protein localization to plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"negative regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"inflammatory response",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"actin cytoskeleton reorganization",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"vesicle transport along microtubule",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"microtubule cytoskeleton organization",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"positive regulation of NF-kappaB transcription factor activity",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"neuron projection extension",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"positive regulation of T-helper 2 cell cytokine production",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"positive regulation of ERK1 and ERK2 cascade",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"transforming growth factor beta receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"membrane depolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"membrane hyperpolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"long-term synaptic potentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"negative regulation of protein complex assembly",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"protein kinase C signaling",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"insulin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"positive regulation of excitatory postsynaptic potential",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"protein heterooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"long-term memory",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"positive regulation of insulin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"positive regulation of glucose import",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"establishment of cell polarity",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"negative regulation of insulin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"positive regulation of interleukin-4 production",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"activation of protein kinase B activity",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"negative regulation of hydrolase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"positive regulation of T-helper 2 cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"activation of phospholipase D activity",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"positive regulation of interleukin-10 secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"negative regulation of peptidyl-tyrosine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"positive regulation of interleukin-13 secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q05513,Q05513,"positive regulation of interleukin-5 secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBS0,Q9UBS0,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q9UBS0,Q9UBS0,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q9UBS0,Q9UBS0,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q9UBS0,Q9UBS0,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UBS0,Q9UBS0,"peptide binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UBS0,Q9UBS0,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UBS0,Q9UBS0,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UBS0,Q9UBS0,"ribosomal protein S6 kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UBS0,Q9UBS0,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBS0,Q9UBS0,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBS0,Q9UBS0,translation,GO Process
+https://pharos.nih.gov/idg/targets/Q9UBS0,Q9UBS0,"protein kinase B signaling",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBS0,Q9UBS0,"positive regulation of translational initiation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/P31749,P31749,"ciliary basal body",GO Component
+https://pharos.nih.gov/idg/targets/P31749,P31749,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P31749,P31749,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P31749,P31749,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P31749,P31749,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P31749,P31749,mitochondrion,GO Component
+https://pharos.nih.gov/idg/targets/P31749,P31749,"protein complex",GO Component
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cell-cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P31749,P31749,vesicle,GO Component
+https://pharos.nih.gov/idg/targets/P31749,P31749,"microtubule cytoskeleton",GO Component
+https://pharos.nih.gov/idg/targets/P31749,P31749,spindle,GO Component
+https://pharos.nih.gov/idg/targets/P31749,P31749,postsynapse,GO Component
+https://pharos.nih.gov/idg/targets/P31749,P31749,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"protein homodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"enzyme binding",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"protein kinase C binding",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"protein serine-threonine-tyrosine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"phosphatidylinositol-3,4,5-trisphosphate binding",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"protein phosphatase 2A binding",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"14-3-3 protein binding",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"nitric-oxide synthase regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"GTPase activating protein binding",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"phosphatidylinositol-3,4-bisphosphate binding",GO Function
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of transcription from RNA polymerase II promoter",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cellular protein modification process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"protein ubiquitination",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"response to oxidative stress",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"inflammatory response",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of cell growth",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of protein kinase activity",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cellular response to reactive oxygen species",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cellular response to insulin stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"protein autophosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"execution phase of apoptosis",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,aging,GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,translation,GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of fat cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cellular response to DNA damage stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"platelet activation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"mammary gland epithelial cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cellular response to tumor necrosis factor",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"osteoblast differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of transcription, DNA-templated",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of vasoconstriction",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"regulation of glycogen biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"protein catabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cellular response to vascular endothelial growth factor stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"regulation of translation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"regulation of signal transduction by p53 class mediator",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"NIK-NF-kappaB signaling",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"regulation of mRNA stability",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"glycogen biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"glucose homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cellular response to mechanical stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"peptidyl-threonine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of organ growth",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"glucose metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of smooth muscle cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of nitric oxide biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of gene expression",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cell projection organization",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"response to heat",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"phosphatidylinositol 3-kinase signaling",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"response to insulin-like growth factor stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cellular response to nerve growth factor stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of sequence-specific DNA binding transcription factor activity",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"glucose transport",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"insulin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of proteasomal ubiquitin-dependent protein catabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"protein import into nucleus, translocation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"I-kappaB kinase-NF-kappaB signaling",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"regulation of cell migration",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of sodium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"T cell costimulation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cellular response to hypoxia",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,anoikis,GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of neuron death",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of protein kinase B signaling",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of lipid biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"endocrine pancreas development",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of glucose metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of epidermal growth factor receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of protein localization to plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"response to food",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of glucose import",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cellular response to cadmium ion",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"lipopolysaccharide-mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,phosphorylation,GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of extrinsic apoptotic signaling pathway in absence of ligand",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of cysteine-type endopeptidase activity involved in apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of nitric-oxide synthase activity",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of endothelial cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"spinal cord development",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cellular response to epidermal growth factor stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"protein kinase B signaling",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"epidermal growth factor receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cellular response to organic cyclic compound",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"response to fluid shear stress",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"labyrinthine layer blood vessel development",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of protein localization to nucleus",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of autophagy",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"activation of protein kinase B activity",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"TOR signaling",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"regulation of nitric-oxide synthase activity",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of mitochondrial membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"apoptotic mitochondrial changes",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cellular response to prostaglandin E stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"establishment of protein localization to mitochondrion",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"maintenance of protein location in mitochondrion",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"hyaluronan metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of plasma membrane long-chain fatty acid transport",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of glycogen biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"regulation of neuron projection development",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"nitric oxide biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of cyclin-dependent protein serine-threonine kinase activity involved in G1-S transition of mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"response to growth hormone",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"maternal placenta development",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of endopeptidase activity",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of macroautophagy",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"cellular response to granulocyte macrophage colony-stimulating factor stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of JNK cascade",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"germ cell development",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of cellular protein metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of proteolysis",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of blood vessel endothelial cell migration",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"striated muscle cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"chemical synaptic transmission, postsynaptic",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of fibroblast migration",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"interleukin-18-mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of release of cytochrome c from mitochondria",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"insulin-like growth factor receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"regulation of myelination",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"activation-induced cell death of T cells",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of I-kappaB phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of cell size",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"response to UV-A",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"positive regulation of endodeoxyribonuclease activity",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"peripheral nervous system myelin maintenance",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of fatty acid beta-oxidation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"glycogen cell differentiation involved in embryonic placenta development",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"negative regulation of protein kinase activity by protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P31749,P31749,"regulation of cell cycle checkpoint",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/P31751,P31751,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P31751,P31751,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P31751,P31751,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P31751,P31751,"intracellular membrane-bounded organelle",GO Component
+https://pharos.nih.gov/idg/targets/P31751,P31751,"cell cortex",GO Component
+https://pharos.nih.gov/idg/targets/P31751,P31751,"protein complex",GO Component
+https://pharos.nih.gov/idg/targets/P31751,P31751,"early endosome",GO Component
+https://pharos.nih.gov/idg/targets/P31751,P31751,"ruffle membrane",GO Component
+https://pharos.nih.gov/idg/targets/P31751,P31751,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P31751,P31751,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P31751,P31751,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P31751,P31751,"cellular protein modification process",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"positive regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"protein localization to plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"negative regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"cellular response to insulin stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"positive regulation of cell migration",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"positive regulation of cell motility",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"mammary gland epithelial cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"regulation of translation",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"positive regulation of protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"glycogen biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"glucose metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"insulin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"fat cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"regulation of cell migration",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"positive regulation of glucose metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"activation of GTPase activity",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"positive regulation of glucose import in response to insulin stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"positive regulation of glucose import",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"positive regulation of protein targeting to membrane",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"positive regulation of mitochondrial membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"carbohydrate transport",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"regulation of cell cycle arrest",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"negative regulation of plasma membrane long-chain fatty acid transport",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"positive regulation of fatty acid beta-oxidation",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"positive regulation of glycogen biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"intracellular protein transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"positive regulation of vesicle fusion",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"peripheral nervous system myelin maintenance",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"cellular response to high light intensity",GO Process
+https://pharos.nih.gov/idg/targets/P31751,P31751,"retinal rod cell apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,membrane,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,"positive regulation of TOR signaling",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,"mitochondrial genome maintenance",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,"brain morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,"homeostasis of number of cells within a tissue",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y243,Q9Y243,"positive regulation of cell size",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"Golgi apparatus",GO Component
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,mitochondrion,GO Component
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,cytoskeleton,GO Component
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"cell periphery",GO Component
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"enzyme binding",GO Function
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"enzyme activator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"signal transducer activity",GO Function
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"14-3-3 protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"actin monomer binding",GO Function
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"ethanol binding",GO Function
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"receptor activator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"calcium-independent protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"cell adhesion",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"response to morphine",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"positive regulation of actin filament polymerization",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"Fc-gamma receptor signaling pathway involved in phagocytosis",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"platelet activation",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"cell division",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"negative regulation of protein ubiquitination",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"positive regulation of I-kappaB kinase-NF-kappaB signaling",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"TRAM-dependent toll-like receptor 4 signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"regulation of insulin secretion involved in cellular response to glucose stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"cellular response to ethanol",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"cellular response to hypoxia",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"positive regulation of MAPK cascade",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"positive regulation of cell-substrate adhesion",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"positive regulation of protein localization to plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"positive regulation of wound healing",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"lipopolysaccharide-mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"positive regulation of cytokinesis",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"positive regulation of epithelial cell migration",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"negative regulation of sodium ion transmembrane transporter activity",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"release of sequestered calcium ion into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"positive regulation of lipid catabolic process",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"positive regulation of mucus secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"cellular response to prostaglandin E stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"positive regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"regulation of release of sequestered calcium ion into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"regulation of peptidyl-tyrosine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"locomotory exploration behavior",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"positive regulation of fibroblast migration",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"positive regulation of synaptic transmission, GABAergic",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"macrophage activation involved in immune response",GO Process
+https://pharos.nih.gov/idg/targets/Q02156,Q02156,"positive regulation of cellular glucuronidation",GO Process
+https://pharos.nih.gov/idg/targets/P34947,P34947,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P34947,P34947,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P34947,P34947,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P34947,P34947,"nuclear speck",GO Component
+https://pharos.nih.gov/idg/targets/P34947,P34947,"nuclear membrane",GO Component
+https://pharos.nih.gov/idg/targets/P34947,P34947,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P34947,P34947,"protein kinase C binding",GO Function
+https://pharos.nih.gov/idg/targets/P34947,P34947,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P34947,P34947,"phospholipid binding",GO Function
+https://pharos.nih.gov/idg/targets/P34947,P34947,"G-protein coupled receptor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P34947,P34947,"beta-adrenergic receptor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P34947,P34947,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P34947,P34947,"positive regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P34947,P34947,"negative regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P34947,P34947,"apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P34947,P34947,"protein autophosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P34947,P34947,"regulation of cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/P34947,P34947,"adenylate cyclase-modulating G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P34947,P34947,"Wnt signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P34947,P34947,"fat cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P34947,P34947,"tachykinin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P34947,P34947,"regulation of G-protein coupled receptor protein signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q15835,Q15835,"photoreceptor disc membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q15835,Q15835,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q15835,Q15835,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15835,Q15835,"G-protein coupled receptor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15835,Q15835,"rhodopsin kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15835,Q15835,"protein autophosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q15835,Q15835,"visual perception",GO Process
+https://pharos.nih.gov/idg/targets/Q15835,Q15835,"regulation of rhodopsin mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q15835,Q15835,"rhodopsin mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q15835,Q15835,"regulation of G-protein coupled receptor protein signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"microtubule organizing center",GO Component
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"spindle pole",GO Component
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"positive regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"negative regulation of canonical Wnt signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"cell division",GO Process
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"regulation of organ growth",GO Process
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"G1-S transition of mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"hippo signaling",GO Process
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"negative regulation of cyclin-dependent protein serine-threonine kinase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q9NRM7,Q9NRM7,"hormone-mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P17252,P17252,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P17252,P17252,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P17252,P17252,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P17252,P17252,"endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/P17252,P17252,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/P17252,P17252,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/P17252,P17252,mitochondrion,GO Component
+https://pharos.nih.gov/idg/targets/P17252,P17252,"mitochondrial membrane",GO Component
+https://pharos.nih.gov/idg/targets/P17252,P17252,"zinc ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P17252,P17252,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P17252,P17252,"enzyme binding",GO Function
+https://pharos.nih.gov/idg/targets/P17252,P17252,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P17252,P17252,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P17252,P17252,"calcium-dependent protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/P17252,P17252,"histone kinase activity (H3-T6 specific)",GO Function
+https://pharos.nih.gov/idg/targets/P17252,P17252,"protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/P17252,P17252,"cell adhesion",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"response to interleukin-1",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"positive regulation of cell migration",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,angiogenesis,GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"platelet activation",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"positive regulation of cell adhesion",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"mitotic nuclear envelope disassembly",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"positive regulation of angiogenesis",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"positive regulation of ERK1 and ERK2 cascade",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"regulation of mRNA stability",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"apoptotic signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"axon guidance",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"negative regulation of adenylate cyclase activity",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"activation of adenylate cyclase activity",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"positive regulation of cardiac muscle hypertrophy",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"positive regulation of endothelial cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"positive regulation of endothelial cell migration",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"ERBB2 signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"desmosome assembly",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"positive regulation of macrophage differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"positive regulation of lipopolysaccharide-mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"positive regulation of mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"histone H3-T6 phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"positive regulation of blood vessel endothelial cell migration",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"negative regulation of glial cell apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"regulation of platelet aggregation",GO Process
+https://pharos.nih.gov/idg/targets/P17252,P17252,"positive regulation of dense core granule biogenesis",GO Process
+https://pharos.nih.gov/idg/targets/Q8WU08,Q8WU08,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8WU08,Q8WU08,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q8WU08,Q8WU08,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8WU08,Q8WU08,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8WU08,Q8WU08,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8WU08,Q8WU08,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q8WU08,Q8WU08,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9NY57,Q9NY57,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q9NY57,Q9NY57,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9NY57,Q9NY57,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9NY57,Q9NY57,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9NY57,Q9NY57,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9NY57,Q9NY57,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q86UX6,Q86UX6,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q86UX6,Q86UX6,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q86UX6,Q86UX6,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q86UX6,Q86UX6,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q86UX6,Q86UX6,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q86UX6,Q86UX6,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y2H1,Q9Y2H1,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y2H1,Q9Y2H1,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y2H1,Q9Y2H1,membrane,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y2H1,Q9Y2H1,"actin cytoskeleton",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y2H1,Q9Y2H1,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y2H1,Q9Y2H1,"actin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y2H1,Q9Y2H1,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y2H1,Q9Y2H1,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y2H1,Q9Y2H1,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y2H1,Q9Y2H1,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y2H1,Q9Y2H1,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y2H1,Q9Y2H1,"regulation of cellular component organization",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"cell-cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,cytoskeleton,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,lamellipodium,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,actomyosin,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"cell leading edge",GO Component
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"Rho GTPase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"cell migration",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"actin cytoskeleton reorganization",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"cytoskeleton organization",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"actomyosin structure organization",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y5S2,Q9Y5S2,"establishment or maintenance of cell polarity",GO Process
+https://pharos.nih.gov/idg/targets/Q6DT37,Q6DT37,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q6DT37,Q6DT37,"microtubule organizing center",GO Component
+https://pharos.nih.gov/idg/targets/Q6DT37,Q6DT37,"cell leading edge",GO Component
+https://pharos.nih.gov/idg/targets/Q6DT37,Q6DT37,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q6DT37,Q6DT37,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q6DT37,Q6DT37,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q6DT37,Q6DT37,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q6DT37,Q6DT37,"actin cytoskeleton reorganization",GO Process
+https://pharos.nih.gov/idg/targets/Q6DT37,Q6DT37,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q6P0Q8,Q6P0Q8,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q6P0Q8,Q6P0Q8,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q6P0Q8,Q6P0Q8,"microtubule cytoskeleton",GO Component
+https://pharos.nih.gov/idg/targets/Q6P0Q8,Q6P0Q8,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q6P0Q8,Q6P0Q8,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q6P0Q8,Q6P0Q8,"microtubule binding",GO Function
+https://pharos.nih.gov/idg/targets/Q6P0Q8,Q6P0Q8,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q6P0Q8,Q6P0Q8,"phosphatase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q6P0Q8,Q6P0Q8,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q6P0Q8,Q6P0Q8,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q6P0Q8,Q6P0Q8,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q6P0Q8,Q6P0Q8,"cytoskeleton organization",GO Process
+https://pharos.nih.gov/idg/targets/Q6P0Q8,Q6P0Q8,"regulation of interleukin-12 biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/Q6P0Q8,Q6P0Q8,"spermatid differentiation",GO Process
+https://pharos.nih.gov/idg/targets/O60307,O60307,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/O60307,O60307,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/O60307,O60307,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O60307,O60307,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/O60307,O60307,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/O60307,O60307,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/O60307,O60307,"cytoskeleton organization",GO Process
+https://pharos.nih.gov/idg/targets/O15021,O15021,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/O15021,O15021,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/O15021,O15021,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/O15021,O15021,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O15021,O15021,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/O15021,O15021,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/O15021,O15021,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q6P5Z2,Q6P5Z2,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q6P5Z2,Q6P5Z2,"Golgi apparatus",GO Component
+https://pharos.nih.gov/idg/targets/Q6P5Z2,Q6P5Z2,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/Q6P5Z2,Q6P5Z2,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q6P5Z2,Q6P5Z2,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q6P5Z2,Q6P5Z2,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q6P5Z2,Q6P5Z2,"protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/Q6P5Z2,Q6P5Z2,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q6P5Z2,Q6P5Z2,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q6P5Z2,Q6P5Z2,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q6P5Z2,Q6P5Z2,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q6P5Z2,Q6P5Z2,"epithelial cell migration",GO Process
+https://pharos.nih.gov/idg/targets/P22694,P22694,centrosome,GO Component
+https://pharos.nih.gov/idg/targets/P22694,P22694,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P22694,P22694,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P22694,P22694,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P22694,P22694,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/P22694,P22694,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/P22694,P22694,"intercellular bridge",GO Component
+https://pharos.nih.gov/idg/targets/P22694,P22694,"cAMP-dependent protein kinase complex",GO Component
+https://pharos.nih.gov/idg/targets/P22694,P22694,"ciliary base",GO Component
+https://pharos.nih.gov/idg/targets/P22694,P22694,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P22694,P22694,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P22694,P22694,"ubiquitin protein ligase binding",GO Function
+https://pharos.nih.gov/idg/targets/P22694,P22694,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P22694,P22694,"kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P22694,P22694,"cAMP-dependent protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P22694,P22694,"neural tube closure",GO Process
+https://pharos.nih.gov/idg/targets/P22694,P22694,"negative regulation of meiotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/P22694,P22694,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P22694,P22694,"protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P22694,P22694,"stimulatory C-type lectin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P22694,P22694,"adenylate cyclase-modulating G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P22694,P22694,"blood coagulation",GO Process
+https://pharos.nih.gov/idg/targets/P22694,P22694,"cellular response to glucagon stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P22694,P22694,"high-density lipoprotein particle assembly",GO Process
+https://pharos.nih.gov/idg/targets/P22694,P22694,"activation of protein kinase A activity",GO Process
+https://pharos.nih.gov/idg/targets/P22694,P22694,"renal water homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/P22694,P22694,"regulation of protein processing",GO Process
+https://pharos.nih.gov/idg/targets/P22694,P22694,"negative regulation of smoothened signaling pathway involved in dorsal-ventral neural tube patterning",GO Process
+https://pharos.nih.gov/idg/targets/P22694,P22694,"response to clozapine",GO Process
+https://pharos.nih.gov/idg/targets/P22612,P22612,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P22612,P22612,nucleoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P22612,P22612,"intercellular bridge",GO Component
+https://pharos.nih.gov/idg/targets/P22612,P22612,"ciliary base",GO Component
+https://pharos.nih.gov/idg/targets/P22612,P22612,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/P22612,P22612,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P22612,P22612,"cAMP-dependent protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/P22612,P22612,spermatogenesis,GO Process
+https://pharos.nih.gov/idg/targets/P22612,P22612,"male gonad development",GO Process
+https://pharos.nih.gov/idg/targets/P22612,P22612,"stimulatory C-type lectin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P22612,P22612,"blood coagulation",GO Process
+https://pharos.nih.gov/idg/targets/P22612,P22612,"cellular response to glucagon stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P22612,P22612,"high-density lipoprotein particle assembly",GO Process
+https://pharos.nih.gov/idg/targets/P22612,P22612,"activation of protein kinase A activity",GO Process
+https://pharos.nih.gov/idg/targets/P22612,P22612,"renal water homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"microtubule organizing center",GO Component
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"immunological synapse",GO Component
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,aggresome,GO Component
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"protein kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"protein kinase C activity",GO Function
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"regulation of transcription, DNA-templated",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"intracellular signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"inflammatory response",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"Fc-epsilon receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"positive regulation of NF-kappaB transcription factor activity",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"execution phase of apoptosis",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"platelet activation",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"regulation of megakaryocyte differentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"membrane protein ectodomain proteolysis",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"positive regulation of telomere maintenance via telomerase",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"T cell receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"regulation of cell growth",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"axon guidance",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"cell chemotaxis",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"positive regulation of telomerase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"positive regulation of telomere capping",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"positive regulation of T cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"positive regulation of T cell activation",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"negative regulation of insulin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"positive regulation of interleukin-4 production",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"positive regulation of T-helper 17 type immune response",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"positive regulation of interleukin-17 production",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"positive regulation of interleukin-2 biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"negative regulation of T cell apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"regulation of platelet aggregation",GO Process
+https://pharos.nih.gov/idg/targets/Q04759,Q04759,"positive regulation of T-helper 2 cell activation",GO Process
+https://pharos.nih.gov/idg/targets/Q96S38,Q96S38,membrane,GO Component
+https://pharos.nih.gov/idg/targets/Q96S38,Q96S38,"early endosome",GO Component
+https://pharos.nih.gov/idg/targets/Q96S38,Q96S38,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q96S38,Q96S38,"phosphatidylinositol binding",GO Function
+https://pharos.nih.gov/idg/targets/Q96S38,Q96S38,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96S38,Q96S38,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9Y6S9,Q9Y6S9,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y6S9,Q9Y6S9,ribosome,GO Component
+https://pharos.nih.gov/idg/targets/Q9Y6S9,Q9Y6S9,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y6S9,Q9Y6S9,"protein serine-threonine kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9Y6S9,Q9Y6S9,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q96LW2,Q96LW2,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q96LW2,Q96LW2,"protein serine-threonine kinase activity",GO Function

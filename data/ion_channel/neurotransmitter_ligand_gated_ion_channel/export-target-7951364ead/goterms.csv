@@ -1,0 +1,797 @@
+"URL","Uniprot ID","GOTerm","GOType"
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"response to drug",GO Process
+https://pharos.nih.gov/idg/targets/Q99928,Q99928,"gamma-aminobutyric acid signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P28472,P28472,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P28472,P28472,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P28472,P28472,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P28472,P28472,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P28472,P28472,"cytoplasmic vesicle membrane",GO Component
+https://pharos.nih.gov/idg/targets/P28472,P28472,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P28472,P28472,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P28472,P28472,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/P28472,P28472,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P28472,P28472,"GABA-gated chloride ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P28472,P28472,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P28472,P28472,"palate development",GO Process
+https://pharos.nih.gov/idg/targets/P28472,P28472,transport,GO Process
+https://pharos.nih.gov/idg/targets/P28472,P28472,"sensory perception of sound",GO Process
+https://pharos.nih.gov/idg/targets/P28472,P28472,"chloride transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P28472,P28472,"inner ear receptor cell development",GO Process
+https://pharos.nih.gov/idg/targets/P28472,P28472,"cochlea development",GO Process
+https://pharos.nih.gov/idg/targets/P28472,P28472,"negative regulation of neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P28472,P28472,"gamma-aminobutyric acid signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P28472,P28472,innervation,GO Process
+https://pharos.nih.gov/idg/targets/P28472,P28472,"cellular response to histamine",GO Process
+https://pharos.nih.gov/idg/targets/P28472,P28472,"inhibitory postsynaptic potential",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P17787,P17787,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/P17787,P17787,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P17787,P17787,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P17787,P17787,"external side of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P17787,P17787,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P17787,P17787,"plasma membrane raft",GO Component
+https://pharos.nih.gov/idg/targets/P17787,P17787,"protein heterodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/P17787,P17787,"drug binding",GO Function
+https://pharos.nih.gov/idg/targets/P17787,P17787,"acetylcholine binding",GO Function
+https://pharos.nih.gov/idg/targets/P17787,P17787,"acetylcholine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P17787,P17787,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P17787,P17787,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P17787,P17787,"B cell activation",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"positive regulation of B cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"synaptic transmission, cholinergic",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"nervous system process",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"sensory perception of sound",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"visual perception",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"response to hypoxia",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,cognition,GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"action potential",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"locomotory behavior",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"membrane depolarization",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"visual learning",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"social behavior",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,learning,GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,memory,GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"response to cocaine",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"protein heterooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"response to ethanol",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"regulation of dendrite morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"behavioral response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"smooth muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"synaptic transmission involved in micturition",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"optic nerve morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"associative learning",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"neuromuscular synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"regulation of circadian sleep-wake cycle, non-REM sleep",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"regulation of dopamine secretion",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"acetylcholine receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"central nervous system projection neuron axonogenesis",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"conditioned taste aversion",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"lateral geniculate nucleus development",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"negative regulation of action potential",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"positive regulation of dopamine secretion",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"positive regulation of synaptic transmission, dopaminergic",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"regulation of circadian sleep-wake cycle, REM sleep",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"regulation of dopamine metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"regulation of synapse assembly",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"regulation of synaptic transmission, dopaminergic",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"response to acetylcholine",GO Process
+https://pharos.nih.gov/idg/targets/P17787,P17787,"vestibulocochlear nerve development",GO Process
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"transmembrane signaling receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"neurotransmitter transporter activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UN88,Q9UN88,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P02708,P02708,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P02708,P02708,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/P02708,P02708,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P02708,P02708,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P02708,P02708,"neuromuscular junction",GO Component
+https://pharos.nih.gov/idg/targets/P02708,P02708,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P02708,P02708,"ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P02708,P02708,"acetylcholine binding",GO Function
+https://pharos.nih.gov/idg/targets/P02708,P02708,"acetylcholine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P02708,P02708,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P02708,P02708,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P02708,P02708,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P02708,P02708,"synaptic transmission, cholinergic",GO Process
+https://pharos.nih.gov/idg/targets/P02708,P02708,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/P02708,P02708,transport,GO Process
+https://pharos.nih.gov/idg/targets/P02708,P02708,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/P02708,P02708,"neuromuscular junction development",GO Process
+https://pharos.nih.gov/idg/targets/P02708,P02708,"response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/P02708,P02708,"neuromuscular synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P02708,P02708,"neuromuscular process",GO Process
+https://pharos.nih.gov/idg/targets/P02708,P02708,"muscle cell cellular homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/P02708,P02708,"skeletal muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P02708,P02708,"musculoskeletal movement",GO Process
+https://pharos.nih.gov/idg/targets/P02708,P02708,"skeletal muscle tissue growth",GO Process
+https://pharos.nih.gov/idg/targets/P02708,P02708,"neuron cellular homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/P48169,P48169,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P48169,P48169,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P48169,P48169,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P48169,P48169,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P48169,P48169,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P48169,P48169,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P48169,P48169,"chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P48169,P48169,"extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P48169,P48169,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P48169,P48169,"benzodiazepine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P48169,P48169,transport,GO Process
+https://pharos.nih.gov/idg/targets/P48169,P48169,"central nervous system development",GO Process
+https://pharos.nih.gov/idg/targets/P48169,P48169,"gamma-aminobutyric acid signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P48169,P48169,"regulation of response to drug",GO Process
+https://pharos.nih.gov/idg/targets/O95264,O95264,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O95264,O95264,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O95264,O95264,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/O95264,O95264,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/O95264,O95264,"serotonin-activated cation-selective channel complex",GO Component
+https://pharos.nih.gov/idg/targets/O95264,O95264,"serotonin-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O95264,O95264,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P14867,P14867,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P14867,P14867,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P14867,P14867,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P14867,P14867,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P14867,P14867,"cytoplasmic vesicle membrane",GO Component
+https://pharos.nih.gov/idg/targets/P14867,P14867,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P14867,P14867,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P14867,P14867,"GABA receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P14867,P14867,"drug binding",GO Function
+https://pharos.nih.gov/idg/targets/P14867,P14867,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P14867,P14867,"GABA-gated chloride ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P14867,P14867,"transmitter-gated ion channel activity involved in regulation of postsynaptic membrane potential",GO Function
+https://pharos.nih.gov/idg/targets/P14867,P14867,transport,GO Process
+https://pharos.nih.gov/idg/targets/P14867,P14867,"chloride transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P14867,P14867,"gamma-aminobutyric acid signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P14867,P14867,"cellular response to histamine",GO Process
+https://pharos.nih.gov/idg/targets/P14867,P14867,"synaptic transmission, GABAergic",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P36544,P36544,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/P36544,P36544,"apical plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P36544,P36544,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P36544,P36544,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P36544,P36544,"external side of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P36544,P36544,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P36544,P36544,"plasma membrane raft",GO Component
+https://pharos.nih.gov/idg/targets/P36544,P36544,axolemma,GO Component
+https://pharos.nih.gov/idg/targets/P36544,P36544,postsynapse,GO Component
+https://pharos.nih.gov/idg/targets/P36544,P36544,"protein homodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/P36544,P36544,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P36544,P36544,"amyloid-beta binding",GO Function
+https://pharos.nih.gov/idg/targets/P36544,P36544,"ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P36544,P36544,"acetylcholine binding",GO Function
+https://pharos.nih.gov/idg/targets/P36544,P36544,"acetylcholine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P36544,P36544,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P36544,P36544,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P36544,P36544,"chloride channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/P36544,P36544,"toxic substance binding",GO Function
+https://pharos.nih.gov/idg/targets/P36544,P36544,"B cell activation",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"positive regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,endocytosis,GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"learning or memory",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"synaptic transmission, cholinergic",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"activation of MAPK activity",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"positive regulation of angiogenesis",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"response to hypoxia",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"flagellated sperm motility",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"positive regulation of ERK1 and ERK2 cascade",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"positive regulation of protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,cognition,GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"positive regulation of peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"negative regulation of interleukin-6 production",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"positive regulation of protein metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"negative regulation of protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"negative regulation of tumor necrosis factor production",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"positive regulation of long-term synaptic potentiation",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"sensory processing",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,memory,GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"positive regulation of excitatory postsynaptic potential",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"cellular calcium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"response to cold",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"response to food",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"negative regulation of inflammatory response",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"behavioral response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"associative learning",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"negative regulation of interleukin-1 beta production",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"regulation of norepinephrine secretion",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"short-term memory",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"synapse organization",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"T cell activation",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"positive regulation of amyloid-beta formation",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"acetylcholine receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"regulation of synaptic transmission, dopaminergic",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"response to acetylcholine",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"regulation of neuron death",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"behavioral response to ethanol",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"modulation of excitatory postsynaptic potential",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"regulation of amyloid precursor protein catabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"negative regulation of amyloid-beta formation",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"regulation of amyloid fibril formation",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"dendrite arborization",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"dendritic spine organization",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"generation of ovulation cycle rhythm",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"positive regulation of CoA-transferase activity",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"positive regulation of heart rate involved in baroreceptor response to decreased systemic arterial blood pressure",GO Process
+https://pharos.nih.gov/idg/targets/P36544,P36544,"response to amyloid-beta",GO Process
+https://pharos.nih.gov/idg/targets/P31644,P31644,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P31644,P31644,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P31644,P31644,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/P31644,P31644,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P31644,P31644,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P31644,P31644,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P31644,P31644,"neuronal cell body membrane",GO Component
+https://pharos.nih.gov/idg/targets/P31644,P31644,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P31644,P31644,"receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P31644,P31644,"chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P31644,P31644,"transporter activity",GO Function
+https://pharos.nih.gov/idg/targets/P31644,P31644,"GABA receptor binding",GO Function
+https://pharos.nih.gov/idg/targets/P31644,P31644,"extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P31644,P31644,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P31644,P31644,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P31644,P31644,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P31644,P31644,transport,GO Process
+https://pharos.nih.gov/idg/targets/P31644,P31644,"sensory perception of sound",GO Process
+https://pharos.nih.gov/idg/targets/P31644,P31644,"inner ear receptor cell development",GO Process
+https://pharos.nih.gov/idg/targets/P31644,P31644,"brain development",GO Process
+https://pharos.nih.gov/idg/targets/P31644,P31644,"cochlea development",GO Process
+https://pharos.nih.gov/idg/targets/P31644,P31644,"associative learning",GO Process
+https://pharos.nih.gov/idg/targets/P31644,P31644,"negative regulation of neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P31644,P31644,"behavioral fear response",GO Process
+https://pharos.nih.gov/idg/targets/P31644,P31644,"gamma-aminobutyric acid signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P31644,P31644,innervation,GO Process
+https://pharos.nih.gov/idg/targets/P18505,P18505,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P18505,P18505,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P18505,P18505,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P18505,P18505,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/P18505,P18505,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P18505,P18505,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P18505,P18505,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P18505,P18505,"nuclear envelope",GO Component
+https://pharos.nih.gov/idg/targets/P18505,P18505,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P18505,P18505,"GABA receptor binding",GO Function
+https://pharos.nih.gov/idg/targets/P18505,P18505,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P18505,P18505,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P18505,P18505,"GABA-gated chloride ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P18505,P18505,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P18505,P18505,"response to progesterone",GO Process
+https://pharos.nih.gov/idg/targets/P18505,P18505,transport,GO Process
+https://pharos.nih.gov/idg/targets/P18505,P18505,"ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P18505,P18505,"chloride transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P18505,P18505,"response to toxic substance",GO Process
+https://pharos.nih.gov/idg/targets/P18505,P18505,"gamma-aminobutyric acid signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P18505,P18505,"central nervous system neuron development",GO Process
+https://pharos.nih.gov/idg/targets/P18505,P18505,"cellular response to histamine",GO Process
+https://pharos.nih.gov/idg/targets/P18505,P18505,"ovulation cycle",GO Process
+https://pharos.nih.gov/idg/targets/P30926,P30926,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P30926,P30926,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P30926,P30926,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/P30926,P30926,"neuron projection",GO Component
+https://pharos.nih.gov/idg/targets/P30926,P30926,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P30926,P30926,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P30926,P30926,"specific granule membrane",GO Component
+https://pharos.nih.gov/idg/targets/P30926,P30926,"tertiary granule membrane",GO Component
+https://pharos.nih.gov/idg/targets/P30926,P30926,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P30926,P30926,"protein heterodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/P30926,P30926,"drug binding",GO Function
+https://pharos.nih.gov/idg/targets/P30926,P30926,"acetylcholine binding",GO Function
+https://pharos.nih.gov/idg/targets/P30926,P30926,"acetylcholine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P30926,P30926,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P30926,P30926,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P30926,P30926,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P30926,P30926,"synaptic transmission, cholinergic",GO Process
+https://pharos.nih.gov/idg/targets/P30926,P30926,"neutrophil degranulation",GO Process
+https://pharos.nih.gov/idg/targets/P30926,P30926,"ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P30926,P30926,"action potential",GO Process
+https://pharos.nih.gov/idg/targets/P30926,P30926,"locomotory behavior",GO Process
+https://pharos.nih.gov/idg/targets/P30926,P30926,"protein heterooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/P30926,P30926,"regulation of neurotransmitter secretion",GO Process
+https://pharos.nih.gov/idg/targets/P30926,P30926,"behavioral response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/P30926,P30926,"positive regulation of transmission of nerve impulse",GO Process
+https://pharos.nih.gov/idg/targets/P30926,P30926,"regulation of smooth muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P30926,P30926,"response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/P30926,P30926,"smooth muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P30926,P30926,"synaptic transmission involved in micturition",GO Process
+https://pharos.nih.gov/idg/targets/P46098,P46098,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P46098,P46098,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P46098,P46098,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/P46098,P46098,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P46098,P46098,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P46098,P46098,axon,GO Component
+https://pharos.nih.gov/idg/targets/P46098,P46098,"cleavage furrow",GO Component
+https://pharos.nih.gov/idg/targets/P46098,P46098,"serotonin-activated cation-selective channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P46098,P46098,"serotonin binding",GO Function
+https://pharos.nih.gov/idg/targets/P46098,P46098,"serotonin-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P46098,P46098,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P46098,P46098,"cellular response to growth factor stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P46098,P46098,"response to cocaine",GO Process
+https://pharos.nih.gov/idg/targets/P46098,P46098,"response to ethanol",GO Process
+https://pharos.nih.gov/idg/targets/P46098,P46098,"positive regulation of ion transmembrane transporter activity",GO Process
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"benzodiazepine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q16445,Q16445,"gamma-aminobutyric acid signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P34903,P34903,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P34903,P34903,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P34903,P34903,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P34903,P34903,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P34903,P34903,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P34903,P34903,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P34903,P34903,"chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P34903,P34903,"extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P34903,P34903,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P34903,P34903,"benzodiazepine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P34903,P34903,transport,GO Process
+https://pharos.nih.gov/idg/targets/P34903,P34903,"gamma-aminobutyric acid signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O14764,O14764,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O14764,O14764,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/O14764,O14764,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/O14764,O14764,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/O14764,O14764,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/O14764,O14764,"chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O14764,O14764,"extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O14764,O14764,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/O14764,O14764,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/O14764,O14764,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/O14764,O14764,transport,GO Process
+https://pharos.nih.gov/idg/targets/P47869,P47869,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P47869,P47869,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P47869,P47869,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P47869,P47869,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P47869,P47869,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P47869,P47869,"integral component of synaptic vesicle membrane",GO Component
+https://pharos.nih.gov/idg/targets/P47869,P47869,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P47869,P47869,"benzodiazepine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P47869,P47869,"GABA-gated chloride ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P47869,P47869,"neurotransmitter transport",GO Process
+https://pharos.nih.gov/idg/targets/P47869,P47869,"chloride transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P47869,P47869,"gamma-aminobutyric acid signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P47869,P47869,"regulation of neurotransmitter levels",GO Process
+https://pharos.nih.gov/idg/targets/P47870,P47870,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/P47870,P47870,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P47870,P47870,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P47870,P47870,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/P47870,P47870,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P47870,P47870,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P47870,P47870,"cytoplasmic vesicle membrane",GO Component
+https://pharos.nih.gov/idg/targets/P47870,P47870,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P47870,P47870,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P47870,P47870,"chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P47870,P47870,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P47870,P47870,"inhibitory extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P47870,P47870,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P47870,P47870,transport,GO Process
+https://pharos.nih.gov/idg/targets/P47870,P47870,"sensory perception of sound",GO Process
+https://pharos.nih.gov/idg/targets/P47870,P47870,"chloride transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P47870,P47870,"inner ear receptor cell development",GO Process
+https://pharos.nih.gov/idg/targets/P47870,P47870,"cochlea development",GO Process
+https://pharos.nih.gov/idg/targets/P47870,P47870,"negative regulation of neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P47870,P47870,"gamma-aminobutyric acid signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P47870,P47870,innervation,GO Process
+https://pharos.nih.gov/idg/targets/P47870,P47870,"cellular response to histamine",GO Process
+https://pharos.nih.gov/idg/targets/P47870,P47870,"synaptic transmission, GABAergic",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P32297,P32297,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/P32297,P32297,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/P32297,P32297,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/P32297,P32297,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P32297,P32297,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P32297,P32297,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/P32297,P32297,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P32297,P32297,"plasma membrane raft",GO Component
+https://pharos.nih.gov/idg/targets/P32297,P32297,"serotonin-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P32297,P32297,"acetylcholine binding",GO Function
+https://pharos.nih.gov/idg/targets/P32297,P32297,"acetylcholine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P32297,P32297,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P32297,P32297,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P32297,P32297,"nervous system development",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"synaptic transmission, cholinergic",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"locomotory behavior",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"activation of transmembrane receptor protein tyrosine kinase activity",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"regulation of dendrite morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"behavioral response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"regulation of smooth muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"synaptic transmission involved in micturition",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"excitatory postsynaptic potential",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"acetylcholine receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"response to acetylcholine",GO Process
+https://pharos.nih.gov/idg/targets/P32297,P32297,"regulation of acetylcholine secretion, neurotransmission",GO Process
+https://pharos.nih.gov/idg/targets/P23416,P23416,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P23416,P23416,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P23416,P23416,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P23416,P23416,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P23416,P23416,"cell projection",GO Component
+https://pharos.nih.gov/idg/targets/P23416,P23416,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P23416,P23416,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P23416,P23416,"glycine binding",GO Function
+https://pharos.nih.gov/idg/targets/P23416,P23416,"extracellular-glycine-gated chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P23416,P23416,"glycine-gated chloride ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P23416,P23416,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P23416,P23416,"neuropeptide signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P23416,P23416,"ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P23416,P23416,"chloride transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P23416,P23416,"cellular response to amino acid stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P23416,P23416,"cellular response to ethanol",GO Process
+https://pharos.nih.gov/idg/targets/P23416,P23416,"cellular response to zinc ion",GO Process
+https://pharos.nih.gov/idg/targets/P23416,P23416,"synaptic transmission, glycinergic",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,"endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,"intracellular membrane-bounded organelle",GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,"neuron projection",GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,synapse,GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,"external side of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,"inhibitory synapse",GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/P23415,P23415,"zinc ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P23415,P23415,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/P23415,P23415,"glycine binding",GO Function
+https://pharos.nih.gov/idg/targets/P23415,P23415,"extracellular-glycine-gated chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P23415,P23415,"taurine binding",GO Function
+https://pharos.nih.gov/idg/targets/P23415,P23415,"transmitter-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P23415,P23415,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"neuropeptide signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"visual perception",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"action potential",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"chloride transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"chloride transport",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"cellular response to amino acid stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"cellular response to ethanol",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"protein heterooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"acrosome reaction",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"positive regulation of acrosome reaction",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"righting reflex",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"startle response",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"cellular response to zinc ion",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"neuromuscular process controlling posture",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"adult walking behavior",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"synaptic transmission, glycinergic",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"inhibitory postsynaptic potential",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"negative regulation of transmission of nerve impulse",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"regulation of respiratory gaseous exchange by neurological system process",GO Process
+https://pharos.nih.gov/idg/targets/P23415,P23415,"response to alcohol",GO Process
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"acetylcholine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"cation transmembrane transporter activity",GO Function
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"synaptic transmission, cholinergic",GO Process
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/Q04844,Q04844,"neuromuscular synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"neuron projection",GO Component
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"drug binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"acetylcholine binding",GO Function
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"synaptic transmission, cholinergic",GO Process
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"protein heterooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"cation transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q05901,Q05901,"neuromuscular synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q401N2,Q401N2,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q401N2,Q401N2,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q401N2,Q401N2,"zinc ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q401N2,Q401N2,"serotonin-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q401N2,Q401N2,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q401N2,Q401N2,"ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q401N2,Q401N2,"response to zinc ion",GO Process
+https://pharos.nih.gov/idg/targets/P07510,P07510,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P07510,P07510,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P07510,P07510,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P07510,P07510,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P07510,P07510,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P07510,P07510,"acetylcholine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P07510,P07510,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P07510,P07510,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P07510,P07510,"channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P07510,P07510,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P07510,P07510,"synaptic transmission, cholinergic",GO Process
+https://pharos.nih.gov/idg/targets/P07510,P07510,"muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P07510,P07510,transport,GO Process
+https://pharos.nih.gov/idg/targets/P07510,P07510,"response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/P07510,P07510,"cation transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P07510,P07510,"neuromuscular synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"positive regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"inner ear morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/Q9UGM1,Q9UGM1,"detection of mechanical stimulus involved in sensory perception of sound",GO Process
+https://pharos.nih.gov/idg/targets/P18507,P18507,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P18507,P18507,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P18507,P18507,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P18507,P18507,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P18507,P18507,axon,GO Component
+https://pharos.nih.gov/idg/targets/P18507,P18507,"cytoplasmic vesicle membrane",GO Component
+https://pharos.nih.gov/idg/targets/P18507,P18507,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P18507,P18507,"dendrite membrane",GO Component
+https://pharos.nih.gov/idg/targets/P18507,P18507,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P18507,P18507,"chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P18507,P18507,"extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P18507,P18507,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P18507,P18507,"benzodiazepine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P18507,P18507,"post-embryonic development",GO Process
+https://pharos.nih.gov/idg/targets/P18507,P18507,transport,GO Process
+https://pharos.nih.gov/idg/targets/P18507,P18507,"chloride transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P18507,P18507,"adult behavior",GO Process
+https://pharos.nih.gov/idg/targets/P18507,P18507,"gamma-aminobutyric acid signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P18507,P18507,"cellular response to histamine",GO Process
+https://pharos.nih.gov/idg/targets/P18507,P18507,"synaptic transmission, GABAergic",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,membrane,GO Component
+https://pharos.nih.gov/idg/targets/P43681,P43681,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P43681,P43681,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/P43681,P43681,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/P43681,P43681,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/P43681,P43681,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P43681,P43681,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P43681,P43681,"external side of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P43681,P43681,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P43681,P43681,"acetylcholine binding",GO Function
+https://pharos.nih.gov/idg/targets/P43681,P43681,"acetylcholine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P43681,P43681,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P43681,P43681,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P43681,P43681,"B cell activation",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"response to oxidative stress",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"synaptic transmission, cholinergic",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"nervous system process",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"response to hypoxia",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,cognition,GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"action potential",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"locomotory behavior",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"membrane depolarization",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"respiratory gaseous exchange",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"DNA repair",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"exploration behavior",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"behavioral response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"neuromuscular synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"regulation of dopamine secretion",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"acetylcholine receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P43681,P43681,"inhibitory postsynaptic potential",GO Process
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"acetylcholine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"synaptic transmission, cholinergic",GO Process
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"membrane depolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"cation transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"neuromuscular synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q15825,Q15825,"regulation of dopamine secretion",GO Process
+https://pharos.nih.gov/idg/targets/P78334,P78334,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P78334,P78334,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P78334,P78334,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P78334,P78334,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P78334,P78334,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P78334,P78334,"GABA-gated chloride ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P78334,P78334,"negative regulation of chloride transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,membrane,GO Component
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,axon,GO Component
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,"calcium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,"receptor binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,"positive regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,"synaptic transmission, cholinergic",GO Process
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,"inner ear morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,"regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q9GZZ6,Q9GZZ6,"detection of mechanical stimulus involved in sensory perception of sound",GO Process
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"drug binding",GO Function
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"acetylcholine binding",GO Function
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"acetylcholine receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"synaptic transmission, cholinergic",GO Process
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"protein heterooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/Q15822,Q15822,"neuromuscular synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P11230,P11230,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P11230,P11230,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P11230,P11230,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P11230,P11230,synapse,GO Component
+https://pharos.nih.gov/idg/targets/P11230,P11230,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P11230,P11230,"acetylcholine binding",GO Function
+https://pharos.nih.gov/idg/targets/P11230,P11230,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P11230,P11230,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P11230,P11230,"channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P11230,P11230,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P11230,P11230,"cation transport",GO Process
+https://pharos.nih.gov/idg/targets/P11230,P11230,"synaptic transmission, cholinergic",GO Process
+https://pharos.nih.gov/idg/targets/P11230,P11230,"muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P11230,P11230,"nervous system process",GO Process
+https://pharos.nih.gov/idg/targets/P11230,P11230,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/P11230,P11230,"muscle fiber development",GO Process
+https://pharos.nih.gov/idg/targets/P11230,P11230,"behavioral response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/P11230,P11230,"cation transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P11230,P11230,"neuromuscular synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P11230,P11230,"skeletal muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P11230,P11230,"postsynaptic membrane organization",GO Process
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"acetylcholine-gated channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"acetylcholine binding",GO Function
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"acetylcholine-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"synaptic transmission, cholinergic",GO Process
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,transport,GO Process
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"response to nicotine",GO Process
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"cation transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"neuromuscular synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"neuromuscular process",GO Process
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"skeletal muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"musculoskeletal movement",GO Process
+https://pharos.nih.gov/idg/targets/Q07001,Q07001,"skeletal muscle tissue growth",GO Process
+https://pharos.nih.gov/idg/targets/Q8WXA8,Q8WXA8,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8WXA8,Q8WXA8,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8WXA8,Q8WXA8,"serotonin-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8WXA8,Q8WXA8,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q70Z44,Q70Z44,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q70Z44,Q70Z44,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q70Z44,Q70Z44,"serotonin-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q70Z44,Q70Z44,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/A5X5Y0,A5X5Y0,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/A5X5Y0,A5X5Y0,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/A5X5Y0,A5X5Y0,"serotonin-gated cation-selective channel activity",GO Function
+https://pharos.nih.gov/idg/targets/A5X5Y0,A5X5Y0,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"GABA receptor binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q8N1C3,Q8N1C3,"gamma-aminobutyric acid signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O00591,O00591,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/O00591,O00591,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/O00591,O00591,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/O00591,O00591,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/O00591,O00591,"chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O00591,O00591,"extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O00591,O00591,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P24046,P24046,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P24046,P24046,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P24046,P24046,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P24046,P24046,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P24046,P24046,"chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P24046,P24046,"GABA-A receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P24046,P24046,"chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P24046,P24046,"extracellular ligand-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P24046,P24046,"GABA-A receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P24046,P24046,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P24046,P24046,transport,GO Process
+https://pharos.nih.gov/idg/targets/P24046,P24046,"gamma-aminobutyric acid signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O75311,O75311,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O75311,O75311,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O75311,O75311,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/O75311,O75311,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/O75311,O75311,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/O75311,O75311,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/O75311,O75311,"glycine-gated chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/O75311,O75311,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/O75311,O75311,"glycine binding",GO Function
+https://pharos.nih.gov/idg/targets/O75311,O75311,"extracellular-glycine-gated chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O75311,O75311,"glycine-gated chloride ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O75311,O75311,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/O75311,O75311,"neuropeptide signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O75311,O75311,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/O75311,O75311,"response to amino acid",GO Process
+https://pharos.nih.gov/idg/targets/O75311,O75311,"chloride transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/O75311,O75311,"synaptic transmission, glycinergic",GO Process
+https://pharos.nih.gov/idg/targets/P48167,P48167,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P48167,P48167,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P48167,P48167,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P48167,P48167,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/P48167,P48167,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P48167,P48167,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/P48167,P48167,"GABA-ergic synapse",GO Component
+https://pharos.nih.gov/idg/targets/P48167,P48167,"glycine-gated chloride channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P48167,P48167,"drug binding",GO Function
+https://pharos.nih.gov/idg/targets/P48167,P48167,"glycine binding",GO Function
+https://pharos.nih.gov/idg/targets/P48167,P48167,"extracellular-glycine-gated chloride channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P48167,P48167,"extracellular-glycine-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P48167,P48167,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P48167,P48167,"nervous system development",GO Process
+https://pharos.nih.gov/idg/targets/P48167,P48167,"neuropeptide signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P48167,P48167,"visual perception",GO Process
+https://pharos.nih.gov/idg/targets/P48167,P48167,"response to amino acid",GO Process
+https://pharos.nih.gov/idg/targets/P48167,P48167,"ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P48167,P48167,"chloride transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P48167,P48167,"protein heterooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/P48167,P48167,"acrosome reaction",GO Process
+https://pharos.nih.gov/idg/targets/P48167,P48167,"righting reflex",GO Process
+https://pharos.nih.gov/idg/targets/P48167,P48167,"startle response",GO Process
+https://pharos.nih.gov/idg/targets/P48167,P48167,"adult walking behavior",GO Process
+https://pharos.nih.gov/idg/targets/P48167,P48167,"synaptic transmission, glycinergic",GO Process
+https://pharos.nih.gov/idg/targets/P48167,P48167,"gamma-aminobutyric acid receptor clustering",GO Process

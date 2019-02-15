@@ -1,0 +1,1166 @@
+"URL","Uniprot ID","DOID","Name","Description","ZScore","Confidence","Source"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:0050451,"Brugada syndrome",,3.799,1.9,CTD
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D397,"Atrial Fibrillation",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1086,"EPISODIC PAIN SYNDROME, FAMILIAL, 2",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1077,"Heart Block",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1079,Hyperalgesia,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1081,"Ventricular Fibrillation",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1085,"Adult onset",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1083,"Brugada Syndrome (disorder)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1074,"Congenital Pain Insensitivity",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1075,Constipation,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1082,Dyschezia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1078,"Hereditary Sensory Autonomic Neuropathy, Type 5",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1084,"PAROXYSMAL EXTREME PAIN DISORDER",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1076,"Primary Erythermalgia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D322,Seizures,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1096,"Administration of Corneal Anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1092,"Anesthesia for cesarean section",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1122,"Bipolar disorder in remission",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1093,Cough,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1098,Dysuria,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D316,Epilepsy,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1109,"Epilepsy characterized by intractable complex partial seizures",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1123,Hemorrhoids,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1105,"Infestation by Phthirus pubis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1101,"Infestation by Sarcoptes scabiei var hominis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1114,"Itching of skin",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1094,"Lennox-Gastaut syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1119,"Life-Threatening Ventricular Tachycardia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1126,"Local Anesthesia for Endotracheal Intubation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1121,"Local Anesthesia for Ophthalmologic Procedure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1102,"Local Anesthesia for Urethral Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1091,"Local anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1112,"Local anesthetic intrathecal block",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1118,"Localization-related epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1116,"Major Nerve Block for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1103,"Minor Skin Wound Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1111,"Motor cortex epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1129,"Mouth Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1080,Neuralgia,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1087,Parkinsonism,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1089,"Partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1125,"Pediculosis capitis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1115,"Postherpetic neuralgia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1088,"Premature ejaculation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1104,"Prevent Minor Bacterial Skin Infection",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1110,"Pruritus ani",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1120,"Regional Anesthesia for Labor Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1127,"Regional Anesthesia for Ophthalmologic Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1100,"Regional Anesthesia for Postoperative Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1113,"Regional Anesthesia for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1099,"Simple partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1090,"Skin irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1107,"Sore throat symptom",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1095,Spasticity,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1106,"Suppression of the Gag Reflex",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1130,"Tinea Infections",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1131,"Tinea corporis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:12403,"Tinea pedis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1108,"Tonic-clonic epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1117,"Tonic-clonic seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1124,Urethritis,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1128,"Urinary Tract Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,IDG:D1097,"Ventricular arrhythmia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:2394,"ovarian cancer",,0.0,8.55540944320305E-10,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:3347,osteosarcoma,,0.0,1.22397040317395E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:3857,"medulloblastoma, large-cell",,0.0,1.42869237647056E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:305,Carcinoma,,0.0,1.4,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:1380,"Endometrial cancer",,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:263,"Kidney cancer",,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:3571,"Liver cancer",,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:1909,Melanoma,,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:4159,"Skin cancer",,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:10273,"Heart conduction disease",,0.0,3.0,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:9074,"Systemic lupus erythematosus",,0.0,0.9,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:162,Cancer,,5.314,2.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:9240,Erythromelalgia,,4.332,2.2,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:0060145,"Pain agnosia",,3.593,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:870,Neuropathy,,3.586,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:0050999,"Autosomal recessive spinocerebellar ataxia 10",,3.019,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9Y5Y9,Q9Y5Y9,DOID:0060164,"Pain disorder",,3.001,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D2517,"Epilepsy, Complex Partial",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D316,Epilepsy,,4.693,2.3,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1096,"Administration of Corneal Anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D2519,"Administration of Local Anesthetic Nerve Block",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D2523,"Administration of Regional Anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1092,"Anesthesia for cesarean section",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D397,"Atrial Fibrillation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1122,"Bipolar disorder in remission",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D2524,"Cardioversion of Atrial Fibrillation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1093,Cough,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1098,Dysuria,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1109,"Epilepsy characterized by intractable complex partial seizures",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1123,Hemorrhoids,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1105,"Infestation by Phthirus pubis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1101,"Infestation by Sarcoptes scabiei var hominis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1114,"Itching of skin",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1094,"Lennox-Gastaut syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1119,"Life-Threatening Ventricular Tachycardia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1126,"Local Anesthesia for Endotracheal Intubation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1121,"Local Anesthesia for Ophthalmologic Procedure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1102,"Local Anesthesia for Urethral Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1091,"Local anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D2520,"Local anesthesia, by infiltration",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1112,"Local anesthetic intrathecal block",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1118,"Localization-related epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1116,"Major Nerve Block for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:12365,Malaria,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1103,"Minor Skin Wound Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1111,"Motor cortex epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1129,"Mouth Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1080,Neuralgia,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1089,"Partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1125,"Pediculosis capitis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1115,"Postherpetic neuralgia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1088,"Premature ejaculation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1104,"Prevent Minor Bacterial Skin Infection",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D2518,"Prevention of Seizures following Cranial Trauma or Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1110,"Pruritus ani",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D2521,"Pseudobulbar affect",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1120,"Regional Anesthesia for Labor Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1127,"Regional Anesthesia for Ophthalmologic Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1100,"Regional Anesthesia for Postoperative Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1113,"Regional Anesthesia for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D2522,"Seizures in Neurosurgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1099,"Simple partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1090,"Skin irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1107,"Sore throat symptom",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D460,"Status Epilepticus",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1106,"Suppression of the Gag Reflex",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1130,"Tinea Infections",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1131,"Tinea corporis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:12403,"Tinea pedis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1108,"Tonic-clonic epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1117,"Tonic-clonic seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1124,Urethritis,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1128,"Urinary Tract Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D1097,"Ventricular arrhythmia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:1612,"Breast cancer",,0.0,1.59554635701966E-67,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:3905,"lung carcinoma",,0.0,1.38497924648843E-40,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:3459,"breast carcinoma",,0.0,1.0158737645433E-22,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,IDG:D163,"Chronic Lymphocytic Leukemia",,0.0,1.3620430373899E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:3910,"lung adenocarcinoma",,0.0,2.72840950332742E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:5074,ependymoma,,0.0,1.82957340438969E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:0050747,"Waldenstrons macroglobulinemia",,0.0,2.17932036143249E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:219,"colon cancer",,0.0,2.33238524845462E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:1790,"malignant mesothelioma",,0.0,8.02420642632413E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:3857,"medulloblastoma, large-cell",,0.0,0.00137135819473616,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:3347,osteosarcoma,,0.0,0.00143129037107934,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:12894,"primary Sjogren syndrome",,0.0,0.00292173451740251,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:13949,"interstitial cystitis",,0.0,0.00424160711885422,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:8893,psoriasis,,0.0,0.00678520622598004,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:399,tuberculosis,,0.0,0.00716366624501392,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:3008,"invasive ductal carcinoma",,0.0,0.00762093650272841,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:1324,"lung cancer",,0.0,0.0113913231817398,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:3068,glioblastoma,,0.0,0.031497110368747,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:10652,"severe Alzheimer's disease",,0.0,0.038714862066781,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:0050902,medulloblastoma,,0.0,0.0411358522898726,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:305,Carcinoma,,0.0,1.3,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:263,"Kidney cancer",,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:1909,Melanoma,,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:4159,"Skin cancer",,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:0110547,"Autosomal dominant nonsyndromic deafness 16",,4.876,2.4,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:0110390,"Retinitis pigmentosa 1",,3.385,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9NY46,Q9NY46,DOID:0060285,"Parietal foramina",,3.021,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D7246,"EPISODIC PAIN SYNDROME, FAMILIAL, 3",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1079,Hyperalgesia,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D7245,"NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE VII",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D7249,"Pain Insensitivity, Congenital",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D622,"Absence of pain sensation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1530,"Autonomic nervous system disorders",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1074,"Congenital Pain Insensitivity",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1075,Constipation,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D606,Diarrhea,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1521,Dysautonomia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1082,Dyschezia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1078,"Hereditary Sensory Autonomic Neuropathy, Type 5",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1557,"Hyperhidrosis disorder",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1575,"Increased sweating",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D794,"Motor delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1476,"Muscle Weakness",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D813,"No development of motor milestones",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1084,"PAROXYSMAL EXTREME PAIN DISORDER",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1076,"Primary Erythermalgia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D322,Seizures,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1562,Sweating,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1093,Cough,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1098,Dysuria,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D316,Epilepsy,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1109,"Epilepsy characterized by intractable complex partial seizures",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1114,"Itching of skin",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1094,"Lennox-Gastaut syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1119,"Life-Threatening Ventricular Tachycardia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1091,"Local anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1118,"Localization-related epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1103,"Minor Skin Wound Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1111,"Motor cortex epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1129,"Mouth Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1089,"Partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1104,"Prevent Minor Bacterial Skin Infection",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1090,"Skin irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1107,"Sore throat symptom",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1106,"Suppression of the Gag Reflex",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1130,"Tinea Infections",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1131,"Tinea corporis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:12403,"Tinea pedis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1108,"Tonic-clonic epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1128,"Urinary Tract Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D1097,"Ventricular arrhythmia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:3905,"lung carcinoma",,0.0,2.23972873815588E-14,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:2394,"ovarian cancer",,0.0,1.33071131938576E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:2671,"urothelial carcinoma",,0.0,5.91566577527258E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:12894,"non primary Sjogren syndrome sicca",,0.0,0.0164101356169674,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:13949,"interstitial cystitis",,0.0,0.0473599900456684,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:305,Carcinoma,,0.0,1.4,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:1380,"Endometrial cancer",,0.0,0.5,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:263,"Kidney cancer",,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:1909,Melanoma,,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:4159,"Skin cancer",,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:1324,"lung cancer",,0.0,0.5,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:870,Neuropathy,,4.091,2.0,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:1289,"Neurodegenerative disease",,0.0,4.0,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:9240,Erythromelalgia,,5.22,2.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,DOID:0060164,"Pain disorder",,4.058,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D7248,"Hereditary sensory and autonomic neuropathy type 5",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q9UI33,Q9UI33,IDG:D7247,"Hereditary sensory and autonomic neuropathy type 7",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:1059,"Intellectual disability",,3.377,1.7,CTD
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D2525,Ataxia,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D25,"Cerebellar Ataxia",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D12853,"Cognitive Impairment With or Without Cerebellar Ataxia",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D12852,"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 13",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D12847,"Herpesviridae Infections",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:863,"Nervous System Diseases",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D12855,"Neuralgia, Postherpetic",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D12856,"SEIZURES, BENIGN FAMILIAL INFANTILE, 5",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1345,Tremor,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D2593,"Abnormality of vision",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:1094,"Attention deficit hyperactivity disorder",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D717,"Autistic Disorder",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D224,"Bipolar Disorder",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D7319,"Choreoathetoid movements",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D7318,Choreoathetosis,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D118,"Cognitive delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D587,"Developmental regression",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D8346,"Disturbance of consciousness",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D135,"Dull intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D8866,Dysesthesia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D9698,"Dyskinesias, Paroxysmal",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D8863,"Dyskinetic syndrome",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D2180,Enophthalmos,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D2768,"Epileptic encephalopathy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D8864,"Familial benign neonatal epilepsy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D11642,"Generalized seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D11644,"Generalized seizures, recurrent",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D84,"Global developmental delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D762,"Impaired cognition",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D12851,"Infantile convulsions and paroxysmal choreoathetosis, familial (disorder)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D2112,"Intermittent migraine headaches",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D9700,"Involuntary dystonic or choreiform movements",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D586,"Loss of developmental milestones",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D73,"Low intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D42,"Mental Retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D134,"Mental and motor retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D91,"Mental deficiency",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D594,"Mental deterioration in childhood",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D776,"Mental impairment",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D2100,"Migraine Disorders",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D743,"Muscle Hypertonia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D45,"Muscle hypotonia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D2368,Myoclonus,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D593,"Neurodevelopmental regression",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D12849,"Normal interictal EEG",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D12850,"Paroxysmal choreoathetosis",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D105,"Poor school performance",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1115,"Postherpetic neuralgia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D3498,"Progressive microcephaly",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D591,"Psychomotor regression",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D592,"Psychomotor regression beginning in infancy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D590,"Psychomotor regression in infants",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D588,"Psychomotor regression, progressive",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D12848,"Salaam Seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D322,Seizures,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D6139,"Seizures, Focal",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D74,"Small head",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D2186,"Sunken eyes",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1812,"West Syndrome",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1465,"nervous system disorder",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D316,Epilepsy,,5.294,2.6,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D2519,"Administration of Local Anesthetic Nerve Block",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D2523,"Administration of Regional Anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1092,"Anesthesia for cesarean section",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1122,"Bipolar disorder in remission",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1093,Cough,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1098,Dysuria,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1109,"Epilepsy characterized by intractable complex partial seizures",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1114,"Itching of skin",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1094,"Lennox-Gastaut syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1119,"Life-Threatening Ventricular Tachycardia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1091,"Local anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D2520,"Local anesthesia, by infiltration",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1118,"Localization-related epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1116,"Major Nerve Block for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1103,"Minor Skin Wound Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1111,"Motor cortex epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1129,"Mouth Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1089,"Partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1104,"Prevent Minor Bacterial Skin Infection",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D2518,"Prevention of Seizures following Cranial Trauma or Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1120,"Regional Anesthesia for Labor Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1100,"Regional Anesthesia for Postoperative Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1113,"Regional Anesthesia for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D2522,"Seizures in Neurosurgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1099,"Simple partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1090,"Skin irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1107,"Sore throat symptom",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D460,"Status Epilepticus",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1106,"Suppression of the Gag Reflex",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1130,"Tinea Infections",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1131,"Tinea corporis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:12403,"Tinea pedis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1108,"Tonic-clonic epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1117,"Tonic-clonic seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1128,"Urinary Tract Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D1097,"Ventricular arrhythmia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:3905,"lung carcinoma",,0.0,7.57438914989391E-55,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:3068,glioblastoma,,0.0,2.14211110663707E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:3857,"medulloblastoma, large-cell",,0.0,1.19282605503884E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:4851,"Astrocytoma, Pilocytic",,0.0,1.38817722953348E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:1790,"malignant mesothelioma",,0.0,1.69909505623208E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,2.66355214971142E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:171,"primitive neuroectodermal tumor",,0.0,8.71429177269384E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:3070,"adult high grade glioma",,0.0,0.00115254701418792,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:3069,"astrocytic glioma",,0.0,0.00180422122682631,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,0.00199418762081868,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:8893,psoriasis,,0.0,0.00327823064570258,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:5074,ependymoma,,0.0,0.00444512870215033,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:0050902,"group 3 medulloblastoma",,0.0,0.00687609100398206,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:3181,oligodendroglioma,,0.0,0.0200821596045476,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:3498,"primary pancreatic ductal adenocarcinoma",,0.0,0.0362564845422456,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:5077,"subependymal giant cell astrocytoma",,0.0,0.0430116428264325,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:305,Carcinoma,,0.0,1.1,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:231,"Motor neuron disease",,0.0,1.7,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D607,Dystonia,,3.578,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,DOID:0060169,"Benign familial infantile epilepsy",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q9UQD0,Q9UQD0,IDG:D12854,"Infantile convulsions and paroxysmal choreoathetosis, familial",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:14452,"Hypokalemic periodic paralysis",,7.428,3.7,CTD
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:2106,"Myotonia congenita",,6.72,3.4,CTD
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:14452,"HYPOKALEMIC PERIODIC PARALYSIS, TYPE 1",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14922,"Hypokalemic Periodic Paralysis, Type 2",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:3635,"Myasthenic Syndromes, Congenital",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D7625,Myotonia,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D13685,"Myotonic Disorders",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:14451,"Paralysis, Hyperkalemic Periodic",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14923,"Potassium aggravated myotonia",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D539,Myopathy,,4.128,2.1,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:4500,Hypokalemia,,3.56,1.8,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14927,"Acetazolamide responsive myotonia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14925,"Apneic episodes in infancy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D137,"Autosomal recessive predisposition",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D938,Blepharoptosis,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:1969,"Cerebral palsy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1550,"Chest Pain",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:12558,"Chronic progressive external ophthalmoplegia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D961,"Congenital Myasthenic Syndromes, Postsynaptic",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D543,"Creatine phosphokinase serum increased",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1037,"Decreased to absent deep tendon reflexes",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D2568,"Deglutition Disorders",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D785,"Easy fatigability",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D773,"Electromyogram abnormal",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D542,"Elevated creatine kinase",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D3250,"Episodic flaccid weakness",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D3249,"Episodic hypokalemia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D3244,"Exercise-induced muscle fatigue",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D7837,"External Ophthalmoplegia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D58,"Feeding difficulties",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D86,"Gait abnormality",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14921,"Handgrip myotonia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D637,"Highly variable clinical phenotype",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D644,"Highly variable phenotype and severity",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D650,"Highly variable phenotype, even within families",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D805,"Highly variable severity",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1650,"Hyperglycemia, Postprandial",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D4035,Hyperkalemia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D3246,"Hypokalemic periodic paralysis type 1",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D3247,"Increased intramyocellular lipid droplets",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D640,"Infantile onset",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D13822,"Inspiratory stridor",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14924,"MYASTHENIC SYNDROME, CONGENITAL, 16",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D3243,"Mildly increased creatine kinase",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D794,"Motor delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D4072,"Muscle Cramp",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D743,"Muscle Hypertonia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1476,"Muscle Weakness",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1923,"Muscular fasciculation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D5414,"Muscular stiffness",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D7459,Myalgia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D3706,Myasthenias,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14920,"Myotonia Fluctuans (disorder)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D813,"No development of motor milestones",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D13031,"Noisy respiration",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14926,"Paradoxical myotonia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14918,"Paramyotonia Congenita (disorder)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14919,"Percussion Myotonia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D3248,"Periodic hypokalemic paresis",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D634,"Phenotypic variability",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D3478,"Skeletal muscle hypertrophy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D13030,Stridor,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D768,"Tires quickly",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D802,"Variable expressivity",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D8836,"periodic paralysis (finding)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D316,Epilepsy,,3.051,1.5,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D2519,"Administration of Local Anesthetic Nerve Block",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D2523,"Administration of Regional Anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1092,"Anesthesia for cesarean section",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D195,"Bipolar affective disorder, current episode manic",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1122,"Bipolar disorder in remission",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1093,Cough,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1098,Dysuria,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1109,"Epilepsy characterized by intractable complex partial seizures",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14934,"Glossopharyngeal neuralgia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1123,Hemorrhoids,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1105,"Infestation by Phthirus pubis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1101,"Infestation by Sarcoptes scabiei var hominis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1114,"Itching of skin",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1094,"Lennox-Gastaut syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1119,"Life-Threatening Ventricular Tachycardia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1126,"Local Anesthesia for Endotracheal Intubation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1121,"Local Anesthesia for Ophthalmologic Procedure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1102,"Local Anesthesia for Urethral Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1091,"Local anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D2520,"Local anesthesia, by infiltration",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1112,"Local anesthetic intrathecal block",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1118,"Localization-related epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1116,"Major Nerve Block for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1103,"Minor Skin Wound Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14935,"Mixed Epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D191,"Mixed bipolar I disorder",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1111,"Motor cortex epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1129,"Mouth Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1080,Neuralgia,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1087,Parkinsonism,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1089,"Partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1125,"Pediculosis capitis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1115,"Postherpetic neuralgia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1088,"Premature ejaculation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1104,"Prevent Minor Bacterial Skin Infection",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D2518,"Prevention of Seizures following Cranial Trauma or Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1110,"Pruritus ani",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1120,"Regional Anesthesia for Labor Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1127,"Regional Anesthesia for Ophthalmologic Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1100,"Regional Anesthesia for Postoperative Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1113,"Regional Anesthesia for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D2522,"Seizures in Neurosurgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1099,"Simple partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1090,"Skin irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1107,"Sore throat symptom",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1095,Spasticity,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D460,"Status Epilepticus",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1106,"Suppression of the Gag Reflex",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14936,Tachyarrhythmia,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1130,"Tinea Infections",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1131,"Tinea corporis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:12403,"Tinea pedis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1108,"Tonic-clonic epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1117,"Tonic-clonic seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D3620,"Trigeminal Neuralgia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1124,Urethritis,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1128,"Urinary Tract Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1097,"Ventricular arrhythmia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:8893,psoriasis,,0.0,2.23653062454112E-16,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:3459,"breast carcinoma",,0.0,6.63405054678269E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:3347,osteosarcoma,,0.0,9.89689419488848E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:0060074,"ductal carcinoma in situ",,0.0,0.00341162612387784,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:3008,"invasive ductal carcinoma",,0.0,0.0159921127919678,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:305,Carcinoma,,0.0,1.2,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:263,"Kidney cancer",,0.0,0.7,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D1472,Thyrotoxicosis,,3.911,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:8545,"Malignant hyperthermia",,3.496,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:870,Neuropathy,,3.043,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:14451,"Hyperkalemic periodic paralysis",,7.907,4.0,Monarch
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14930,"Acetazolamide-responsive myotonia",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/P35499,P35499,DOID:3635,"Congenital myasthenic syndrome",,0.0,4.0,Monarch
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D5139,"Congenital myasthenic syndrome, acetazolamide-responsive",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D5421,"Hypokalemic periodic paralysis 1",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14928,"Myotonia fluctuans",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14929,"Myotonia permanens",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14931,"Paramyotonia congenita of von Eulenburg",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/P35499,P35499,IDG:D14932,"Potassium-aggravated myotonia",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:1059,"Intellectual disability",,3.779,1.9,CTD
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:0060041,"Autism spectrum disorder",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1779,"Epilepsies, Myoclonic",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D14434,"Epilepsy, Generalized",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D11372,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 1",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D14937,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 2",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D14938,"Migraine, Familial Hemiplegic, 3",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D516,"Movement Disorders",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D8827,"Seizures, Febrile",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D9326,Hemiplegia,,3.553,1.8,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D576,"Abnormal behavior",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2526,"Absence Epilepsy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D470,"Aggressive behavior",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D479,"Aggressive reaction",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D7424,"Atypical absence seizure",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2769,"Autism Spectrum Disorders",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D4606,"Autistic behavior",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D771,"Blind Vision",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D4918,"Blindness, Cortical",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D757,"Blindness, Legal",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D7428,"Brainstem abnormalities",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D25,"Cerebellar Ataxia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D578,"Cerebral atrophy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2167,"Childhood onset",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D118,"Cognitive delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D3352,"Complex partial seizure with impairment of consciousness",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D3350,"Complex partial seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D4924,"Cortical visual impairment",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1303,"Degenerative brain disorder",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D135,"Dull intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D7430,"EEG with focal sharp slow waves",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D574,"Electroencephalogram abnormal",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1346,Encephalopathies,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D7423,"Epileptic drop attack",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2768,"Epileptic encephalopathy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D4160,"Febrile Convulsions",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D8869,"Focal Clonic Seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1789,"Generalized myoclonic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D84,"Global developmental delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D11707,"Hemiclonic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D4456,Hemiparesis,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D4126,"Hemiplegia and hemiparesis",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D805,"Highly variable severity",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2061,"Hyperactive behavior",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D7425,"Hypertonic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D7426,"Hypotonic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D11706,"Infantile Severe Myoclonic Epilepsy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D640,"Infantile onset",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D73,"Low intelligence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D13435,"MIGRAINE WITH OR WITHOUT AURA, SUSCEPTIBILITY TO, 6",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D42,"Mental Retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D134,"Mental and motor retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D91,"Mental deficiency",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1712,"Mental deterioration",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D9327,"Migraine with Aura",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D794,"Motor delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D45,"Muscle hypotonia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1781,"Myoclonic Epilepsies, Progressive",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2368,Myoclonus,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D813,"No development of motor milestones",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D47,Nystagmus,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D11710,"Obtundation status",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D7422,"Personality Disorders",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1692,Photodysphoria,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1688,Photophobia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D5252,"Photosensitivity of skin",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D476,"Physical aggression",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D105,"Poor school performance",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D4922,"Postnatal microcephaly",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D322,Seizures,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1317,"Supratentorial atrophy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D3893,"Tonic - clonic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1345,Tremor,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D802,"Variable expressivity",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2786,"cocaine use",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D316,Epilepsy,,7.384,3.7,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1096,"Administration of Corneal Anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2519,"Administration of Local Anesthetic Nerve Block",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2523,"Administration of Regional Anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1092,"Anesthesia for cesarean section",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D397,"Atrial Fibrillation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1122,"Bipolar disorder in remission",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2524,"Cardioversion of Atrial Fibrillation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1093,Cough,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1098,Dysuria,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1109,"Epilepsy characterized by intractable complex partial seizures",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1114,"Itching of skin",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1094,"Lennox-Gastaut syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1119,"Life-Threatening Ventricular Tachycardia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1121,"Local Anesthesia for Ophthalmologic Procedure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1091,"Local anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2520,"Local anesthesia, by infiltration",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1112,"Local anesthetic intrathecal block",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1118,"Localization-related epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1116,"Major Nerve Block for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:12365,Malaria,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D4806,"Migraine Prevention",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1103,"Minor Skin Wound Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1111,"Motor cortex epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1129,"Mouth Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1087,Parkinsonism,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2531,"Partial Epilepsy Treatment Adjunct",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1089,"Partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1088,"Premature ejaculation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1104,"Prevent Minor Bacterial Skin Infection",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2518,"Prevention of Seizures following Cranial Trauma or Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2521,"Pseudobulbar affect",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1120,"Regional Anesthesia for Labor Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1100,"Regional Anesthesia for Postoperative Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1113,"Regional Anesthesia for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D2522,"Seizures in Neurosurgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1099,"Simple partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1090,"Skin irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1107,"Sore throat symptom",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1095,Spasticity,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D460,"Status Epilepticus",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1106,"Suppression of the Gag Reflex",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1130,"Tinea Infections",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1131,"Tinea corporis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:12403,"Tinea pedis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1108,"Tonic-clonic epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1117,"Tonic-clonic seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1128,"Urinary Tract Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D1097,"Ventricular arrhythmia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:3908,"non-small cell lung cancer",,0.0,9.45825514460027E-20,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:3905,"lung carcinoma",,0.0,1.22767330106014E-16,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:3910,"lung adenocarcinoma",,0.0,4.7145433100577E-10,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:5074,ependymoma,,0.0,2.88087218296418E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,6.81754609097181E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:3857,"medulloblastoma, large-cell",,0.0,7.76812424273271E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:1324,"lung cancer",,0.0,4.53052242479158E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:0050902,"group 3 medulloblastoma",,0.0,0.00125815063764277,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:1785,"pituitary cancer",,0.0,0.00126503275442898,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:3068,glioblastoma,,0.0,0.00245206400195678,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:3070,"adult high grade glioma",,0.0,0.0196498910983585,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:10652,"severe Alzheimer's disease",,0.0,0.0328484704726226,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:14330,"Parkinson's disease",,0.0,0.0464955464934209,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:1926,"Gaucher disease type 3",,0.0,0.0465652862962613,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:305,Carcinoma,,0.0,1.4,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:1380,"Endometrial cancer",,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:263,"Kidney cancer",,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:3571,"Liver cancer",,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:1909,Melanoma,,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:4159,"Skin cancer",,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:0060178,"Familial hemiplegic migraine",,0.0,5.0,"JensenLab Knowledge GHR"
+https://pharos.nih.gov/idg/targets/P35498,P35498,DOID:0060170,"Generalized epilepsy with febrile seizures plus",,0.0,5.0,"JensenLab Knowledge GHR"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D192,Migraine,,5.162,2.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D717,"Autistic Disorder",,3.198,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D11711,"Epileptic Encephalopathy, Early Infantile, 6",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/P35498,P35498,IDG:D13442,"Familial or sporadic hemiplegic migraine",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D12619,"Chronic pain",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1779,"Epilepsies, Myoclonic",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:9240,Erythromelalgia,,0.0,5.0,CTD
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D19187,"Generalized epilepsy with febrile seizures plus, type 7",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D12847,"Herpesviridae Infections",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D19184,"Indifference to Pain, Congenital, Autosomal Recessive",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:0050548,"NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE IIA",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D12855,"Neuralgia, Postherpetic",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1084,"PAROXYSMAL EXTREME PAIN DISORDER",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1561,Pruritus,,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:870,Neuropathy,,5.075,2.5,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D576,"Abnormal behavior",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D3260,"Abnormal cortical bone morphology",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1966,"Abnormality of epiphysis morphology",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1211,"Abnormality of metabolism/homeostasis",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D9067,"Abnormality of the ankles",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D6121,"Abnormality of the hip bone",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D9068,"Abnormality of the knee",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D5030,"Abnormality of the musculature",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D2526,"Absence Epilepsy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D622,"Absence of pain sensation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D618,"Absent reflex",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D621,"Absent tendon reflex",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D9063,"Acral ulceration leading to autoamputation of digits",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D4174,Acro-Osteolysis,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:11156,Anhidrosis,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D8248,Anosmia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1530,"Autonomic nervous system disorders",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D137,"Autosomal recessive predisposition",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D9329,"Blurred vision",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D3651,Bradycardia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D25,"Cerebellar Ataxia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D118,"Cognitive delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1074,"Congenital Pain Insensitivity",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1075,Constipation,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1964,"Decreased bone mineral density Z score",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1722,"Decreased nerve conduction velocity",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D645,"Decreased number of large and small myelinated fibers",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D4543,"Decreased pain sensation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D2168,"Decreased sensory nerve conduction velocities (NCV)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D628,"Decreased tendon reflex",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D606,Diarrhea,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1025,"Disorder of eye",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1521,Dysautonomia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1082,Dyschezia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D5782,"Dystrophic fingernails",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D7590,"Dystrophic toenail changes",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D574,"Electroencephalogram abnormal",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D4223,"Elevated heart rate",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D7423,"Epileptic drop attack",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D2820,Erythema,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1024,"Eye Abnormalities",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D9016,"Eye pain",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D4160,"Febrile Convulsions",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D123,"Feeding difficulties in infancy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D2814,Flushing,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D8869,"Focal Clonic Seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D9069,"Foot acroosteolysis",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D11372,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 1",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D719,"Gastroesophageal reflux disease",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D19185,"Generalized Epilepsy With Febrile Seizures Plus, 7",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1789,"Generalized myoclonic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D84,"Global developmental delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D845,Heartburn,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D9058,"Hereditary Motor and Sensory-Neuropathy Type II",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1078,"Hereditary Sensory Autonomic Neuropathy, Type 5",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D805,"Highly variable severity",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1557,"Hyperhidrosis disorder",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D9062,"Hyperhidrosis, episodic",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D9055,Hypogeusia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:11155,Hypohidrosis,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D7426,"Hypotonic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1575,"Increased sweating",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D11706,"Infantile Severe Myoclonic Epilepsy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D640,"Infantile onset",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D4464,"Jaw pain",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D7645,"Lacrimation abnormality",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D3105,Lordosis,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D134,"Mental and motor retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D45,"Muscle hypotonia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D7459,Myalgia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1781,"Myoclonic Epilepsies, Progressive",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D4068,"Neonatal onset",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D864,"Neurogenic Muscular Atrophy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D890,"Neurogenic muscle atrophy, especially in the lower limbs",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D11710,"Obtundation status",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D3717,Pain,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D635,"Painless fractures due to injury",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D4027,Palpitations,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D3123,"Paronychia Inflammation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D2570,"Peripheral Neuropathy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D5252,"Photosensitivity of skin",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1076,"Primary Erythermalgia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D620,"Reflex, Deep Tendon, Absent",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D322,Seizures,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D6139,"Seizures, Focal",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D10018,"Sense of smell impaired",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D873,"Skeletal muscle atrophy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D795,"Slow progression",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D857,"Structure of wormian bone",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1562,Sweating,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D825,Tachycardia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1529,"Tapering fingers (finding)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D3893,"Tonic - clonic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1345,Tremor,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1404,"Urinary Incontinence",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D802,"Variable expressivity",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D5880,Xerostomia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D858,"muscle degeneration",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D316,Epilepsy,,3.581,1.8,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1096,"Administration of Corneal Anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D2519,"Administration of Local Anesthetic Nerve Block",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D2523,"Administration of Regional Anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1092,"Anesthesia for cesarean section",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D195,"Bipolar affective disorder, current episode manic",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1122,"Bipolar disorder in remission",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1093,Cough,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1098,Dysuria,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1109,"Epilepsy characterized by intractable complex partial seizures",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D14934,"Glossopharyngeal neuralgia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1123,Hemorrhoids,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1105,"Infestation by Phthirus pubis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1101,"Infestation by Sarcoptes scabiei var hominis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1114,"Itching of skin",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1094,"Lennox-Gastaut syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1119,"Life-Threatening Ventricular Tachycardia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1126,"Local Anesthesia for Endotracheal Intubation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1121,"Local Anesthesia for Ophthalmologic Procedure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1102,"Local Anesthesia for Urethral Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1091,"Local anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D2520,"Local anesthesia, by infiltration",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1112,"Local anesthetic intrathecal block",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1118,"Localization-related epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1116,"Major Nerve Block for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1103,"Minor Skin Wound Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D14935,"Mixed Epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D191,"Mixed bipolar I disorder",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1111,"Motor cortex epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1129,"Mouth Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1080,Neuralgia,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1087,Parkinsonism,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D2531,"Partial Epilepsy Treatment Adjunct",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1089,"Partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1125,"Pediculosis capitis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1115,"Postherpetic neuralgia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1088,"Premature ejaculation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1104,"Prevent Minor Bacterial Skin Infection",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D2518,"Prevention of Seizures following Cranial Trauma or Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1110,"Pruritus ani",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1120,"Regional Anesthesia for Labor Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1127,"Regional Anesthesia for Ophthalmologic Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1100,"Regional Anesthesia for Postoperative Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1113,"Regional Anesthesia for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D2522,"Seizures in Neurosurgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1099,"Simple partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1090,"Skin irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1107,"Sore throat symptom",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1095,Spasticity,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D460,"Status Epilepticus",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1106,"Suppression of the Gag Reflex",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1130,"Tinea Infections",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1131,"Tinea corporis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:12403,"Tinea pedis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1108,"Tonic-clonic epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1117,"Tonic-clonic seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D3620,"Trigeminal Neuralgia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1124,Urethritis,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1128,"Urinary Tract Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D1097,"Ventricular arrhythmia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:1790,"malignant mesothelioma",,0.0,1.69267551526515E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:219,"colon cancer",,0.0,2.01912721237695E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:4851,"Astrocytoma, Pilocytic",,0.0,2.62320329974138E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:1324,"lung cancer",,0.0,2.62909662109748E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:1485,"cystic fibrosis",,0.0,5.9174494341312E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,8.88013157687444E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:1785,"pituitary cancer",,0.0,9.06491302898024E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:3347,osteosarcoma,,0.0,0.00144099974179223,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:5074,"posterior fossa group B ependymoma",,0.0,0.0178691009147687,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:1612,"Breast cancer",,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:305,Carcinoma,,0.0,1.2,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:2627,DOID:2627,,0.0,0.7,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:263,"Kidney cancer",,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:216,"Dental caries",,0.0,0.9,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:0060170,"Generalized epilepsy with febrile seizures plus",,0.0,5.0,"JensenLab Knowledge GHR"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:0050548,"Hereditary sensory neuropathy",,0.0,5.0,"JensenLab Knowledge GHR"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:341,"Peripheral vascular disease",,6.015,3.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:0060164,"Pain disorder",,5.274,2.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:0060145,"Pain agnosia",,4.031,2.0,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:0060695,Hyperekplexia,,3.764,1.9,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:4331,"Burning mouth syndrome",,3.553,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,DOID:401,"multidrug-resistant tuberculosis",,3.062,1.5,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D11711,"Epileptic Encephalopathy, Early Infantile, 6",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D19186,"Erythermalgia, Primary",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D14937,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 2",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D9072,"Hereditary sensory and autonomic neuropathy type 2",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q15858,Q15858,IDG:D9071,"Neuropathy, Hereditary Sensory and Autonomic, Type 2A",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D19525,"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 11",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D19523,"Epilepsy, Benign Neonatal, 3",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D481,"Neurodevelopmental Disorders",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D8827,"Seizures, Febrile",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D576,"Abnormal behavior",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D2593,"Abnormality of vision",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D25,"Cerebellar Ataxia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D7319,"Choreoathetoid movements",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D7318,Choreoathetosis,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D118,"Cognitive delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D2089,Cyanosis,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D19526,"Dialeptic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D8346,"Disturbance of consciousness",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D8866,Dysesthesia,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D8863,"Dyskinetic syndrome",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1813,"Early infantile epileptic encephalopathy with suppression bursts",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D574,"Electroencephalogram abnormal",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D2180,Enophthalmos,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1779,"Epilepsies, Myoclonic",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D2768,"Epileptic encephalopathy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D8864,"Familial benign neonatal epilepsy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D4160,"Febrile Convulsions",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D8869,"Focal Clonic Seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D19527,"Focal seizures, afebril",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D11372,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 1",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1789,"Generalized myoclonic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D84,"Global developmental delay",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D805,"Highly variable severity",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D11706,"Infantile Severe Myoclonic Epilepsy",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D640,"Infantile onset",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D134,"Mental and motor retardation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D743,"Muscle Hypertonia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D45,"Muscle hypotonia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1781,"Myoclonic Epilepsies, Progressive",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D2368,Myoclonus,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D12849,"Normal interictal EEG",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D11710,"Obtundation status",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D3353,"Partial seizures with secondary generalisation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D5252,"Photosensitivity of skin",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D19524,"SEIZURES, BENIGN FAMILIAL INFANTILE, 3",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D322,Seizures,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D6139,"Seizures, Focal",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1714,"Spastic Quadriplegia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D2186,"Sunken eyes",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D3893,"Tonic - clonic seizures",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1345,Tremor,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D802,"Variable expressivity",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D316,Epilepsy,,5.699,2.8,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1096,"Administration of Corneal Anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D2519,"Administration of Local Anesthetic Nerve Block",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D2523,"Administration of Regional Anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1092,"Anesthesia for cesarean section",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D397,"Atrial Fibrillation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1122,"Bipolar disorder in remission",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D2524,"Cardioversion of Atrial Fibrillation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1093,Cough,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1098,Dysuria,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1109,"Epilepsy characterized by intractable complex partial seizures",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1123,Hemorrhoids,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1105,"Infestation by Phthirus pubis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1101,"Infestation by Sarcoptes scabiei var hominis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1114,"Itching of skin",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1094,"Lennox-Gastaut syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1119,"Life-Threatening Ventricular Tachycardia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1126,"Local Anesthesia for Endotracheal Intubation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1121,"Local Anesthesia for Ophthalmologic Procedure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1102,"Local Anesthesia for Urethral Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1091,"Local anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D2520,"Local anesthesia, by infiltration",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1112,"Local anesthetic intrathecal block",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1118,"Localization-related epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1116,"Major Nerve Block for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:12365,Malaria,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1103,"Minor Skin Wound Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1111,"Motor cortex epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1129,"Mouth Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1080,Neuralgia,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1089,"Partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1125,"Pediculosis capitis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1115,"Postherpetic neuralgia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1088,"Premature ejaculation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1104,"Prevent Minor Bacterial Skin Infection",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D2518,"Prevention of Seizures following Cranial Trauma or Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1110,"Pruritus ani",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D2521,"Pseudobulbar affect",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1120,"Regional Anesthesia for Labor Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1127,"Regional Anesthesia for Ophthalmologic Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1100,"Regional Anesthesia for Postoperative Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1113,"Regional Anesthesia for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D2522,"Seizures in Neurosurgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1099,"Simple partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1090,"Skin irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1107,"Sore throat symptom",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D460,"Status Epilepticus",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1106,"Suppression of the Gag Reflex",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1130,"Tinea Infections",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1131,"Tinea corporis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:12403,"Tinea pedis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1108,"Tonic-clonic epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1117,"Tonic-clonic seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1124,Urethritis,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1128,"Urinary Tract Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1097,"Ventricular arrhythmia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:3905,"lung carcinoma",,0.0,1.80580049880356E-41,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:8893,psoriasis,,0.0,5.11848117842113E-27,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:1612,"Breast cancer",,0.0,3.01643070837173E-14,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,2.61639564400324E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:3068,glioblastoma,,0.0,1.14332975967108E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:3857,"medulloblastoma, large-cell",,0.0,8.79063058077182E-8,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:4851,"Astrocytoma, Pilocytic",,0.0,2.13880369516588E-7,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:3070,"adult high grade glioma",,0.0,5.85251414679231E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:1790,"malignant mesothelioma",,0.0,1.57944836908192E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:1324,"lung cancer",,0.0,4.90229735454105E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:0050902,"group 3 medulloblastoma",,0.0,4.78479148888911E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:3347,osteosarcoma,,0.0,6.28681064327641E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:5074,ependymoma,,0.0,0.00259053678571026,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:3069,"astrocytic glioma",,0.0,0.00491310591845987,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:12894,"non primary Sjogren syndrome sicca",,0.0,0.0195536114982225,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:171,"primitive neuroectodermal tumor",,0.0,0.0286547046617589,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:5077,"subependymal giant cell astrocytoma",,0.0,0.0314361726004381,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:3181,oligodendroglioma,,0.0,0.0326099288700471,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:305,Carcinoma,,0.0,1.3,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:263,"Kidney cancer",,0.0,0.9,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:3571,"Liver cancer",,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:1909,Melanoma,,0.0,0.7,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:4159,"Skin cancer",,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:14330,"Parkinson's disease",,0.0,0.8,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:0060041,"Autism spectrum disorder",,0.0,5.0,"JensenLab Knowledge GHR"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:0060170,"Generalized epilepsy with febrile seizures plus",,0.0,5.0,"JensenLab Knowledge GHR"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:10241,Thalassemia,,6.458,3.2,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:5434,Scrapie,,5.472,2.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D490,Anemia,,4.86,2.4,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D3564,"Sickle Cell Anemia",,4.32,2.2,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:9351,"diabetes mellitus",,3.536,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:0110547,"Autosomal dominant nonsyndromic deafness 16",,3.521,1.8,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D717,"Autistic Disorder",,3.299,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:769,Neuroblastoma,,3.248,1.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,DOID:0060169,"Benign familial infantile epilepsy",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D19528,"Benign familial neonatal-infantile seizures",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D11711,"Epileptic Encephalopathy, Early Infantile, 6",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q99250,Q99250,IDG:D1812,"West Syndrome",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D19176,"ATRIAL FIBRILLATION, FAMILIAL, 10",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:0050451,"Brugada syndrome",,0.0,4.0,CTD
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D19172,"CARDIOMYOPATHY, DILATED, 1E",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:2843,"Long QT syndrome",,0.0,4.0,CTD
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:0110646,"Long QT syndrome 3",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D19175,"Long QT syndrome type 3",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D19180,"PROGRESSIVE FAMILIAL HEART BLOCK, TYPE IA",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D5839,"Paroxysmal ventricular fibrillation",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D19173,"SICK SINUS SYNDROME 1, AUTOSOMAL RECESSIVE",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:9007,"Sudden Infant Death",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D5104,"Tachycardia, Ventricular",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D3387,"Torsades de Pointes",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D2613,"ATRIAL FIBRILLATION, FAMILIAL, 1 (disorder)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D12142,"Atrial Flutter",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:0050820,"Atrioventricular block",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D7842,"Atrioventricular nodal disease",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D137,"Autosomal recessive predisposition",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1083,"Brugada Syndrome (disorder)",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D9518,"CARDIOMYOPATHY, FAMILIAL, WITH CONDUCTION DISTURBANCE",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1339,"Cardiac Arrhythmia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:0060319,"Cardiac arrest",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1360,"Cardiac conduction abnormalities",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D491,"Cardiomyopathy, Dilated",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D685,"Cerebrovascular accident",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D19174,"Complete heart block with broad RS complexes",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1349,"Conduction disorder of the heart",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D2090,Dyspnea,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1356,"EKG abnormalities",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1352,"Electrocardiogram abnormal",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1353,"Electrocardiogram change",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D12450,"Hereditary bundle branch system defect",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D5596,"LEFT VENTRICULAR NONCOMPACTION 10",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D5598,"LEFT VENTRICULAR NONCOMPACTION 8",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D18558,"Left Bundle-Branch Block",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D17770,"Left anterior fascicular block",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D19171,"Left posterior fascicular block",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D4027,Palpitations,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D5833,"Paroxysmal familial ventricular fibrillation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D6800,"Premature ventricular contractions",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D974,"Prenatal onset",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1879,"Prolonged QT interval",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D5600,"Reduced systolic function",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:13209,"Right bundle branch block",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1878,"Romano-Ward Syndrome",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:13884,"Sick sinus syndrome",,0.0,5.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D5946,"Sinus bradycardia",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1747,"Sudden Cardiac Death",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D8567,"Sudden death",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D3386,Syncope,,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1081,"Ventricular Fibrillation",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D5835,"Ventricular Fibrillation, Paroxysmal Familial, 1",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D19170,"Ventricular escape rhythm",,0.0,0.0,DisGeNET
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1096,"Administration of Corneal Anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D2519,"Administration of Local Anesthetic Nerve Block",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D2523,"Administration of Regional Anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:332,"Amyotrophic lateral sclerosis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1092,"Anesthesia for cesarean section",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1548,"Angina Pectoris",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D397,"Atrial Fibrillation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D195,"Bipolar affective disorder, current episode manic",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1122,"Bipolar disorder in remission",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D2524,"Cardioversion of Atrial Fibrillation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1093,Cough,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1098,Dysuria,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D316,Epilepsy,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1109,"Epilepsy characterized by intractable complex partial seizures",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D14934,"Glossopharyngeal neuralgia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1123,Hemorrhoids,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1105,"Infestation by Phthirus pubis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1101,"Infestation by Sarcoptes scabiei var hominis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1114,"Itching of skin",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1094,"Lennox-Gastaut syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1119,"Life-Threatening Ventricular Tachycardia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1126,"Local Anesthesia for Endotracheal Intubation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1121,"Local Anesthesia for Ophthalmologic Procedure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1102,"Local Anesthesia for Urethral Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1091,"Local anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D2520,"Local anesthesia, by infiltration",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1112,"Local anesthetic intrathecal block",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1118,"Localization-related epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1116,"Major Nerve Block for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:12365,Malaria,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D4806,"Migraine Prevention",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1103,"Minor Skin Wound Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D14935,"Mixed Epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D191,"Mixed bipolar I disorder",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1111,"Motor cortex epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1129,"Mouth Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1080,Neuralgia,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1087,Parkinsonism,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1728,"Paroxysmal atrial fibrillation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D16163,"Paroxysmal atrial flutter",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D5425,"Paroxysmal supraventricular tachycardia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1089,"Partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1125,"Pediculosis capitis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1115,"Postherpetic neuralgia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1088,"Premature ejaculation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1104,"Prevent Minor Bacterial Skin Infection",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D5424,"Prevention of Paroxysmal Supraventricular Tachycardia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D2518,"Prevention of Seizures following Cranial Trauma or Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1110,"Pruritus ani",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D2521,"Pseudobulbar affect",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1120,"Regional Anesthesia for Labor Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1127,"Regional Anesthesia for Ophthalmologic Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1100,"Regional Anesthesia for Postoperative Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1113,"Regional Anesthesia for Surgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D2522,"Seizures in Neurosurgery",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1099,"Simple partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1090,"Skin irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1107,"Sore throat symptom",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1095,Spasticity,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D460,"Status Epilepticus",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1106,"Suppression of the Gag Reflex",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1130,"Tinea Infections",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1131,"Tinea corporis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:12403,"Tinea pedis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1108,"Tonic-clonic epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1117,"Tonic-clonic seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D3620,"Trigeminal Neuralgia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1124,Urethritis,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1128,"Urinary Tract Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D1097,"Ventricular arrhythmia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:8893,psoriasis,,0.0,6.1008664454807E-38,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:305,Carcinoma,,0.0,1.4,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:263,"Kidney cancer",,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:3571,"Liver cancer",,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:1793,"pancreatic cancer",,0.0,0.6,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:10273,"Heart conduction disease",,0.0,3.0,"JensenLab Experiment DistiLD"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:12930,"Dilated cardiomyopathy",,0.0,5.0,"JensenLab Knowledge GHR"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:0060480,"Left ventricular noncompaction",,0.0,5.0,"JensenLab Knowledge GHR"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:0050700,Cardiomyopathy,,0.0,4.0,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:0050650,"Familial atrial fibrillation",,0.0,4.0,"JensenLab Knowledge UniProtKB-KW"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:114,"Heart disease",,7.144,3.6,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:0060173,"Timothy syndrome",,3.36,1.7,"JensenLab Text Mining"
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:9007,"Sudden infant death syndrome",,5.319,2.7,Monarch
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D19177,"Brugada Syndrome 1",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D5604,"Familial isolated dilated cardiomyopathy",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D12458,"Familial progressive cardiac conduction defect",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,DOID:0110644,"Long QT syndrome 1",,0.0,5.0,Monarch
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D5837,"Paroxysmal familial ventricular fibrillation 1",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D19179,"Sick Sinus Syndrome 1",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q14524,Q14524,IDG:D19178,"dilated cardiomyopathy 1E",,0.0,0.0,Monarch
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D717,"Autistic Disorder",,0.0,0.0,CTD
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1093,Cough,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1098,Dysuria,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D316,Epilepsy,,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1109,"Epilepsy characterized by intractable complex partial seizures",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1114,"Itching of skin",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1094,"Lennox-Gastaut syndrome",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1119,"Life-Threatening Ventricular Tachycardia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1091,"Local anesthesia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1118,"Localization-related epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1103,"Minor Skin Wound Pain",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1111,"Motor cortex epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1129,"Mouth Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1089,"Partial seizure",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1104,"Prevent Minor Bacterial Skin Infection",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1090,"Skin irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1107,"Sore throat symptom",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1106,"Suppression of the Gag Reflex",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1130,"Tinea Infections",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1131,"Tinea corporis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:12403,"Tinea pedis",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1108,"Tonic-clonic epilepsy",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1128,"Urinary Tract Irritation",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,IDG:D1097,"Ventricular arrhythmia",,0.0,0.0,"DrugCentral Indication"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:3948,"adrenocortical carcinoma",,0.0,4.10917205618945E-23,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:8893,psoriasis,,0.0,1.17992411668642E-18,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:3908,"non-small cell lung cancer",,0.0,7.50960877895004E-17,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:219,"colon cancer",,0.0,9.78306177059288E-13,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:3905,"lung carcinoma",,0.0,1.87588315709599E-10,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:3910,"lung adenocarcinoma",,0.0,1.45567776454723E-9,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:2129,"atypical teratoid / rhabdoid tumor",,0.0,4.41324681703109E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:1324,"lung cancer",,0.0,4.9047799930431E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:2394,"ovarian cancer",,0.0,6.82278642634558E-6,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:7574,"intraductal papillary-mucinous carcinoma (IPMC)",,0.0,9.87992856887063E-5,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:7851,"intraductal papillary-mucinous adenoma (IPMA)",,0.0,5.85059816573064E-4,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:4851,"Astrocytoma, Pilocytic",,0.0,0.00153697988595369,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:7575,"intraductal papillary-mucinous neoplasm (IPMN)",,0.0,0.00168545585860763,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:0050902,"group 4 medulloblastoma",,0.0,0.00432314923324417,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:0050891,"adrenocortical adenoma",,0.0,0.00526685614564395,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:3008,"invasive ductal carcinoma",,0.0,0.00585259307301709,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:1793,"pancreatic cancer",,0.0,0.00977526417032428,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:3310,"Atopic dermatitis",,0.0,0.0126120611800629,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:3181,oligodendroglioma,,0.0,0.0155675737287155,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:1612,"Breast cancer",,0.0,0.0382297880111965,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:657,"aldosterone-producing adenoma",,0.0,0.0390502766448141,"Expression Atlas"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:305,Carcinoma,,0.0,1.4,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:263,"Kidney cancer",,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:3571,"Liver cancer",,0.0,0.8,"JensenLab Experiment COSMIC"
+https://pharos.nih.gov/idg/targets/Q01118,Q01118,DOID:332,"Amyotrophic lateral sclerosis",,0.0,0.9,"JensenLab Experiment DistiLD"

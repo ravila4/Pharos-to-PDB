@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="109mm" height="71mm" viewBox="0 0 10900 7100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(255,255,255)" stroke="none" d="M 32,0 L 10895,0 10895,7091 32,7091 32,0 Z"/>
+ <path fill="rgb(255,255,255)" stroke="none" d="M 5464,7091 L 32,7091 32,0 10895,0 10895,7091 5464,7091 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 3521,192 C 3213,192 2907,240 2614,336 2321,431 2045,572 1795,753 1546,934 1327,1153 1146,1402 1139,1411 1133,1421 1126,1430 L 3521,3127 3521,3127 3521,3127 3521,3127 3521,3127 3521,192 Z"/>
+ <path fill="rgb(255,66,14)" stroke="none" d="M 966,1778 C 795,2020 661,2286 570,2568 474,2861 426,3167 426,3475 426,3720 457,3965 518,4203 L 3361,3475 3361,3475 3361,3475 3361,3475 966,1778 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 1019,4471 C 1034,4531 1051,4590 1070,4649 1166,4942 1306,5218 1487,5467 1668,5717 1887,5936 2137,6117 2386,6298 2662,6438 2955,6534 3248,6629 3554,6677 3862,6677 4170,6677 4476,6629 4769,6534 5062,6438 5338,6298 5586,6117 5836,5936 6055,5717 6236,5467 6417,5218 6558,4942 6653,4649 6748,4356 6796,4050 6796,3742 6796,3435 6748,3129 6653,2836 6558,2543 6417,2267 6236,2018 6093,1821 5926,1642 5739,1487 L 3862,3742 3862,3742 3862,3742 3862,3742 3862,3742 3862,3742 3862,3742 3862,3742 3862,3742 3862,3742 3862,3742 3862,3742 3862,3742 3862,3742 1019,4471 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 5613,1288 C 5564,1247 5513,1208 5462,1170 5213,989 4937,848 4644,753 4524,714 4402,683 4279,660 L 3737,3544 3737,3544 3737,3544 3737,3544 5613,1288 Z"/>
+ <path fill="rgb(134,17,65)" stroke="none" d="M 4279,660 C 4100,626 3919,609 3737,609 L 3737,3544 3737,3544 4279,660 Z"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="2242" y="971"><tspan fill="rgb(0,0,0)" stroke="none">77</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="623" y="3089"><tspan fill="rgb(0,0,0)" stroke="none">70</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="4795" y="6018"><tspan fill="rgb(0,0,0)" stroke="none">304</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="4553" y="1343"><tspan fill="rgb(0,0,0)" stroke="none">41</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3810" y="1089"><tspan fill="rgb(0,0,0)" stroke="none">15</tspan></tspan></tspan></text>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 7663,2655 L 7557,2655 7557,2444 7768,2444 7768,2655 7663,2655 Z"/>
+ <path fill="rgb(255,66,14)" stroke="none" d="M 7663,3153 L 7557,3153 7557,2942 7768,2942 7768,3153 7663,3153 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 7663,3650 L 7557,3650 7557,3440 7768,3440 7768,3650 7663,3650 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 7663,4148 L 7557,4148 7557,3937 7768,3937 7768,4148 7663,4148 Z"/>
+ <path fill="rgb(134,17,65)" stroke="none" d="M 7663,4646 L 7557,4646 7557,4435 7768,4435 7768,4646 7663,4646 Z"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="7868" y="2669"><tspan fill="rgb(0,0,0)" stroke="none">GPCRS</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="7868" y="3167"><tspan fill="rgb(0,0,0)" stroke="none">Ion channels</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="7868" y="3664"><tspan fill="rgb(0,0,0)" stroke="none">Kinases</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="7868" y="4162"><tspan fill="rgb(0,0,0)" stroke="none">Nuclear receptors</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="7868" y="4660"><tspan fill="rgb(0,0,0)" stroke="none">Transporters</tspan></tspan></tspan></text>
+</svg>

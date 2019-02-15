@@ -1,0 +1,271 @@
+"URL","Uniprot ID","GOTerm","GOType"
+https://pharos.nih.gov/idg/targets/P43220,P43220,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P43220,P43220,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P43220,P43220,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/P43220,P43220,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/P43220,P43220,"transmembrane signaling receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P43220,P43220,"glucagon receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P43220,P43220,"glucagon-like peptide 1 receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P43220,P43220,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P43220,P43220,"positive regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/P43220,P43220,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P43220,P43220,"learning or memory",GO Process
+https://pharos.nih.gov/idg/targets/P43220,P43220,"positive regulation of blood pressure",GO Process
+https://pharos.nih.gov/idg/targets/P43220,P43220,"response to stress",GO Process
+https://pharos.nih.gov/idg/targets/P43220,P43220,"adenylate cyclase-activating G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P43220,P43220,"regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/P43220,P43220,"activation of adenylate cyclase activity",GO Process
+https://pharos.nih.gov/idg/targets/P43220,P43220,"cAMP-mediated signaling",GO Process
+https://pharos.nih.gov/idg/targets/P43220,P43220,"regulation of heart contraction",GO Process
+https://pharos.nih.gov/idg/targets/P47872,P47872,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P47872,P47872,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P47872,P47872,"cytoplasmic microtubule",GO Component
+https://pharos.nih.gov/idg/targets/P47872,P47872,"secretin receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P47872,P47872,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P47872,P47872,digestion,GO Process
+https://pharos.nih.gov/idg/targets/P47872,P47872,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P47872,P47872,excretion,GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"nuclear matrix",GO Component
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"secretory granule",GO Component
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,sarcolemma,GO Component
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"nuclear outer membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"nuclear inner membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"G-protein coupled receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"growth factor binding",GO Function
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"peptide hormone binding",GO Function
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"growth hormone-releasing hormone receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"positive regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"response to glucocorticoid",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"cellular response to insulin stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"cellular response to glucose stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"adenylate cyclase-activating G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"positive regulation of cAMP biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"response to insulin",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"hormone metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"positive regulation of multicellular organism growth",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"response to estrogen",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,lactation,GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"activation of adenylate cyclase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"regulation of protein metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"cAMP-mediated signaling",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"determination of adult lifespan",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"positive regulation of insulin-like growth factor receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"water homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"cell maturation",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"positive regulation of circadian sleep-wake cycle, non-REM sleep",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"positive regulation of growth hormone secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"growth hormone secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"multicellular organismal reproductive process",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"regulation of intracellular steroid hormone receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q02643,Q02643,"somatotropin secreting cell development",GO Process
+https://pharos.nih.gov/idg/targets/P41587,P41587,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P41587,P41587,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P41587,P41587,"G-protein coupled receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P41587,P41587,"vasoactive intestinal polypeptide receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P41587,P41587,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P41587,P41587,"cell-cell signaling",GO Process
+https://pharos.nih.gov/idg/targets/P41587,P41587,"signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/P41587,P41587,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P41587,P41587,"activation of adenylate cyclase activity",GO Process
+https://pharos.nih.gov/idg/targets/P41587,P41587,"negative regulation of smooth muscle cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P41586,P41586,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P41586,P41586,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/P41586,P41586,endosome,GO Component
+https://pharos.nih.gov/idg/targets/P41586,P41586,caveola,GO Component
+https://pharos.nih.gov/idg/targets/P41586,P41586,"neuron projection",GO Component
+https://pharos.nih.gov/idg/targets/P41586,P41586,"bicellular tight junction",GO Component
+https://pharos.nih.gov/idg/targets/P41586,P41586,"receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P41586,P41586,"rough endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/P41586,P41586,"neuropeptide binding",GO Function
+https://pharos.nih.gov/idg/targets/P41586,P41586,"receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P41586,P41586,"adenylate cyclase binding",GO Function
+https://pharos.nih.gov/idg/targets/P41586,P41586,"vasoactive intestinal polypeptide receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P41586,P41586,"ADP-ribosylation factor binding",GO Function
+https://pharos.nih.gov/idg/targets/P41586,P41586,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"response to estradiol",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"activation of phospholipase C activity",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,spermatogenesis,GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"response to drug",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"cell differentiation",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"positive regulation of cAMP biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"negative regulation of cell death",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"positive regulation of inositol phosphate biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"response to ethanol",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"cAMP-mediated signaling",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"multicellular organismal response to stress",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"development of primary female sexual characteristics",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"positive regulation of calcium ion transport into cytosol",GO Process
+https://pharos.nih.gov/idg/targets/P41586,P41586,"positive regulation of small GTPase mediated signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/O95838,O95838,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O95838,O95838,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/O95838,O95838,"G-protein coupled receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/O95838,O95838,"glucagon receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/O95838,O95838,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O95838,O95838,"positive regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/O95838,O95838,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O95838,O95838,"adenylate cyclase-modulating G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P30988,P30988,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P30988,P30988,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/P30988,P30988,"amylin receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P30988,P30988,cell,GO Component
+https://pharos.nih.gov/idg/targets/P30988,P30988,"receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P30988,P30988,"protein transporter activity",GO Function
+https://pharos.nih.gov/idg/targets/P30988,P30988,"calcitonin binding",GO Function
+https://pharos.nih.gov/idg/targets/P30988,P30988,"calcitonin receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P30988,P30988,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"protein localization to plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"response to glucocorticoid",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"protein transport",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"positive regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"positive regulation of ERK1 and ERK2 cascade",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"positive regulation of protein kinase B signaling",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"adenylate cyclase-activating G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"positive regulation of cAMP biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"positive regulation of gene expression",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"positive regulation of peptidyl-serine phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"positive regulation of protein kinase A signaling",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"positive regulation of cell death",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"amylin receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"positive regulation of adenylate cyclase activity",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"positive regulation of calcium ion import across plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"positive regulation of cAMP metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P30988,P30988,"receptor internalization",GO Process
+https://pharos.nih.gov/idg/targets/P49190,P49190,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P49190,P49190,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P49190,P49190,"parathyroid hormone receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P49190,P49190,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P49190,P49190,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P48546,P48546,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P48546,P48546,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/P48546,P48546,"transmembrane signaling receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P48546,P48546,"peptide hormone binding",GO Function
+https://pharos.nih.gov/idg/targets/P48546,P48546,"gastric inhibitory peptide receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P48546,P48546,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P48546,P48546,"response to calcium ion",GO Process
+https://pharos.nih.gov/idg/targets/P48546,P48546,"positive regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/P48546,P48546,"response to nutrient",GO Process
+https://pharos.nih.gov/idg/targets/P48546,P48546,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P48546,P48546,"response to glucose",GO Process
+https://pharos.nih.gov/idg/targets/P48546,P48546,"generation of precursor metabolites and energy",GO Process
+https://pharos.nih.gov/idg/targets/P48546,P48546,"response to fatty acid",GO Process
+https://pharos.nih.gov/idg/targets/P48546,P48546,"regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/P48546,P48546,"endocrine pancreas development",GO Process
+https://pharos.nih.gov/idg/targets/P48546,P48546,"activation of adenylate cyclase activity",GO Process
+https://pharos.nih.gov/idg/targets/P48546,P48546,"response to axon injury",GO Process
+https://pharos.nih.gov/idg/targets/P48546,P48546,"positive regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/P48546,P48546,"desensitization of G-protein coupled receptor protein signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P47871,P47871,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P47871,P47871,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P47871,P47871,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/P47871,P47871,endosome,GO Component
+https://pharos.nih.gov/idg/targets/P47871,P47871,"guanyl-nucleotide exchange factor activity",GO Function
+https://pharos.nih.gov/idg/targets/P47871,P47871,"peptide hormone binding",GO Function
+https://pharos.nih.gov/idg/targets/P47871,P47871,"glucagon receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P47871,P47871,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P47871,P47871,"regulation of blood pressure",GO Process
+https://pharos.nih.gov/idg/targets/P47871,P47871,"response to nutrient",GO Process
+https://pharos.nih.gov/idg/targets/P47871,P47871,"response to starvation",GO Process
+https://pharos.nih.gov/idg/targets/P47871,P47871,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P47871,P47871,exocytosis,GO Process
+https://pharos.nih.gov/idg/targets/P47871,P47871,"generation of precursor metabolites and energy",GO Process
+https://pharos.nih.gov/idg/targets/P47871,P47871,"adenylate cyclase-activating G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P47871,P47871,"adenylate cyclase-modulating G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P47871,P47871,"glucose homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/P47871,P47871,"cellular response to glucagon stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P47871,P47871,"hormone-mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P47871,P47871,"regulation of glycogen metabolic process",GO Process
+https://pharos.nih.gov/idg/targets/P32241,P32241,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P32241,P32241,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P32241,P32241,"receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/P32241,P32241,"vasoactive intestinal polypeptide receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P32241,P32241,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P32241,P32241,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P32241,P32241,"G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",GO Process
+https://pharos.nih.gov/idg/targets/P32241,P32241,"positive regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P32241,P32241,"immune response",GO Process
+https://pharos.nih.gov/idg/targets/P32241,P32241,digestion,GO Process
+https://pharos.nih.gov/idg/targets/P32241,P32241,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P32241,P32241,"muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"apical plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"basolateral plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"brush border membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"protein homodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"protein self-association",GO Function
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"peptide hormone binding",GO Function
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"parathyroid hormone receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"negative regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"positive regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"positive regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,aging,GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"phospholipase C-activating G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"adenylate cyclase-activating G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"adenylate cyclase-modulating G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"osteoblast development",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"chondrocyte differentiation",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"skeletal system development",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"positive regulation of inositol phosphate biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"bone mineralization",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"cell maturation",GO Process
+https://pharos.nih.gov/idg/targets/Q03431,Q03431,"bone resorption",GO Process
+https://pharos.nih.gov/idg/targets/P34998,P34998,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P34998,P34998,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P34998,P34998,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/P34998,P34998,endosome,GO Component
+https://pharos.nih.gov/idg/targets/P34998,P34998,"intrinsic component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P34998,P34998,"corticotrophin-releasing factor receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P34998,P34998,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P34998,P34998,"immune response",GO Process
+https://pharos.nih.gov/idg/targets/P34998,P34998,"female pregnancy",GO Process
+https://pharos.nih.gov/idg/targets/P34998,P34998,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P34998,P34998,"activation of adenylate cyclase activity",GO Process
+https://pharos.nih.gov/idg/targets/P34998,P34998,"corticotropin secretion",GO Process
+https://pharos.nih.gov/idg/targets/P34998,P34998,"negative regulation of voltage-gated calcium channel activity",GO Process
+https://pharos.nih.gov/idg/targets/P34998,P34998,parturition,GO Process
+https://pharos.nih.gov/idg/targets/P34998,P34998,"regulation of corticosterone secretion",GO Process
+https://pharos.nih.gov/idg/targets/P34998,P34998,"positive regulation of adenylate cyclase activity involved in G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P34998,P34998,"cellular response to corticotropin-releasing hormone stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P34998,P34998,"regulation of adenylate cyclase activity involved in G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,endosome,GO Component
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,lysosome,GO Component
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"G-protein coupled receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"protein transporter activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"calcitonin receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"calcitonin gene-related peptide receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"adrenomedullin receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"protein transport",GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"cell surface receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"heart development",GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,angiogenesis,GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"adenylate cyclase-activating G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"positive regulation of cAMP biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"positive regulation of smooth muscle cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"cAMP biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"negative regulation of inflammatory response",GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"receptor internalization",GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"negative regulation of smooth muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q16602,Q16602,"cellular response to sucrose stimulus",GO Process

@@ -1,0 +1,252 @@
+"URL","Uniprot ID","GOTerm","GOType"
+https://pharos.nih.gov/idg/targets/P41594,P41594,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P41594,P41594,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P41594,P41594,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P41594,P41594,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/P41594,P41594,"neuron projection",GO Component
+https://pharos.nih.gov/idg/targets/P41594,P41594,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/P41594,P41594,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P41594,P41594,"G-protein coupled receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P41594,P41594,"G-protein coupled receptor activity involved in regulation of postsynaptic membrane potential",GO Function
+https://pharos.nih.gov/idg/targets/P41594,P41594,"glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P41594,P41594,"neurotransmitter receptor activity involved in regulation of postsynaptic cytosolic calcium ion concentration",GO Function
+https://pharos.nih.gov/idg/targets/P41594,P41594,"protein tyrosine kinase activator activity",GO Function
+https://pharos.nih.gov/idg/targets/P41594,P41594,"protein tyrosine kinase binding",GO Function
+https://pharos.nih.gov/idg/targets/P41594,P41594,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"regulation of protein phosphorylation",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"learning or memory",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"regulation of translation",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,cognition,GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"locomotory behavior",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,learning,GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"regulation of long-term neuronal synaptic plasticity",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"cellular response to amyloid-beta",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"synapse organization",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"calcium-mediated signaling using intracellular calcium source",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"adenylate cyclase-inhibiting G-protein coupled glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"G-protein coupled glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"modulation of age-related behavioral decline",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"phospholipase C-activating G-protein coupled glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"positive regulation of protein tyrosine kinase activity",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"regulation of intracellular calcium activated chloride channel activity",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"regulation of synaptic transmission, glutamatergic",GO Process
+https://pharos.nih.gov/idg/targets/P41594,P41594,"regulation of translational elongation",GO Process
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,axon,GO Component
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"dendritic spine",GO Component
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"G-protein coupled receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"calcium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"group II metabotropic glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"negative regulation of adenylate cyclase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"G-protein coupled glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q14832,Q14832,"regulation of synaptic transmission, glutamatergic",GO Process
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"cell cortex",GO Component
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,axon,GO Component
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"asymmetric synapse",GO Component
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"dendritic shaft",GO Component
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"presynaptic active zone",GO Component
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"calcium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"PDZ domain binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"calcium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"adenylate cyclase inhibitor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"glutamate binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"group III metabotropic glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"serine binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"sensory perception of sound",GO Process
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"negative regulation of adenylate cyclase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"negative regulation of glutamate secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"adenylate cyclase-inhibiting G-protein coupled glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"regulation of synaptic transmission, glutamatergic",GO Process
+https://pharos.nih.gov/idg/targets/Q14831,Q14831,"negative regulation of cAMP biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,"cytoplasmic vesicle",GO Component
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,"G-protein coupled receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,"glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,"activation of MAPK activity",GO Process
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,"neurotransmitter secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,"positive regulation of MAPK cascade",GO Process
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,"adenylate cyclase-inhibiting G-protein coupled glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,"regulation of synaptic transmission, glutamatergic",GO Process
+https://pharos.nih.gov/idg/targets/Q14833,Q14833,"regulation of neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/O00222,O00222,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O00222,O00222,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O00222,O00222,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/O00222,O00222,"G-protein coupled receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/O00222,O00222,"glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/O00222,O00222,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O00222,O00222,"visual perception",GO Process
+https://pharos.nih.gov/idg/targets/O00222,O00222,"adenylate cyclase-inhibiting G-protein coupled glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O00222,O00222,"regulation of synaptic transmission, glutamatergic",GO Process
+https://pharos.nih.gov/idg/targets/O00222,O00222,"negative regulation of cAMP biosynthetic process",GO Process
+https://pharos.nih.gov/idg/targets/Q5T6X5,Q5T6X5,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q5T6X5,Q5T6X5,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q5T6X5,Q5T6X5,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/Q5T6X5,Q5T6X5,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q5T6X5,Q5T6X5,"G-protein coupled receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q5T6X5,Q5T6X5,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q5T6X5,Q5T6X5,"calcium-mediated signaling",GO Process
+https://pharos.nih.gov/idg/targets/Q5T6X5,Q5T6X5,"response to amino acid",GO Process
+https://pharos.nih.gov/idg/targets/O75899,O75899,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/O75899,O75899,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O75899,O75899,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O75899,O75899,"neuron projection",GO Component
+https://pharos.nih.gov/idg/targets/O75899,O75899,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/O75899,O75899,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/O75899,O75899,"GABA receptor complex",GO Component
+https://pharos.nih.gov/idg/targets/O75899,O75899,"G-protein coupled receptor heterodimeric complex",GO Component
+https://pharos.nih.gov/idg/targets/O75899,O75899,"protein heterodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/O75899,O75899,"G-protein coupled GABA receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/O75899,O75899,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/O75899,O75899,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O75899,O75899,"negative regulation of adenylate cyclase activity",GO Process
+https://pharos.nih.gov/idg/targets/O75899,O75899,"gamma-aminobutyric acid signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O15303,O15303,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O15303,O15303,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O15303,O15303,"Golgi membrane",GO Component
+https://pharos.nih.gov/idg/targets/O15303,O15303,"endoplasmic reticulum membrane",GO Component
+https://pharos.nih.gov/idg/targets/O15303,O15303,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/O15303,O15303,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/O15303,O15303,"new growing cell tip",GO Component
+https://pharos.nih.gov/idg/targets/O15303,O15303,"protein homodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/O15303,O15303,"G-protein coupled receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/O15303,O15303,"glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/O15303,O15303,"adenylate cyclase inhibiting G-protein coupled glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/O15303,O15303,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/O15303,O15303,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O15303,O15303,"locomotory behavior",GO Process
+https://pharos.nih.gov/idg/targets/O15303,O15303,"retina development in camera-type eye",GO Process
+https://pharos.nih.gov/idg/targets/O15303,O15303,"positive regulation of calcium ion import",GO Process
+https://pharos.nih.gov/idg/targets/O15303,O15303,"adenylate cyclase-inhibiting G-protein coupled glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O15303,O15303,"G-protein coupled glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/O15303,O15303,"regulation of synaptic transmission, glutamatergic",GO Process
+https://pharos.nih.gov/idg/targets/O15303,O15303,"detection of light stimulus involved in visual perception",GO Process
+https://pharos.nih.gov/idg/targets/O15303,O15303,"detection of visible light",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/P41180,P41180,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P41180,P41180,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P41180,P41180,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P41180,P41180,"apical plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P41180,P41180,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/P41180,P41180,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/P41180,P41180,axon,GO Component
+https://pharos.nih.gov/idg/targets/P41180,P41180,"basolateral plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P41180,P41180,"axon terminus",GO Component
+https://pharos.nih.gov/idg/targets/P41180,P41180,"protein homodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/P41180,P41180,"G-protein coupled receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/P41180,P41180,"integrin binding",GO Function
+https://pharos.nih.gov/idg/targets/P41180,P41180,"protein kinase binding",GO Function
+https://pharos.nih.gov/idg/targets/P41180,P41180,"calcium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P41180,P41180,"ion channel binding",GO Function
+https://pharos.nih.gov/idg/targets/P41180,P41180,"magnesium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P41180,P41180,"drug binding",GO Function
+https://pharos.nih.gov/idg/targets/P41180,P41180,"amino acid binding",GO Function
+https://pharos.nih.gov/idg/targets/P41180,P41180,"phosphatidylinositol phospholipase C activity",GO Function
+https://pharos.nih.gov/idg/targets/P41180,P41180,"polyamine binding",GO Function
+https://pharos.nih.gov/idg/targets/P41180,P41180,"branching morphogenesis of an epithelial tube",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"positive regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"phospholipase C-activating G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"positive regulation of vasoconstriction",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"anatomical structure morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"cellular response to glucose stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"positive regulation of gene expression",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"JNK cascade",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"cellular response to peptide",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"detection of calcium ion",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,ossification,GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"positive regulation of calcium ion import",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"fat pad development",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"cellular response to hypoxia",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"calcium ion import",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"cellular calcium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"response to ischemia",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"positive regulation of ATPase activity",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"cellular response to low-density lipoprotein particle stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"response to fibroblast growth factor",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"positive regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"cellular response to vitamin D",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,vasodilation,GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"positive regulation of positive chemotaxis",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"cellular response to hepatocyte growth factor stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P41180,P41180,"chemosensory behavior",GO Process
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,nucleus,GO Component
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"G-protein coupled receptor dimeric complex",GO Component
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"G-protein coupled receptor homodimeric complex",GO Component
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"G-protein coupled receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"neurotransmitter receptor activity involved in regulation of postsynaptic cytosolic calcium ion concentration",GO Function
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"activation of MAPK activity",GO Process
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"activation of MAPKK activity",GO Process
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"locomotory behavior",GO Process
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"regulation of sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"adenylate cyclase-inhibiting G-protein coupled glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"G-protein coupled glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"regulation of synaptic transmission, glutamatergic",GO Process
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"cellular response to electrical stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q13255,Q13255,"dimeric G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,axon,GO Component
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,"G-protein coupled receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,"calcium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,"glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,"group II metabotropic glutamate receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,"negative regulation of adenylate cyclase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,"G-protein coupled glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,"regulation of synaptic transmission, glutamatergic",GO Process
+https://pharos.nih.gov/idg/targets/Q14416,Q14416,"glutamate secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBS5,Q9UBS5,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/Q9UBS5,Q9UBS5,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UBS5,Q9UBS5,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UBS5,Q9UBS5,"extracellular region",GO Component
+https://pharos.nih.gov/idg/targets/Q9UBS5,Q9UBS5,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q9UBS5,Q9UBS5,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UBS5,Q9UBS5,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q9UBS5,Q9UBS5,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UBS5,Q9UBS5,"G-protein coupled receptor heterodimeric complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9UBS5,Q9UBS5,"G-protein coupled GABA receptor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UBS5,Q9UBS5,"adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBS5,Q9UBS5,"G-protein coupled receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBS5,Q9UBS5,"negative regulation of adenylate cyclase activity",GO Process
+https://pharos.nih.gov/idg/targets/Q9UBS5,Q9UBS5,"gamma-aminobutyric acid signaling pathway",GO Process

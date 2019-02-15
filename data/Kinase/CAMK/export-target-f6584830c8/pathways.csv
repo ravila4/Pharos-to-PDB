@@ -1,0 +1,1307 @@
+"URL","Uniprot ID","Name","Source","Link"
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"MAPK signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04010
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"HIF-1 signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04066
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"Insulin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04910
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,http://pathwaycommons.org/pc2/Pathway_33e0b1dfe66b796d1f4b662240ec2a54,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,http://pathwaycommons.org/pc2/Pathway_41362e44a39a2446580e8a2491eb25f7,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,http://pathwaycommons.org/pc2/Pathway_4a1ae5593b2d2d667eac5ff80cdcfff1,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,http://pathwaycommons.org/pc2/Pathway_64899ceeb2cb6ca5a90ec5271a196bff,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,http://pathwaycommons.org/pc2/Pathway_86241533fc884472d7c411dbf8718b42,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,http://pathwaycommons.org/pc2/Pathway_8ed0774b5606cae9cee7ed9b5a1dddd4,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,http://identifiers.org/panther.pathway/P00046,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,http://identifiers.org/panther.pathway/P05918,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,http://identifiers.org/panther.pathway/P00036,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,http://identifiers.org/panther.pathway/P00047,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,http://pathwaycommons.org/pc2/Pathway_c4cdce800a07f93adecb02111c63e8aa,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"Signaling by FGFR","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-190236
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"Signaling by FGFR2","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5654738
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"Signaling by Receptor Tyrosine Kinases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-9006934
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"Negative regulation of FGFR1 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5654726
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"Negative regulation of FGFR2 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5654727
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"Negative regulation of FGFR3 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5654732
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"Negative regulation of FGFR4 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5654733
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"Signaling by FGFR1","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5654736
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"Signaling by FGFR3","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5654741
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"Signaling by FGFR4","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5654743
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"Spry regulation of FGF signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1295596
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"MAPK Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP382_r96304
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"VEGFA-VEGFR2 Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3888_r90000
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"BDNF-TrkB Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3676_r94186
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"Structural Pathway of Interleukin 1 (IL-1)","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2637_r87707
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"4-hydroxytamoxifen, Dexamethasone, and Retinoic Acids Regulation of p27 Expression","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3879_r94799
+https://pharos.nih.gov/idg/targets/Q9BUB5,Q9BUB5,"p38 MAPK Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP400_r95117
+https://pharos.nih.gov/idg/targets/Q7KZI7,Q7KZI7,http://pathwaycommons.org/pc2/Pathway_035c8db08948e45ead85f4b45aa655a9,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q7KZI7,Q7KZI7,http://pathwaycommons.org/pc2/Pathway_734b38657ead53b0299e9671be672445,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q7KZI7,Q7KZI7,http://pathwaycommons.org/pc2/Pathway_f2073c3ae08afe8d6cf1a6ef7364112f,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q7KZI7,Q7KZI7,http://pathwaycommons.org/pc2/Pathway_f5318e773eb9e48f1ea5f353513a8362,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q7KZI7,Q7KZI7,"Regulation of Microtubule Cytoskeleton","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2038_r94910
+https://pharos.nih.gov/idg/targets/Q9Y2K2,Q9Y2K2,http://pathwaycommons.org/pc2/Pathway_f5318e773eb9e48f1ea5f353513a8362,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Axon guidance","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04360
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Gastric acid secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04971
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Glucagon signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04922
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"HIF-1 signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04066
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,Necroptosis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04217
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,Tuberculosis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05152
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Pathways in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05200
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Olfactory transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04740
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Aldosterone synthesis and secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04925
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Adrenergic signaling in cardiomyocytes","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04261
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Insulin secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04911
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Oocyte meiosis","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04114
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Neurotrophin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04722
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Wnt signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04310
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,Melanogenesis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04916
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Cushing's syndrome","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04934
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Inflammatory mediator regulation of TRP channels","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04750
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Dopaminergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04728
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Circadian entrainment","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04713
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Cholinergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04725
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Proteoglycans in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05205
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"GnRH signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04912
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Long-term potentiation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04720
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"ErbB signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04012
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,Glioma,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05214
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,http://pathwaycommons.org/pc2/Pathway_33e0b1dfe66b796d1f4b662240ec2a54,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,http://pathwaycommons.org/pc2/Pathway_41362e44a39a2446580e8a2491eb25f7,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,http://pathwaycommons.org/pc2/Pathway_4a1ae5593b2d2d667eac5ff80cdcfff1,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,http://pathwaycommons.org/pc2/Pathway_64899ceeb2cb6ca5a90ec5271a196bff,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,http://pathwaycommons.org/pc2/Pathway_86241533fc884472d7c411dbf8718b42,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,http://pathwaycommons.org/pc2/Pathway_99e683a77ee273cbdaf5755e35d2668d,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,http://pathwaycommons.org/pc2/Pathway_a9236ccf6ed2ea927e24d9526190400d,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,http://pathwaycommons.org/pc2/Pathway_01bb03155e5e2b060a0bce463e22bf30,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,http://pathwaycommons.org/pc2/Pathway_41cc678a81d52c1b5a6107079157bb00,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Immune System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168256
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"MAPK family signaling cascades","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5683057
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"MAPK1/MAPK3 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5684996
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"RAF/MAP kinase cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5673001
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Cytokine Signaling in Immune system","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1280215
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Transport of small molecules","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-382551
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Ion channel transport","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-983712
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Interferon Signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-913531
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Interferon gamma signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-877300
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Cellular response to heat stress","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3371556
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Cellular responses to external stimuli","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8953897
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Cellular responses to stress","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2262752
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Cardiac conduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5576891
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Muscle contraction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-397014
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Phase 0 - rapid depolarisation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5576892
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"HSF1-dependent transactivation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3371571
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Ion homeostasis","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5578775
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Ion transport by P-type ATPases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-936837
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Activation of NMDA receptor and postsynaptic events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442755
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"CREB phosphorylation through the activation of CaMKII","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442729
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"CREB phosphorylation through the activation of Ras","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442742
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Post NMDA receptor activation events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438064
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Ras activation upon Ca2+ influx through NMDA receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442982
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Unblocking of NMDA receptor, glutamate binding and activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438066
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Glutamate binding, activation of AMPA receptors and synaptic plasticity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399721
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Trafficking of AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399719
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Calcium Regulation in the Cardiac Cell","WikiPathways Pathway",http://www.wikipathways.org/instance/WP536_r95108
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Myometrial Relaxation and Contraction Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP289_r89548
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Wnt Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP363_r94887
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"NO/cGMP/PKG mediated Neuroprotection","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4008_r96448
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Energy Metabolism","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1541_r94314
+https://pharos.nih.gov/idg/targets/Q13555,Q13555,"Splicing factor NOVA regulated synaptic proteins","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4148_r94396
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Axon guidance","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04360
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Gastric acid secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04971
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Glucagon signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04922
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"HIF-1 signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04066
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,Necroptosis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04217
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,Tuberculosis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05152
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Pathways in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05200
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Olfactory transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04740
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Aldosterone synthesis and secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04925
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Adrenergic signaling in cardiomyocytes","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04261
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Insulin secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04911
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Oocyte meiosis","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04114
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Neurotrophin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04722
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Wnt signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04310
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,Melanogenesis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04916
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Cushing's syndrome","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04934
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Inflammatory mediator regulation of TRP channels","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04750
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Dopaminergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04728
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Circadian entrainment","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04713
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Cholinergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04725
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Proteoglycans in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05205
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"GnRH signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04912
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Long-term potentiation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04720
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"ErbB signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04012
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,Glioma,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05214
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,http://pathwaycommons.org/pc2/Pathway_33e0b1dfe66b796d1f4b662240ec2a54,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,http://pathwaycommons.org/pc2/Pathway_41362e44a39a2446580e8a2491eb25f7,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,http://pathwaycommons.org/pc2/Pathway_4a1ae5593b2d2d667eac5ff80cdcfff1,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,http://pathwaycommons.org/pc2/Pathway_64899ceeb2cb6ca5a90ec5271a196bff,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,http://pathwaycommons.org/pc2/Pathway_86241533fc884472d7c411dbf8718b42,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,http://pathwaycommons.org/pc2/Pathway_99e683a77ee273cbdaf5755e35d2668d,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,http://pathwaycommons.org/pc2/Pathway_01bb03155e5e2b060a0bce463e22bf30,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,http://pathwaycommons.org/pc2/Pathway_545910e725dd1ade6c3e0a02be9118b8,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,http://pathwaycommons.org/pc2/Pathway_9cdcbd3beed0e7c3ef28087ea867e5dc,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Immune System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168256
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"MAPK family signaling cascades","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5683057
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"MAPK1/MAPK3 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5684996
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"RAF/MAP kinase cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5673001
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Cytokine Signaling in Immune system","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1280215
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Transport of small molecules","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-382551
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Ion channel transport","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-983712
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Interferon Signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-913531
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Interferon gamma signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-877300
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Cellular response to heat stress","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3371556
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Cellular responses to external stimuli","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8953897
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Cellular responses to stress","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2262752
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Cardiac conduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5576891
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Muscle contraction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-397014
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Phase 0 - rapid depolarisation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5576892
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"HSF1-dependent transactivation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3371571
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Ion homeostasis","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5578775
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Ion transport by P-type ATPases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-936837
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Activation of NMDA receptor and postsynaptic events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442755
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"CREB phosphorylation through the activation of CaMKII","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442729
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"CREB phosphorylation through the activation of Ras","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442742
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Post NMDA receptor activation events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438064
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Ras activation upon Ca2+ influx through NMDA receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442982
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Unblocking of NMDA receptor, glutamate binding and activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438066
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Glutamate binding, activation of AMPA receptors and synaptic plasticity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399721
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Trafficking of AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399719
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Calcium Regulation in the Cardiac Cell","WikiPathways Pathway",http://www.wikipathways.org/instance/WP536_r95108
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Myometrial Relaxation and Contraction Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP289_r89548
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Wnt Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP363_r94887
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"NO/cGMP/PKG mediated Neuroprotection","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4008_r96448
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Primary Focal Segmental Glomerulosclerosis FSGS","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2572_r90019
+https://pharos.nih.gov/idg/targets/Q13554,Q13554,"Serotonin and anxiety","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3947_r91925
+https://pharos.nih.gov/idg/targets/Q9UIK4,Q9UIK4,"Pathways in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05200
+https://pharos.nih.gov/idg/targets/Q9UIK4,Q9UIK4,"Autophagy - animal","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04140
+https://pharos.nih.gov/idg/targets/Q9UIK4,Q9UIK4,"Bladder cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05219
+https://pharos.nih.gov/idg/targets/Q9UIK4,Q9UIK4,Apoptosis,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-109581
+https://pharos.nih.gov/idg/targets/Q9UIK4,Q9UIK4,"Programmed Cell Death","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5357801
+https://pharos.nih.gov/idg/targets/Q9UIK4,Q9UIK4,"Caspase activation via extrinsic apoptotic signalling pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5357769
+https://pharos.nih.gov/idg/targets/Q9UIK4,Q9UIK4,"Ligand-independent caspase activation via DCC","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-418889
+https://pharos.nih.gov/idg/targets/Q9UIK4,Q9UIK4,"Bladder Cancer","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2828_r89143
+https://pharos.nih.gov/idg/targets/O94806,O94806,"Rap1 signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04015
+https://pharos.nih.gov/idg/targets/O94806,O94806,"Aldosterone synthesis and secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04925
+https://pharos.nih.gov/idg/targets/O94806,O94806,http://identifiers.org/panther.pathway/P00018,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/O94806,O94806,http://identifiers.org/panther.pathway/P00005,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/O94806,O94806,http://identifiers.org/panther.pathway/P00056,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/O94806,O94806,Metabolism,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1430728
+https://pharos.nih.gov/idg/targets/O94806,O94806,"Metabolism of lipids","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-556833
+https://pharos.nih.gov/idg/targets/O94806,O94806,"Sphingolipid metabolism","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-428157
+https://pharos.nih.gov/idg/targets/O94806,O94806,"Sphingolipid de novo biosynthesis","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1660661
+https://pharos.nih.gov/idg/targets/O94806,O94806,"G Protein Signaling Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP35_r88601
+https://pharos.nih.gov/idg/targets/O94806,O94806,"miRs in Muscle Cell Differentiation","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2012_r82900
+https://pharos.nih.gov/idg/targets/O43293,O43293,"Pathways in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05200
+https://pharos.nih.gov/idg/targets/O43293,O43293,"Autophagy - animal","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04140
+https://pharos.nih.gov/idg/targets/O43293,O43293,"Bladder cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05219
+https://pharos.nih.gov/idg/targets/O43293,O43293,http://pathwaycommons.org/pc2/Pathway_37a25f57f611f7aa7d256c20256a47ae,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/O43293,O43293,Apoptosis,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-109581
+https://pharos.nih.gov/idg/targets/O43293,O43293,"Programmed Cell Death","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5357801
+https://pharos.nih.gov/idg/targets/O43293,O43293,"Caspase activation via extrinsic apoptotic signalling pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5357769
+https://pharos.nih.gov/idg/targets/O43293,O43293,"Ligand-independent caspase activation via DCC","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-418889
+https://pharos.nih.gov/idg/targets/O43293,O43293,"Bladder Cancer","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2828_r89143
+https://pharos.nih.gov/idg/targets/Q8WZ42,Q8WZ42,"Dilated cardiomyopathy (DCM)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05414
+https://pharos.nih.gov/idg/targets/Q8WZ42,Q8WZ42,"Hypertrophic cardiomyopathy (HCM)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+https://pharos.nih.gov/idg/targets/Q8WZ42,Q8WZ42,Hemostasis,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-109582
+https://pharos.nih.gov/idg/targets/Q8WZ42,Q8WZ42,"Platelet activation, signaling and aggregation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-76002
+https://pharos.nih.gov/idg/targets/Q8WZ42,Q8WZ42,"Muscle contraction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-397014
+https://pharos.nih.gov/idg/targets/Q8WZ42,Q8WZ42,"Platelet degranulation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-114608
+https://pharos.nih.gov/idg/targets/Q8WZ42,Q8WZ42,"Response to elevated platelet cytosolic Ca2+","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-76005
+https://pharos.nih.gov/idg/targets/Q8WZ42,Q8WZ42,"Striated Muscle Contraction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-390522
+https://pharos.nih.gov/idg/targets/Q8WZ42,Q8WZ42,"Striated Muscle Contraction","WikiPathways Pathway",http://www.wikipathways.org/instance/WP383_r94665
+https://pharos.nih.gov/idg/targets/Q8IWQ3,Q8IWQ3,http://pathwaycommons.org/pc2/Pathway_f5318e773eb9e48f1ea5f353513a8362,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Viral carcinogenesis","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05203
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Cellular senescence","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04218
+https://pharos.nih.gov/idg/targets/O14757,O14757,"HTLV-I infection","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05166
+https://pharos.nih.gov/idg/targets/O14757,O14757,"p53 signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04115
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Cell cycle","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04110
+https://pharos.nih.gov/idg/targets/O14757,O14757,http://pathwaycommons.org/pc2/Pathway_6f46d1d4580a06dd2836cae9104b37e3,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O14757,O14757,http://pathwaycommons.org/pc2/Pathway_29075ee275e5dd7835503f07ddec68fd,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O14757,O14757,http://pathwaycommons.org/pc2/Pathway_d0fdef6265cbb62ab4c8aa576e712168,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O14757,O14757,http://pathwaycommons.org/pc2/Pathway_1d99625aa7f8f4a3f3189e8b237522c3,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O14757,O14757,http://pathwaycommons.org/pc2/Pathway_824c4a5aa959cfa5df5022de598fead6,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Gene expression (Transcription)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-74160
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Generic Transcription Pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-212436
+https://pharos.nih.gov/idg/targets/O14757,O14757,"RNA Polymerase II Transcription","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-73857
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/O14757,O14757,"DNA Repair","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-73894
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Signaling by Receptor Tyrosine Kinases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-9006934
+https://pharos.nih.gov/idg/targets/O14757,O14757,"TP53 Regulates Transcription of DNA Repair Genes","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6796648
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Transcriptional Regulation by TP53","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3700989
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Signaling by SCF-KIT","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1433557
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Cell Cycle","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1640170
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Activation of ATR in response to replication stress","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-176187
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Cell Cycle Checkpoints","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69620
+https://pharos.nih.gov/idg/targets/O14757,O14757,"DNA Double-Strand Break Repair","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5693532
+https://pharos.nih.gov/idg/targets/O14757,O14757,"G2/M Checkpoints","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69481
+https://pharos.nih.gov/idg/targets/O14757,O14757,"G2/M DNA damage checkpoint","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69473
+https://pharos.nih.gov/idg/targets/O14757,O14757,"HDR through Homologous Recombination (HR) or Single Strand Annealing (SSA)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5693567
+https://pharos.nih.gov/idg/targets/O14757,O14757,"HDR through Homologous Recombination (HRR)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5685942
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Homologous DNA Pairing and Strand Exchange","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5693579
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Homology Directed Repair","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5693538
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Presynaptic phase of homologous DNA pairing and strand exchange","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5693616
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Processing of DNA double-strand break ends","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5693607
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Regulation of TP53 Activity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5633007
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Regulation of TP53 Activity through Phosphorylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6804756
+https://pharos.nih.gov/idg/targets/O14757,O14757,"G1/S DNA Damage Checkpoints","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69615
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Ubiquitin Mediated Degradation of Phosphorylated Cdc25A","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69601
+https://pharos.nih.gov/idg/targets/O14757,O14757,"p53-Independent DNA Damage Response","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69610
+https://pharos.nih.gov/idg/targets/O14757,O14757,"p53-Independent G1/S DNA damage checkpoint","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69613
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-75035
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Transcriptional Regulation by E2F6","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8953750
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Pathways Affected in Adenoid Cystic Carcinoma","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3651_r89271
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Integrated Breast Cancer Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1984_r95143
+https://pharos.nih.gov/idg/targets/O14757,O14757,"DNA Damage Response","WikiPathways Pathway",http://www.wikipathways.org/instance/WP707_r94731
+https://pharos.nih.gov/idg/targets/O14757,O14757,"DNA IR-damage and cellular response via ATR","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4016_r94684
+https://pharos.nih.gov/idg/targets/O14757,O14757,"ATR Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3875_r90121
+https://pharos.nih.gov/idg/targets/O14757,O14757,"miRNA Regulation of DNA Damage Response","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1530_r94738
+https://pharos.nih.gov/idg/targets/O14757,O14757,"ATM Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2516_r90247
+https://pharos.nih.gov/idg/targets/O14757,O14757,"ATM Signaling Network in Development and Disease ","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3878_r89745
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Cell Cycle","WikiPathways Pathway",http://www.wikipathways.org/instance/WP179_r93002
+https://pharos.nih.gov/idg/targets/O14757,O14757,"DNA IR-Double Strand Breaks (DSBs) and cellular response via ATM","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3959_r95280
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Integrated Cancer Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1971_r96025
+https://pharos.nih.gov/idg/targets/O14757,O14757,"Retinoblastoma (RB) in Cancer","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2446_r87639
+https://pharos.nih.gov/idg/targets/Q8TDC3,Q8TDC3,http://pathwaycommons.org/pc2/Pathway_f5318e773eb9e48f1ea5f353513a8362,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BZL6,Q9BZL6,"Rap1 signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04015
+https://pharos.nih.gov/idg/targets/Q9BZL6,Q9BZL6,"Aldosterone synthesis and secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04925
+https://pharos.nih.gov/idg/targets/Q9BZL6,Q9BZL6,http://pathwaycommons.org/pc2/Pathway_6284c9242ef6746036b180f50003bab5,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BZL6,Q9BZL6,http://identifiers.org/panther.pathway/P00018,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BZL6,Q9BZL6,http://identifiers.org/panther.pathway/P00005,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BZL6,Q9BZL6,http://identifiers.org/panther.pathway/P00056,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BZL6,Q9BZL6,http://identifiers.org/panther.pathway/P06959,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9BZL6,Q9BZL6,Metabolism,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1430728
+https://pharos.nih.gov/idg/targets/Q9BZL6,Q9BZL6,"Metabolism of lipids","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-556833
+https://pharos.nih.gov/idg/targets/Q9BZL6,Q9BZL6,"Sphingolipid metabolism","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-428157
+https://pharos.nih.gov/idg/targets/Q9BZL6,Q9BZL6,"Sphingolipid de novo biosynthesis","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1660661
+https://pharos.nih.gov/idg/targets/Q9BZL6,Q9BZL6,"VEGFA-VEGFR2 Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3888_r90000
+https://pharos.nih.gov/idg/targets/Q9H0K1,Q9H0K1,"Glucagon signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04922
+https://pharos.nih.gov/idg/targets/Q9H0K1,Q9H0K1,http://pathwaycommons.org/pc2/Pathway_f5318e773eb9e48f1ea5f353513a8362,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Axon guidance","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04360
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Gastric acid secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04971
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Glucagon signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04922
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"HIF-1 signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04066
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,Necroptosis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04217
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,Tuberculosis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05152
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Pathways in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05200
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Olfactory transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04740
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Aldosterone synthesis and secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04925
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Adrenergic signaling in cardiomyocytes","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04261
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Insulin secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04911
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Oocyte meiosis","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04114
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Neurotrophin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04722
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Wnt signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04310
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,Melanogenesis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04916
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Cushing's syndrome","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04934
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Inflammatory mediator regulation of TRP channels","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04750
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Dopaminergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04728
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Circadian entrainment","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04713
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Cholinergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04725
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Proteoglycans in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05205
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"GnRH signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04912
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Long-term potentiation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04720
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"ErbB signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04012
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,Glioma,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05214
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://pathwaycommons.org/pc2/Pathway_33e0b1dfe66b796d1f4b662240ec2a54,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://pathwaycommons.org/pc2/Pathway_41362e44a39a2446580e8a2491eb25f7,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://pathwaycommons.org/pc2/Pathway_4a1ae5593b2d2d667eac5ff80cdcfff1,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://pathwaycommons.org/pc2/Pathway_64899ceeb2cb6ca5a90ec5271a196bff,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://pathwaycommons.org/pc2/Pathway_86241533fc884472d7c411dbf8718b42,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://pathwaycommons.org/pc2/Pathway_3a6d369c50d4882dc6b61149d4d84c3a,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://pathwaycommons.org/pc2/Pathway_99e683a77ee273cbdaf5755e35d2668d,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://identifiers.org/panther.pathway/P00031,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://pathwaycommons.org/pc2/Pathway_01bb03155e5e2b060a0bce463e22bf30,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://pathwaycommons.org/pc2/Pathway_7cebb5d9110cea54b9e580dfb8deb771,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://pathwaycommons.org/pc2/Pathway_80422388c8675e0baa833e268805473f,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://pathwaycommons.org/pc2/Pathway_87f2892e835b8682f8259b3d28e9a3bb,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://pathwaycommons.org/pc2/Pathway_d76455585caccbb0c181366f1b577c1a,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://pathwaycommons.org/pc2/Pathway_f05490256679094a8a2e7bffaa81a396,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,http://pathwaycommons.org/pc2/Pathway_af908790b4b115e69879e7bf41c80a09,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Immune System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168256
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"MAPK family signaling cascades","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5683057
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"MAPK1/MAPK3 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5684996
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"RAF/MAP kinase cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5673001
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Cytokine Signaling in Immune system","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1280215
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Transport of small molecules","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-382551
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Ion channel transport","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-983712
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Interferon Signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-913531
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Interferon gamma signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-877300
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Beta-catenin independent WNT signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3858494
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Ca2+ pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-4086398
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Signaling by WNT","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-195721
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Cellular response to heat stress","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3371556
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Cellular responses to external stimuli","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8953897
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Cellular responses to stress","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2262752
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Cardiac conduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5576891
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Muscle contraction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-397014
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Phase 0 - rapid depolarisation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5576892
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"HSF1-dependent transactivation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3371571
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Ion homeostasis","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5578775
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Ion transport by P-type ATPases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-936837
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Activation of NMDA receptor and postsynaptic events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442755
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"CREB phosphorylation through the activation of CaMKII","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442729
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"CREB phosphorylation through the activation of Ras","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442742
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Post NMDA receptor activation events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438064
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Ras activation upon Ca2+ influx through NMDA receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442982
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Unblocking of NMDA receptor, glutamate binding and activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438066
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Glutamate binding, activation of AMPA receptors and synaptic plasticity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399721
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Trafficking of AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399719
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"EGF/EGFR Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP437_r79266
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Corticotropin-releasing hormone signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2355_r94191
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Brain-Derived Neurotrophic Factor (BDNF) signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2380_r94178
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Melatonin metabolism and effects","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3298_r91618
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Calcium Regulation in the Cardiac Cell","WikiPathways Pathway",http://www.wikipathways.org/instance/WP536_r95108
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Myometrial Relaxation and Contraction Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP289_r89548
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Wnt Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP363_r94887
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"NO/cGMP/PKG mediated Neuroprotection","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4008_r96448
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"B Cell Receptor Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP23_r92558
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"Common Pathways Underlying Drug Addiction","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2636_r95595
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"MECP2 and Associated Rett Syndrome","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3584_r96364
+https://pharos.nih.gov/idg/targets/Q9UQM7,Q9UQM7,"ErbB Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP673_r96366
+https://pharos.nih.gov/idg/targets/O75962,O75962,http://pathwaycommons.org/pc2/Pathway_05405bc9d4f78d538840d5a5c31ade3e,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O75962,O75962,http://pathwaycommons.org/pc2/Pathway_829c8b053f0af5a42319ada9838294b1,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O75962,O75962,http://pathwaycommons.org/pc2/Pathway_d76455585caccbb0c181366f1b577c1a,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O75962,O75962,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/O75962,O75962,"GPCR downstream signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-388396
+https://pharos.nih.gov/idg/targets/O75962,O75962,"Signaling by GPCR","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-372790
+https://pharos.nih.gov/idg/targets/O75962,O75962,"Axon guidance","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-422475
+https://pharos.nih.gov/idg/targets/O75962,O75962,"Developmental Biology","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1266738
+https://pharos.nih.gov/idg/targets/O75962,O75962,"Netrin-1 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-373752
+https://pharos.nih.gov/idg/targets/O75962,O75962,"Cell death signalling via NRAGE, NRIF and NADE","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-204998
+https://pharos.nih.gov/idg/targets/O75962,O75962,"Death Receptor Signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-73887
+https://pharos.nih.gov/idg/targets/O75962,O75962,"G alpha (12/13) signalling events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-416482
+https://pharos.nih.gov/idg/targets/O75962,O75962,"NRAGE signals death through JNK","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-193648
+https://pharos.nih.gov/idg/targets/O75962,O75962,"Rho GTPase cycle","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-194840
+https://pharos.nih.gov/idg/targets/O75962,O75962,"Signaling by Rho GTPases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-194315
+https://pharos.nih.gov/idg/targets/O75962,O75962,"p75 NTR receptor-mediated signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-193704
+https://pharos.nih.gov/idg/targets/O75962,O75962,"G alpha (q) signalling events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-416476
+https://pharos.nih.gov/idg/targets/O75962,O75962,"DCC mediated attractive signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-418885
+https://pharos.nih.gov/idg/targets/O75962,O75962,"Regulation of Microtubule Cytoskeleton","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2038_r94910
+https://pharos.nih.gov/idg/targets/Q5VST9,Q5VST9,http://pathwaycommons.org/pc2/Pathway_829c8b053f0af5a42319ada9838294b1,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q5VST9,Q5VST9,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q5VST9,Q5VST9,"GPCR downstream signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-388396
+https://pharos.nih.gov/idg/targets/Q5VST9,Q5VST9,"Signaling by GPCR","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-372790
+https://pharos.nih.gov/idg/targets/Q5VST9,Q5VST9,"Cell death signalling via NRAGE, NRIF and NADE","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-204998
+https://pharos.nih.gov/idg/targets/Q5VST9,Q5VST9,"Death Receptor Signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-73887
+https://pharos.nih.gov/idg/targets/Q5VST9,Q5VST9,"G alpha (12/13) signalling events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-416482
+https://pharos.nih.gov/idg/targets/Q5VST9,Q5VST9,"NRAGE signals death through JNK","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-193648
+https://pharos.nih.gov/idg/targets/Q5VST9,Q5VST9,"Rho GTPase cycle","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-194840
+https://pharos.nih.gov/idg/targets/Q5VST9,Q5VST9,"Signaling by Rho GTPases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-194315
+https://pharos.nih.gov/idg/targets/Q5VST9,Q5VST9,"p75 NTR receptor-mediated signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-193704
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Cellular senescence","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04218
+https://pharos.nih.gov/idg/targets/O96017,O96017,"HTLV-I infection","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05166
+https://pharos.nih.gov/idg/targets/O96017,O96017,"p53 signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04115
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Cell cycle","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04110
+https://pharos.nih.gov/idg/targets/O96017,O96017,http://identifiers.org/panther.pathway/P00059,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/O96017,O96017,http://pathwaycommons.org/pc2/Pathway_2e588a694fbe5699cdfb297f4bb18eb0,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O96017,O96017,http://pathwaycommons.org/pc2/Pathway_64ff47d79516caff57535f56c2018f5a,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O96017,O96017,http://pathwaycommons.org/pc2/Pathway_1d99625aa7f8f4a3f3189e8b237522c3,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O96017,O96017,http://pathwaycommons.org/pc2/Pathway_d6b3d95c56b99914b9b595d891067982,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Gene expression (Transcription)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-74160
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Generic Transcription Pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-212436
+https://pharos.nih.gov/idg/targets/O96017,O96017,"RNA Polymerase II Transcription","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-73857
+https://pharos.nih.gov/idg/targets/O96017,O96017,"DNA Repair","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-73894
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Transcriptional Regulation by TP53","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3700989
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Cell Cycle","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1640170
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Cell Cycle Checkpoints","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69620
+https://pharos.nih.gov/idg/targets/O96017,O96017,"DNA Double-Strand Break Repair","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5693532
+https://pharos.nih.gov/idg/targets/O96017,O96017,"G2/M Checkpoints","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69481
+https://pharos.nih.gov/idg/targets/O96017,O96017,"G2/M DNA damage checkpoint","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69473
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Regulation of TP53 Activity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5633007
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Regulation of TP53 Activity through Phosphorylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6804756
+https://pharos.nih.gov/idg/targets/O96017,O96017,"G1/S DNA Damage Checkpoints","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69615
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Stabilization of p53","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69541
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Ubiquitin Mediated Degradation of Phosphorylated Cdc25A","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69601
+https://pharos.nih.gov/idg/targets/O96017,O96017,"p53-Dependent G1 DNA Damage Response","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69563
+https://pharos.nih.gov/idg/targets/O96017,O96017,"p53-Dependent G1/S DNA damage checkpoint","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69580
+https://pharos.nih.gov/idg/targets/O96017,O96017,"p53-Independent DNA Damage Response","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69610
+https://pharos.nih.gov/idg/targets/O96017,O96017,"p53-Independent G1/S DNA damage checkpoint","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-69613
+https://pharos.nih.gov/idg/targets/O96017,O96017,"DNA Double Strand Break Response","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5693606
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5693565
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-75035
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Regulation of TP53 Activity through Methylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6804760
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Regulation of TP53 Degradation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6804757
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Regulation of TP53 Expression and Degradation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6806003
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Pathways Affected in Adenoid Cystic Carcinoma","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3651_r89271
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Integrated Breast Cancer Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1984_r95143
+https://pharos.nih.gov/idg/targets/O96017,O96017,"DNA Damage Response","WikiPathways Pathway",http://www.wikipathways.org/instance/WP707_r94731
+https://pharos.nih.gov/idg/targets/O96017,O96017,"miRNA Regulation of DNA Damage Response","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1530_r94738
+https://pharos.nih.gov/idg/targets/O96017,O96017,"ATM Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2516_r90247
+https://pharos.nih.gov/idg/targets/O96017,O96017,"ATM Signaling Network in Development and Disease ","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3878_r89745
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Cell Cycle","WikiPathways Pathway",http://www.wikipathways.org/instance/WP179_r93002
+https://pharos.nih.gov/idg/targets/O96017,O96017,"miRNA regulation of p53 pathway in prostate cancer","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3982_r96401
+https://pharos.nih.gov/idg/targets/O96017,O96017,"DNA IR-Double Strand Breaks (DSBs) and cellular response via ATM","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3959_r95280
+https://pharos.nih.gov/idg/targets/O96017,O96017,"Integrated Cancer Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1971_r96025
+https://pharos.nih.gov/idg/targets/O14936,O14936,http://identifiers.org/panther.pathway/P00031,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/O14936,O14936,http://identifiers.org/panther.pathway/P00049,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/O14936,O14936,http://pathwaycommons.org/pc2/Pathway_2916f6be840f5295d6cb4e198bfd8942,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O14936,O14936,http://pathwaycommons.org/pc2/Pathway_33cda0ea415297e3cb82ba7aa3d39726,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O14936,O14936,http://pathwaycommons.org/pc2/Pathway_76f30920e0ab162d11dc2b21e9fe1133,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O14936,O14936,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/O14936,O14936,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/O14936,O14936,"Extracellular matrix organization","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1474244
+https://pharos.nih.gov/idg/targets/O14936,O14936,"Cell-Cell communication","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1500931
+https://pharos.nih.gov/idg/targets/O14936,O14936,"Protein-protein interactions at synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794362
+https://pharos.nih.gov/idg/targets/O14936,O14936,"Neurexins and neuroligins","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794361
+https://pharos.nih.gov/idg/targets/O14936,O14936,"Non-integrin membrane-ECM interactions","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3000171
+https://pharos.nih.gov/idg/targets/O14936,O14936,"Nephrin family interactions","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-373753
+https://pharos.nih.gov/idg/targets/O14936,O14936,"Neurotransmitter release cycle","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112310
+https://pharos.nih.gov/idg/targets/O14936,O14936,"Dopamine Neurotransmitter Release Cycle","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-212676
+https://pharos.nih.gov/idg/targets/O14936,O14936,"Syndecan interactions","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3000170
+https://pharos.nih.gov/idg/targets/O14936,O14936,"Parkin-Ubiquitin Proteasomal System pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2359_r72121
+https://pharos.nih.gov/idg/targets/O14936,O14936,"Splicing factor NOVA regulated synaptic proteins","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4148_r94396
+https://pharos.nih.gov/idg/targets/Q9P1W9,Q9P1W9,"Pathways in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05200
+https://pharos.nih.gov/idg/targets/Q9P1W9,Q9P1W9,"Acute myeloid leukemia","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05221
+https://pharos.nih.gov/idg/targets/Q9P1W9,Q9P1W9,"Imatinib and Chronic Myeloid Leukemia","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3640_r89384
+https://pharos.nih.gov/idg/targets/Q14012,Q14012,"Aldosterone synthesis and secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04925
+https://pharos.nih.gov/idg/targets/Q14012,Q14012,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/Q14012,Q14012,"Brain-Derived Neurotrophic Factor (BDNF) signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2380_r94178
+https://pharos.nih.gov/idg/targets/Q14012,Q14012,"Calcium Regulation in the Cardiac Cell","WikiPathways Pathway",http://www.wikipathways.org/instance/WP536_r95108
+https://pharos.nih.gov/idg/targets/Q14012,Q14012,"Association Between Physico-Chemical Features and Toxicity Associated Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3680_r96435
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,"Rap1 signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04015
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,"Aldosterone synthesis and secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04925
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,http://pathwaycommons.org/pc2/Pathway_3a6d369c50d4882dc6b61149d4d84c3a,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,http://pathwaycommons.org/pc2/Pathway_f62c135d6eebcb1d8ac5798d9db4b333,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,http://pathwaycommons.org/pc2/Pathway_6284c9242ef6746036b180f50003bab5,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,http://identifiers.org/panther.pathway/P00018,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,http://identifiers.org/panther.pathway/P00005,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,http://identifiers.org/panther.pathway/P00056,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,http://identifiers.org/panther.pathway/P06959,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,http://pathwaycommons.org/pc2/Pathway_8e13d5f9115c9afb1170f6c04f733e2f,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,http://pathwaycommons.org/pc2/Pathway_39e66f2f46bf466d524285d2454648f0,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,Metabolism,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1430728
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,"Metabolism of lipids","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-556833
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,"Sphingolipid metabolism","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-428157
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,"Sphingolipid de novo biosynthesis","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1660661
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,"Wnt Signaling Pathway and Pluripotency","WikiPathways Pathway",http://www.wikipathways.org/instance/WP399_r94890
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,"VEGFA-VEGFR2 Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3888_r90000
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,"Cardiac Hypertrophic Response","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2795_r85087
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,"Apoptosis Modulation and Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1772_r94912
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,"Calcium Regulation in the Cardiac Cell","WikiPathways Pathway",http://www.wikipathways.org/instance/WP536_r95108
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,"Myometrial Relaxation and Contraction Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP289_r89548
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,"G Protein Signaling Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP35_r88601
+https://pharos.nih.gov/idg/targets/Q15139,Q15139,"miRs in Muscle Cell Differentiation","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2012_r82900
+https://pharos.nih.gov/idg/targets/Q9P0L2,Q9P0L2,"Regulation of Microtubule Cytoskeleton","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2038_r94910
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Gastric acid secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04971
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Focal adhesion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04510
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Regulation of actin cytoskeleton","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04810
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"cGMP-PKG signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04022
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Apelin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04371
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Vascular smooth muscle contraction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04270
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Platelet activation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04611
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://pathwaycommons.org/pc2/Pathway_035c8db08948e45ead85f4b45aa655a9,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/panther.pathway/P00016,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/panther.pathway/P00031,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://pathwaycommons.org/pc2/Pathway_6db26439a88236108862180cab4d31a4,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://pathwaycommons.org/pc2/Pathway_cfd9e70419f06740999d44d16c949c57,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00296,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00297,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00298,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00299,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00300,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00301,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00302,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00303,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00304,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00305,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00306,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00307,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00323,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00324,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00325,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00326,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00327,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00328,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00329,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00330,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00331,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00332,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00359,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00366,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00367,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00368,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00375,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00376,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00377,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00378,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00379,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00380,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00381,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00382,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00588,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00657,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00658,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00659,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00660,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00661,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00662,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00663,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00664,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00665,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00666,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00667,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00668,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00669,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00670,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://identifiers.org/smpdb/SMP00354,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,http://pathwaycommons.org/pc2/Pathway_109784fd90f824f59b1e04361d15bb54,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Signaling by Rho GTPases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-194315
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Muscle contraction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-397014
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Smooth Muscle Contraction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-445355
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"RHO GTPase Effectors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-195258
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"RHO GTPases activate PAKs","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5627123
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"MicroRNAs in cardiomyocyte hypertrophy","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1544_r89794
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Focal Adhesion","WikiPathways Pathway",http://www.wikipathways.org/instance/WP306_r95135
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Endothelin Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2197_r94181
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Regulation of Actin Cytoskeleton","WikiPathways Pathway",http://www.wikipathways.org/instance/WP51_r94816
+https://pharos.nih.gov/idg/targets/Q15746,Q15746,"Association Between Physico-Chemical Features and Toxicity Associated Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3680_r96435
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Insulin resistance","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04931
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,http://pathwaycommons.org/pc2/Pathway_035c8db08948e45ead85f4b45aa655a9,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Adaptive Immune System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1280218
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Immune System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168256
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,Metabolism,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1430728
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Metabolism of lipids","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-556833
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Signaling by Receptor Tyrosine Kinases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-9006934
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"PPARA activates gene expression","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1989781
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-400206
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Intracellular signaling by second messengers","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-9006925
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"PIP3 activates AKT signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1257604
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Signaling by VEGF","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-194138
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"VEGFA-VEGFR2 Pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-4420097
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"VEGFR2 mediated vascular permeability","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5218920
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Negative regulation of the PI3K/AKT network","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-199418
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Insulin receptor signalling cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-74751
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Signaling by Insulin receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-74752
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"CD28 co-stimulation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-389356
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"CD28 dependent PI3K/Akt signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-389357
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Costimulation by the CD28 family","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-388841
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"IGF1R signaling cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2428924
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"IRS-mediated signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112399
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"IRS-related events triggered by IGF1R","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2428928
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"PI3K Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-109704
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2404192
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Activation of AKT2","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-165158
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Insulin Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP481_r94171
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,"Photodynamic therapy-induced unfolded protein response","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3613_r89330
+https://pharos.nih.gov/idg/targets/Q96RU7,Q96RU7,Adipogenesis,"WikiPathways Pathway",http://www.wikipathways.org/instance/WP236_r80209
+https://pharos.nih.gov/idg/targets/P27448,P27448,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/P27448,P27448,"MAPK family signaling cascades","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5683057
+https://pharos.nih.gov/idg/targets/P27448,P27448,"MAPK1/MAPK3 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5684996
+https://pharos.nih.gov/idg/targets/P27448,P27448,"Negative regulation of MAPK pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5675221
+https://pharos.nih.gov/idg/targets/P27448,P27448,"RAF/MAP kinase cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5673001
+https://pharos.nih.gov/idg/targets/P27448,P27448,Disease,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1643685
+https://pharos.nih.gov/idg/targets/P27448,P27448,"Diseases of signal transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5663202
+https://pharos.nih.gov/idg/targets/P27448,P27448,"Oncogenic MAPK signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6802957
+https://pharos.nih.gov/idg/targets/P27448,P27448,"Signaling by BRAF and RAF fusions","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6802952
+https://pharos.nih.gov/idg/targets/P27448,P27448,"MAP2K and MAPK activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5674135
+https://pharos.nih.gov/idg/targets/P27448,P27448,"Paradoxical activation of RAF signaling by kinase inactive BRAF","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6802955
+https://pharos.nih.gov/idg/targets/P27448,P27448,"Signaling by RAS mutants","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6802949
+https://pharos.nih.gov/idg/targets/P27448,P27448,"Signaling by high-kinase activity BRAF mutants","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6802948
+https://pharos.nih.gov/idg/targets/P27448,P27448,"Signaling by moderate kinase activity BRAF mutants","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6802946
+https://pharos.nih.gov/idg/targets/P27448,P27448,"RAF activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5673000
+https://pharos.nih.gov/idg/targets/Q86YV6,Q86YV6,"Gastric acid secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04971
+https://pharos.nih.gov/idg/targets/Q86YV6,Q86YV6,"Focal adhesion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04510
+https://pharos.nih.gov/idg/targets/Q86YV6,Q86YV6,"Regulation of actin cytoskeleton","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04810
+https://pharos.nih.gov/idg/targets/Q86YV6,Q86YV6,"cGMP-PKG signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04022
+https://pharos.nih.gov/idg/targets/Q86YV6,Q86YV6,"Apelin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04371
+https://pharos.nih.gov/idg/targets/Q86YV6,Q86YV6,"Vascular smooth muscle contraction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04270
+https://pharos.nih.gov/idg/targets/Q86YV6,Q86YV6,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/Q86YV6,Q86YV6,"Platelet activation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04611
+https://pharos.nih.gov/idg/targets/Q86YV6,Q86YV6,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/Q86YV6,Q86YV6,"Focal Adhesion","WikiPathways Pathway",http://www.wikipathways.org/instance/WP306_r95135
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Circadian rhythm","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04710
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Fluid shear stress and atherosclerosis","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05418
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Adipocytokine signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04920
+https://pharos.nih.gov/idg/targets/P54646,P54646,Thermogenesis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04714
+https://pharos.nih.gov/idg/targets/P54646,P54646,"mTOR signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04150
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Glucagon signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04922
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Tight junction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04530
+https://pharos.nih.gov/idg/targets/P54646,P54646,"PI3K-Akt signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04151
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Hypertrophic cardiomyopathy (HCM)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Insulin resistance","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04931
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Insulin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04910
+https://pharos.nih.gov/idg/targets/P54646,P54646,"AMPK signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04152
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Autophagy - animal","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04140
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Apelin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04371
+https://pharos.nih.gov/idg/targets/P54646,P54646,"FoxO signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04068
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Non-alcoholic fatty liver disease (NAFLD)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04932
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Longevity regulating pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04211
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Longevity regulating pathway - multiple species","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04213
+https://pharos.nih.gov/idg/targets/P54646,P54646,http://pathwaycommons.org/pc2/Pathway_33e0b1dfe66b796d1f4b662240ec2a54,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P54646,P54646,http://pathwaycommons.org/pc2/Pathway_41362e44a39a2446580e8a2491eb25f7,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P54646,P54646,http://pathwaycommons.org/pc2/Pathway_4a1ae5593b2d2d667eac5ff80cdcfff1,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P54646,P54646,http://pathwaycommons.org/pc2/Pathway_64899ceeb2cb6ca5a90ec5271a196bff,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P54646,P54646,http://pathwaycommons.org/pc2/Pathway_86241533fc884472d7c411dbf8718b42,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P54646,P54646,http://pathwaycommons.org/pc2/Pathway_a1413de727869646a6ba13745eb98440,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P54646,P54646,http://pathwaycommons.org/pc2/Pathway_fd35dba5a845715308913245cc1c992c,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P54646,P54646,http://pathwaycommons.org/pc2/Pathway_3a6d369c50d4882dc6b61149d4d84c3a,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/P54646,P54646,http://pathwaycommons.org/pc2/Pathway_f4bc9e7d28422ca47315389631f940ca,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/P54646,P54646,http://pathwaycommons.org/pc2/Pathway_81636b1beed0789b84b97edfb00b8eae,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/P54646,P54646,http://pathwaycommons.org/pc2/Pathway_26db2832e9da3aa59ec3ecc3cf47b0de,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/P54646,P54646,http://identifiers.org/panther.pathway/P04397,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Gene expression (Transcription)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-74160
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Generic Transcription Pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-212436
+https://pharos.nih.gov/idg/targets/P54646,P54646,"RNA Polymerase II Transcription","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-73857
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Organelle biogenesis and maintenance","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1852241
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Fatty acid metabolism","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8978868
+https://pharos.nih.gov/idg/targets/P54646,P54646,Metabolism,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1430728
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Metabolism of lipids","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-556833
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Transcriptional Regulation by TP53","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3700989
+https://pharos.nih.gov/idg/targets/P54646,P54646,"TP53 Regulates Metabolic Genes","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5628897
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Membrane Trafficking","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-199991
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Vesicle-mediated transport","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5653656
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Cellular responses to external stimuli","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8953897
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Regulation of TP53 Activity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5633007
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Regulation of TP53 Activity through Phosphorylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6804756
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Mitochondrial biogenesis","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1592230
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Integration of energy metabolism","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-163685
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Translocation of GLUT4 to the plasma membrane","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1445148
+https://pharos.nih.gov/idg/targets/P54646,P54646,Macroautophagy,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1632852
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Activation of PPARGC1A (PGC-1alpha) by phosphorylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2151209
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Energy dependent regulation of mTOR by LKB1-AMPK","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-380972
+https://pharos.nih.gov/idg/targets/P54646,P54646,"mTOR signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-165159
+https://pharos.nih.gov/idg/targets/P54646,P54646,"AMPK inhibits chREBP transcriptional activation activity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-163680
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Import of palmitoyl-CoA into the mitochondrial matrix","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-200425
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Circadian rythm related genes","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3594_r87161
+https://pharos.nih.gov/idg/targets/P54646,P54646,"VEGFA-VEGFR2 Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3888_r90000
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Corticotropin-releasing hormone signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2355_r94191
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Sterol Regulatory Element-Binding Proteins (SREBP) signalling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1982_r90425
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Brain-Derived Neurotrophic Factor (BDNF) signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2380_r94178
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Focal Adhesion-PI3K-Akt-mTOR-signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3932_r94216
+https://pharos.nih.gov/idg/targets/P54646,P54646,"PI3K-Akt Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4172_r96453
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Insulin Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP481_r94171
+https://pharos.nih.gov/idg/targets/P54646,P54646,"AMP-activated Protein Kinase (AMPK) Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1403_r90259
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Angiopoietin Like Protein 8 Regulatory Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3915_r94801
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Leptin signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2034_r89856
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Energy Metabolism","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1541_r94314
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Target Of Rapamycin (TOR) Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1471_r94755
+https://pharos.nih.gov/idg/targets/P54646,P54646,"Lipid Metabolism Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3965_r96169
+https://pharos.nih.gov/idg/targets/P54646,P54646,"PI3K/AKT/mTOR - VitD3 Signalling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4141_r96450
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Circadian rhythm","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04710
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Adipocytokine signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04920
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,Thermogenesis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04714
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Glucagon signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04922
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Tight junction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04530
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Hypertrophic cardiomyopathy (HCM)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Insulin resistance","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04931
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Insulin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04910
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"AMPK signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04152
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Apelin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04371
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"FoxO signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04068
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Non-alcoholic fatty liver disease (NAFLD)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04932
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Longevity regulating pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04211
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Longevity regulating pathway - multiple species","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04213
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,http://pathwaycommons.org/pc2/Pathway_33e0b1dfe66b796d1f4b662240ec2a54,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,http://pathwaycommons.org/pc2/Pathway_41362e44a39a2446580e8a2491eb25f7,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,http://pathwaycommons.org/pc2/Pathway_4a1ae5593b2d2d667eac5ff80cdcfff1,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,http://pathwaycommons.org/pc2/Pathway_64899ceeb2cb6ca5a90ec5271a196bff,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,http://pathwaycommons.org/pc2/Pathway_86241533fc884472d7c411dbf8718b42,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,http://pathwaycommons.org/pc2/Pathway_a1413de727869646a6ba13745eb98440,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,http://pathwaycommons.org/pc2/Pathway_fd35dba5a845715308913245cc1c992c,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,http://pathwaycommons.org/pc2/Pathway_81636b1beed0789b84b97edfb00b8eae,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,http://identifiers.org/panther.pathway/P04397,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,http://pathwaycommons.org/pc2/Pathway_2fefc7934131d97039b5b79eb4669eac,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Gene expression (Transcription)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-74160
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Generic Transcription Pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-212436
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"RNA Polymerase II Transcription","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-73857
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Organelle biogenesis and maintenance","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1852241
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Transcriptional Regulation by TP53","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3700989
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"TP53 Regulates Metabolic Genes","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5628897
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Membrane Trafficking","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-199991
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Vesicle-mediated transport","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5653656
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Cellular responses to external stimuli","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8953897
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Regulation of TP53 Activity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5633007
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Regulation of TP53 Activity through Phosphorylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6804756
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Mitochondrial biogenesis","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1592230
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Translocation of GLUT4 to the plasma membrane","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1445148
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,Macroautophagy,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1632852
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Activation of PPARGC1A (PGC-1alpha) by phosphorylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2151209
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Energy dependent regulation of mTOR by LKB1-AMPK","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-380972
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"mTOR signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-165159
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Sterol Regulatory Element-Binding Proteins (SREBP) signalling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1982_r90425
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Factors and pathways affecting insulin-like growth factor (IGF1)-Akt signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3850_r88165
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"AMP-activated Protein Kinase (AMPK) Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1403_r90259
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Hereditary Leiomyomatosis and Renal Cell Carcinoma Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4206_r96456
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Angiopoietin Like Protein 8 Regulatory Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3915_r94801
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Energy Metabolism","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1541_r94314
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Target Of Rapamycin (TOR) Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1471_r94755
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Lipid Metabolism Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3965_r96169
+https://pharos.nih.gov/idg/targets/Q9Y478,Q9Y478,"Leptin and adiponectin","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3934_r90768
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Circadian rhythm","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04710
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Adipocytokine signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04920
+https://pharos.nih.gov/idg/targets/P54619,P54619,Thermogenesis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04714
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Glucagon signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04922
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Tight junction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04530
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Hypertrophic cardiomyopathy (HCM)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Insulin resistance","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04931
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Insulin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04910
+https://pharos.nih.gov/idg/targets/P54619,P54619,"AMPK signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04152
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Apelin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04371
+https://pharos.nih.gov/idg/targets/P54619,P54619,"FoxO signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04068
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Non-alcoholic fatty liver disease (NAFLD)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04932
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Longevity regulating pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04211
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Longevity regulating pathway - multiple species","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04213
+https://pharos.nih.gov/idg/targets/P54619,P54619,http://pathwaycommons.org/pc2/Pathway_33e0b1dfe66b796d1f4b662240ec2a54,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P54619,P54619,http://pathwaycommons.org/pc2/Pathway_41362e44a39a2446580e8a2491eb25f7,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P54619,P54619,http://pathwaycommons.org/pc2/Pathway_4a1ae5593b2d2d667eac5ff80cdcfff1,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P54619,P54619,http://pathwaycommons.org/pc2/Pathway_64899ceeb2cb6ca5a90ec5271a196bff,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P54619,P54619,http://pathwaycommons.org/pc2/Pathway_86241533fc884472d7c411dbf8718b42,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P54619,P54619,http://pathwaycommons.org/pc2/Pathway_a1413de727869646a6ba13745eb98440,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P54619,P54619,http://pathwaycommons.org/pc2/Pathway_fd35dba5a845715308913245cc1c992c,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P54619,P54619,http://identifiers.org/panther.pathway/P04397,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Gene expression (Transcription)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-74160
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Generic Transcription Pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-212436
+https://pharos.nih.gov/idg/targets/P54619,P54619,"RNA Polymerase II Transcription","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-73857
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Organelle biogenesis and maintenance","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1852241
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Transcriptional Regulation by TP53","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3700989
+https://pharos.nih.gov/idg/targets/P54619,P54619,"TP53 Regulates Metabolic Genes","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5628897
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Membrane Trafficking","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-199991
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Vesicle-mediated transport","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5653656
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Cellular responses to external stimuli","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8953897
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Regulation of TP53 Activity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5633007
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Regulation of TP53 Activity through Phosphorylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6804756
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Mitochondrial biogenesis","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1592230
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Translocation of GLUT4 to the plasma membrane","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1445148
+https://pharos.nih.gov/idg/targets/P54619,P54619,Macroautophagy,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1632852
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Activation of PPARGC1A (PGC-1alpha) by phosphorylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2151209
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Energy dependent regulation of mTOR by LKB1-AMPK","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-380972
+https://pharos.nih.gov/idg/targets/P54619,P54619,"mTOR signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-165159
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Sterol Regulatory Element-Binding Proteins (SREBP) signalling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1982_r90425
+https://pharos.nih.gov/idg/targets/P54619,P54619,"AMP-activated Protein Kinase (AMPK) Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1403_r90259
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Hereditary Leiomyomatosis and Renal Cell Carcinoma Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4206_r96456
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Angiopoietin Like Protein 8 Regulatory Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3915_r94801
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Energy Metabolism","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1541_r94314
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Target Of Rapamycin (TOR) Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1471_r94755
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Lipid Metabolism Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3965_r96169
+https://pharos.nih.gov/idg/targets/P54619,P54619,"Leptin and adiponectin","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3934_r90768
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Axon guidance","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04360
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Gastric acid secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04971
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Glucagon signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04922
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"HIF-1 signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04066
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,Necroptosis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04217
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,Tuberculosis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05152
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Pathways in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05200
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Olfactory transduction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04740
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Aldosterone synthesis and secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04925
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Adrenergic signaling in cardiomyocytes","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04261
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Insulin secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04911
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Oocyte meiosis","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04114
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Neurotrophin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04722
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Wnt signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04310
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,Melanogenesis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04916
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Cushing's syndrome","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04934
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Inflammatory mediator regulation of TRP channels","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04750
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Dopaminergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04728
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Circadian entrainment","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04713
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Cholinergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04725
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Proteoglycans in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05205
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"GnRH signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04912
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Long-term potentiation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04720
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"ErbB signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04012
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,Glioma,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05214
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,http://pathwaycommons.org/pc2/Pathway_33e0b1dfe66b796d1f4b662240ec2a54,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,http://pathwaycommons.org/pc2/Pathway_41362e44a39a2446580e8a2491eb25f7,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,http://pathwaycommons.org/pc2/Pathway_4a1ae5593b2d2d667eac5ff80cdcfff1,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,http://pathwaycommons.org/pc2/Pathway_64899ceeb2cb6ca5a90ec5271a196bff,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,http://pathwaycommons.org/pc2/Pathway_86241533fc884472d7c411dbf8718b42,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,http://pathwaycommons.org/pc2/Pathway_99e683a77ee273cbdaf5755e35d2668d,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,http://identifiers.org/panther.pathway/P00031,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,http://pathwaycommons.org/pc2/Pathway_01bb03155e5e2b060a0bce463e22bf30,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,http://pathwaycommons.org/pc2/Pathway_e70a35e1372d3d6fa43b20f03151e338,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Immune System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168256
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"MAPK family signaling cascades","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5683057
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"MAPK1/MAPK3 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5684996
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"RAF/MAP kinase cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5673001
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Cytokine Signaling in Immune system","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1280215
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Transport of small molecules","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-382551
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Ion channel transport","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-983712
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Interferon Signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-913531
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Interferon gamma signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-877300
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Cellular response to heat stress","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3371556
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Cellular responses to external stimuli","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8953897
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Cellular responses to stress","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2262752
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Cardiac conduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5576891
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Muscle contraction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-397014
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Phase 0 - rapid depolarisation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5576892
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"HSF1-dependent transactivation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3371571
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Ion homeostasis","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5578775
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Ion transport by P-type ATPases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-936837
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Activation of NMDA receptor and postsynaptic events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442755
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"CREB phosphorylation through the activation of CaMKII","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442729
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"CREB phosphorylation through the activation of Ras","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442742
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Post NMDA receptor activation events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438064
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Ras activation upon Ca2+ influx through NMDA receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442982
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Unblocking of NMDA receptor, glutamate binding and activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438066
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Glutamate binding, activation of AMPA receptors and synaptic plasticity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399721
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Trafficking of AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399719
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"MicroRNAs in cardiomyocyte hypertrophy","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1544_r89794
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Cardiac Hypertrophic Response","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2795_r85087
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Calcium Regulation in the Cardiac Cell","WikiPathways Pathway",http://www.wikipathways.org/instance/WP536_r95108
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Myometrial Relaxation and Contraction Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP289_r89548
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Wnt Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP363_r94887
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"NO/cGMP/PKG mediated Neuroprotection","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4008_r96448
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"Physiological and Pathological Hypertrophy  of the Heart","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1528_r94723
+https://pharos.nih.gov/idg/targets/Q13557,Q13557,"SRF and miRs in Smooth Muscle Differentiation and Proliferation","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1991_r89637
+https://pharos.nih.gov/idg/targets/P49137,P49137,"MAPK signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04010
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Kaposi's sarcoma-associated herpesvirus infection","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05167
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Viral carcinogenesis","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05203
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Neurotrophin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04722
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Cellular senescence","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04218
+https://pharos.nih.gov/idg/targets/P49137,P49137,"C-type lectin receptor signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04625
+https://pharos.nih.gov/idg/targets/P49137,P49137,"VEGF signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04370
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://pathwaycommons.org/pc2/Pathway_33e0b1dfe66b796d1f4b662240ec2a54,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://pathwaycommons.org/pc2/Pathway_41362e44a39a2446580e8a2491eb25f7,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://pathwaycommons.org/pc2/Pathway_4a1ae5593b2d2d667eac5ff80cdcfff1,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://pathwaycommons.org/pc2/Pathway_64899ceeb2cb6ca5a90ec5271a196bff,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://pathwaycommons.org/pc2/Pathway_86241533fc884472d7c411dbf8718b42,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://pathwaycommons.org/pc2/Pathway_f62c135d6eebcb1d8ac5798d9db4b333,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://pathwaycommons.org/pc2/Pathway_035c8db08948e45ead85f4b45aa655a9,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://pathwaycommons.org/pc2/Pathway_81636b1beed0789b84b97edfb00b8eae,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://identifiers.org/panther.pathway/P05918,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://identifiers.org/panther.pathway/P00036,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://identifiers.org/panther.pathway/P00047,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://identifiers.org/panther.pathway/P04393,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://identifiers.org/panther.pathway/P00005,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://identifiers.org/panther.pathway/P00056,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://pathwaycommons.org/pc2/Pathway_8faade99013362e73a61c377ca5ffaf5,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://pathwaycommons.org/pc2/Pathway_c4cdce800a07f93adecb02111c63e8aa,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://pathwaycommons.org/pc2/Pathway_bbc1ca375a97013b88ac4f8f0dbfd1fa,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://pathwaycommons.org/pc2/Pathway_35ad767af9c665c77d10839f855f1d41,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,http://pathwaycommons.org/pc2/Pathway_f77c02fc3255fe850fd2e8045d2e7bc6,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Immune System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168256
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Fatty acid metabolism","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8978868
+https://pharos.nih.gov/idg/targets/P49137,P49137,Metabolism,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1430728
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Metabolism of lipids","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-556833
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Cytokine Signaling in Immune system","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1280215
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Signaling by Interleukins","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-449147
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Metabolism of RNA","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8953854
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Innate Immune System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168249
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Signaling by Receptor Tyrosine Kinases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-9006934
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Signaling by VEGF","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-194138
+https://pharos.nih.gov/idg/targets/P49137,P49137,"VEGFA-VEGFR2 Pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-4420097
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Cellular response to heat stress","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3371556
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Cellular responses to external stimuli","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8953897
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Cellular responses to stress","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2262752
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Regulation of HSF1-mediated heat shock response","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3371453
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Cellular Senescence","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2559583
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Regulation of mRNA stability by proteins that bind AU-rich elements","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-450531
+https://pharos.nih.gov/idg/targets/P49137,P49137,"MyD88 cascade initiated on plasma membrane","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-975871
+https://pharos.nih.gov/idg/targets/P49137,P49137,"MyD88 dependent cascade initiated on endosome","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-975155
+https://pharos.nih.gov/idg/targets/P49137,P49137,"MyD88:Mal cascade initiated on plasma membrane","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-166058
+https://pharos.nih.gov/idg/targets/P49137,P49137,"TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-975138
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Toll Like Receptor 10 (TLR10) Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168142
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Toll Like Receptor 2 (TLR2) Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-181438
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Toll Like Receptor 4 (TLR4) Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-166016
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Toll Like Receptor 5 (TLR5) Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168176
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Toll Like Receptor 7/8 (TLR7/8) Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168181
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Toll Like Receptor 9 (TLR9) Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168138
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Toll Like Receptor TLR1:TLR2 Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168179
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Toll Like Receptor TLR6:TLR2 Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168188
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Toll-Like Receptors Cascades","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168898
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Signaling by NTRK1 (TRKA)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-187037
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Signaling by NTRKs","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-166520
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Signalling to ERKs","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-187687
+https://pharos.nih.gov/idg/targets/P49137,P49137,"MyD88-independent TLR4 cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-166166
+https://pharos.nih.gov/idg/targets/P49137,P49137,"TRIF(TICAM1)-mediated TLR4 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-937061
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Toll Like Receptor 3 (TLR3) Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168164
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Interleukin-17 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-448424
+https://pharos.nih.gov/idg/targets/P49137,P49137,"MAP kinase activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-450294
+https://pharos.nih.gov/idg/targets/P49137,P49137,"MAPK targets/ Nuclear events mediated by MAP kinases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-450282
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Nuclear Events (kinase and transcription factor activation)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-198725
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Oxidative Stress Induced Senescence","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2559580
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Arachidonic acid metabolism","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2142753
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Synthesis of Leukotrienes (LT) and Eoxins (EX)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2142691
+https://pharos.nih.gov/idg/targets/P49137,P49137,"activated TAK1 mediates p38 MAPK activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-450302
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Signalling to RAS","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-167044
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-450385
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-450513
+https://pharos.nih.gov/idg/targets/P49137,P49137,"CREB phosphorylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-199920
+https://pharos.nih.gov/idg/targets/P49137,P49137,"p38MAPK events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-171007
+https://pharos.nih.gov/idg/targets/P49137,P49137,"MAPK Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP382_r96304
+https://pharos.nih.gov/idg/targets/P49137,P49137,"VEGFA-VEGFR2 Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3888_r90000
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Structural Pathway of Interleukin 1 (IL-1)","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2637_r87707
+https://pharos.nih.gov/idg/targets/P49137,P49137,"p38 MAPK Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP400_r95117
+https://pharos.nih.gov/idg/targets/P49137,P49137,"IL-1 signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP195_r89932
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Serotonin Receptor 4/6/7 and NR3C Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP734_r74438
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Serotonin Receptor 2 and ELK-SRF/GATA4 signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP732_r80010
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Regulation of Microtubule Cytoskeleton","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2038_r94910
+https://pharos.nih.gov/idg/targets/P49137,P49137,"Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation","WikiPathways Pathway",http://www.wikipathways.org/instance/WP314_r94814
+https://pharos.nih.gov/idg/targets/P53355,P53355,"Pathways in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05200
+https://pharos.nih.gov/idg/targets/P53355,P53355,"Autophagy - animal","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04140
+https://pharos.nih.gov/idg/targets/P53355,P53355,"Bladder cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05219
+https://pharos.nih.gov/idg/targets/P53355,P53355,http://pathwaycommons.org/pc2/Pathway_01bb03155e5e2b060a0bce463e22bf30,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P53355,P53355,http://pathwaycommons.org/pc2/Pathway_d76455585caccbb0c181366f1b577c1a,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P53355,P53355,Apoptosis,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-109581
+https://pharos.nih.gov/idg/targets/P53355,P53355,"Programmed Cell Death","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5357801
+https://pharos.nih.gov/idg/targets/P53355,P53355,"Caspase activation via extrinsic apoptotic signalling pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5357769
+https://pharos.nih.gov/idg/targets/P53355,P53355,"Ligand-independent caspase activation via DCC","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-418889
+https://pharos.nih.gov/idg/targets/P53355,P53355,"Bladder Cancer","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2828_r89143
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,"Gastric acid secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04971
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,"Focal adhesion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04510
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,"Regulation of actin cytoskeleton","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04810
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,"cGMP-PKG signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04022
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,"Apelin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04371
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,"Vascular smooth muscle contraction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04270
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,"Platelet activation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04611
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,http://pathwaycommons.org/pc2/Pathway_9c6d8845d9cdbc4540a53f21fb9bed77,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,http://identifiers.org/panther.pathway/P00016,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,http://identifiers.org/panther.pathway/P00031,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,"MicroRNAs in cardiomyocyte hypertrophy","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1544_r89794
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,"Focal Adhesion","WikiPathways Pathway",http://www.wikipathways.org/instance/WP306_r95135
+https://pharos.nih.gov/idg/targets/Q32MK0,Q32MK0,"Cardiac Progenitor Differentiation","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2406_r89157
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"MAPK signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04010
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,http://pathwaycommons.org/pc2/Pathway_33e0b1dfe66b796d1f4b662240ec2a54,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,http://pathwaycommons.org/pc2/Pathway_41362e44a39a2446580e8a2491eb25f7,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,http://pathwaycommons.org/pc2/Pathway_4a1ae5593b2d2d667eac5ff80cdcfff1,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,http://pathwaycommons.org/pc2/Pathway_64899ceeb2cb6ca5a90ec5271a196bff,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,http://pathwaycommons.org/pc2/Pathway_86241533fc884472d7c411dbf8718b42,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,http://pathwaycommons.org/pc2/Pathway_c4cdce800a07f93adecb02111c63e8aa,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"Gene expression (Transcription)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-74160
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"Generic Transcription Pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-212436
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"RNA Polymerase II Transcription","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-73857
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"MAPK family signaling cascades","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5683057
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"Transcriptional Regulation by TP53","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3700989
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"MAPK6/MAPK4 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5687128
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"Cellular responses to external stimuli","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8953897
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"Cellular responses to stress","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2262752
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"Cellular Senescence","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2559583
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"Regulation of TP53 Activity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5633007
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"Regulation of TP53 Activity through Phosphorylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6804756
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"Oxidative Stress Induced Senescence","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2559580
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"MAPK Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP382_r96304
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"VEGFA-VEGFR2 Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3888_r90000
+https://pharos.nih.gov/idg/targets/Q8IW41,Q8IW41,"p38 MAPK Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP400_r95117
+https://pharos.nih.gov/idg/targets/P11309,P11309,"Jak-STAT signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04630
+https://pharos.nih.gov/idg/targets/P11309,P11309,"AGE-RAGE signaling pathway in diabetic complications","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04933
+https://pharos.nih.gov/idg/targets/P11309,P11309,"Pathways in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05200
+https://pharos.nih.gov/idg/targets/P11309,P11309,"MicroRNAs in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05206
+https://pharos.nih.gov/idg/targets/P11309,P11309,"Acute myeloid leukemia","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05221
+https://pharos.nih.gov/idg/targets/P11309,P11309,http://pathwaycommons.org/pc2/Pathway_48812610ad6cf13691f1832c580c7b51,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P11309,P11309,http://pathwaycommons.org/pc2/Pathway_ee22df9cc2a0763c68187eced809c944,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P11309,P11309,http://pathwaycommons.org/pc2/Pathway_e275dc91426ba2afbbe6345d9078560a,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P11309,P11309,http://pathwaycommons.org/pc2/Pathway_0946162d295e96bfff8c84bdb0cc34e3,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P11309,P11309,http://pathwaycommons.org/pc2/Pathway_f544645d2c860a26ec54f4b2e06eb0bd,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P11309,P11309,http://pathwaycommons.org/pc2/Pathway_7a464210f000d0799f552db161cfde11,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P11309,P11309,"Immune System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168256
+https://pharos.nih.gov/idg/targets/P11309,P11309,"Cytokine Signaling in Immune system","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1280215
+https://pharos.nih.gov/idg/targets/P11309,P11309,"Signaling by Interleukins","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-449147
+https://pharos.nih.gov/idg/targets/P11309,P11309,"Interleukin-4 and 13 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6785807
+https://pharos.nih.gov/idg/targets/P11309,P11309,"Ectoderm Differentiation","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2858_r94911
+https://pharos.nih.gov/idg/targets/P11309,P11309,"Imatinib and Chronic Myeloid Leukemia","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3640_r89384
+https://pharos.nih.gov/idg/targets/P57059,P57059,"Glucagon signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04922
+https://pharos.nih.gov/idg/targets/P57059,P57059,http://pathwaycommons.org/pc2/Pathway_99e683a77ee273cbdaf5755e35d2668d,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/P57059,P57059,http://pathwaycommons.org/pc2/Pathway_f5318e773eb9e48f1ea5f353513a8362,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P57059,P57059,"Circadian Clock","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-400253
+https://pharos.nih.gov/idg/targets/P57059,P57059,"Circadian rythm related genes","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3594_r87161
+https://pharos.nih.gov/idg/targets/P57059,P57059,"TGF-beta Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP366_r90028
+https://pharos.nih.gov/idg/targets/Q9H1R3,Q9H1R3,"Gastric acid secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04971
+https://pharos.nih.gov/idg/targets/Q9H1R3,Q9H1R3,"Focal adhesion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04510
+https://pharos.nih.gov/idg/targets/Q9H1R3,Q9H1R3,"Regulation of actin cytoskeleton","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04810
+https://pharos.nih.gov/idg/targets/Q9H1R3,Q9H1R3,"cGMP-PKG signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04022
+https://pharos.nih.gov/idg/targets/Q9H1R3,Q9H1R3,"Apelin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04371
+https://pharos.nih.gov/idg/targets/Q9H1R3,Q9H1R3,"Vascular smooth muscle contraction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04270
+https://pharos.nih.gov/idg/targets/Q9H1R3,Q9H1R3,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/Q9H1R3,Q9H1R3,"Platelet activation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04611
+https://pharos.nih.gov/idg/targets/Q9H1R3,Q9H1R3,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/Q9H1R3,Q9H1R3,http://identifiers.org/panther.pathway/P00016,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9H1R3,Q9H1R3,http://identifiers.org/panther.pathway/P00031,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9H1R3,Q9H1R3,"Focal Adhesion","WikiPathways Pathway",http://www.wikipathways.org/instance/WP306_r95135
+https://pharos.nih.gov/idg/targets/Q9H1R3,Q9H1R3,"Integrin-mediated Cell Adhesion","WikiPathways Pathway",http://www.wikipathways.org/instance/WP185_r88160
+https://pharos.nih.gov/idg/targets/Q9H1R3,Q9H1R3,"Myometrial Relaxation and Contraction Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP289_r89548
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"MAPK signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04010
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"VEGF signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04370
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,http://pathwaycommons.org/pc2/Pathway_33e0b1dfe66b796d1f4b662240ec2a54,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,http://pathwaycommons.org/pc2/Pathway_41362e44a39a2446580e8a2491eb25f7,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,http://pathwaycommons.org/pc2/Pathway_4a1ae5593b2d2d667eac5ff80cdcfff1,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,http://pathwaycommons.org/pc2/Pathway_64899ceeb2cb6ca5a90ec5271a196bff,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,http://pathwaycommons.org/pc2/Pathway_86241533fc884472d7c411dbf8718b42,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,http://identifiers.org/panther.pathway/P05918,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,http://identifiers.org/panther.pathway/P04393,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,http://identifiers.org/panther.pathway/P00005,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,http://identifiers.org/panther.pathway/P00056,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,http://pathwaycommons.org/pc2/Pathway_c4cdce800a07f93adecb02111c63e8aa,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,http://pathwaycommons.org/pc2/Pathway_bbc1ca375a97013b88ac4f8f0dbfd1fa,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Immune System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168256
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Cytokine Signaling in Immune system","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1280215
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Signaling by Interleukins","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-449147
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Innate Immune System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168249
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Signaling by Receptor Tyrosine Kinases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-9006934
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Signaling by VEGF","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-194138
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"VEGFA-VEGFR2 Pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-4420097
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Cellular responses to external stimuli","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8953897
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Cellular responses to stress","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2262752
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Cellular Senescence","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2559583
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"MyD88 cascade initiated on plasma membrane","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-975871
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"MyD88 dependent cascade initiated on endosome","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-975155
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"MyD88:Mal cascade initiated on plasma membrane","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-166058
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-975138
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Toll Like Receptor 10 (TLR10) Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168142
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Toll Like Receptor 2 (TLR2) Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-181438
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Toll Like Receptor 4 (TLR4) Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-166016
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Toll Like Receptor 5 (TLR5) Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168176
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Toll Like Receptor 7/8 (TLR7/8) Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168181
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Toll Like Receptor 9 (TLR9) Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168138
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Toll Like Receptor TLR1:TLR2 Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168179
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Toll Like Receptor TLR6:TLR2 Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168188
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Toll-Like Receptors Cascades","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168898
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Signaling by NTRK1 (TRKA)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-187037
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Signaling by NTRKs","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-166520
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Signalling to ERKs","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-187687
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"MyD88-independent TLR4 cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-166166
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"TRIF(TICAM1)-mediated TLR4 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-937061
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Toll Like Receptor 3 (TLR3) Cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-168164
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Interleukin-17 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-448424
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"MAP kinase activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-450294
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Oxidative Stress Induced Senescence","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2559580
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"activated TAK1 mediates p38 MAPK activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-450302
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Signalling to RAS","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-167044
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"p38MAPK events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-171007
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"MAPK Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP382_r96304
+https://pharos.nih.gov/idg/targets/Q16644,Q16644,"Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation","WikiPathways Pathway",http://www.wikipathways.org/instance/WP314_r94814
+https://pharos.nih.gov/idg/targets/O60285,O60285,"Gene expression (Transcription)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-74160
+https://pharos.nih.gov/idg/targets/O60285,O60285,"Generic Transcription Pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-212436
+https://pharos.nih.gov/idg/targets/O60285,O60285,"RNA Polymerase II Transcription","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-73857
+https://pharos.nih.gov/idg/targets/O60285,O60285,"Transcriptional Regulation by TP53","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3700989
+https://pharos.nih.gov/idg/targets/O60285,O60285,"Regulation of TP53 Activity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5633007
+https://pharos.nih.gov/idg/targets/O60285,O60285,"Regulation of TP53 Activity through Phosphorylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6804756
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Osteoclast differentiation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04380
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,Alcoholism,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05034
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Aldosterone synthesis and secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04925
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Apelin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04371
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Neurotrophin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04722
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Cholinergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04725
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Longevity regulating pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04211
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Long-term potentiation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04720
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,http://identifiers.org/panther.pathway/P06959,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,http://pathwaycommons.org/pc2/Pathway_7cebb5d9110cea54b9e580dfb8deb771,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,http://pathwaycommons.org/pc2/Pathway_ee22df9cc2a0763c68187eced809c944,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,http://pathwaycommons.org/pc2/Pathway_80422388c8675e0baa833e268805473f,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,http://pathwaycommons.org/pc2/Pathway_f475ae72c0c828c030e2f1fffe8d07f2,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Organelle biogenesis and maintenance","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1852241
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"G alpha (i) signalling events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-418594
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"GPCR downstream signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-388396
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Signaling by GPCR","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-372790
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Intracellular signaling by second messengers","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-9006925
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Mitochondrial biogenesis","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1592230
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Transcriptional activation of mitochondrial biogenesis","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2151201
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Activation of NMDA receptor and postsynaptic events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442755
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Post NMDA receptor activation events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438064
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Opioid Signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-111885
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Ca-dependent events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-111996
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"CaM pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-111997
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Calmodulin induced events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-111933
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"DAG and IP3 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1489509
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"G-protein mediated events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112040
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"PLC beta mediated events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112043
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Activation of CaMK IV","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442745
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"CREB phosphorylation through the activation of CaMKK","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442717
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"CaMK IV-mediated phosphorylation of CREB","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-111932
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Brain-Derived Neurotrophic Factor (BDNF) signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2380_r94178
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Calcium Regulation in the Cardiac Cell","WikiPathways Pathway",http://www.wikipathways.org/instance/WP536_r95108
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Common Pathways Underlying Drug Addiction","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2636_r95595
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Regulation of Microtubule Cytoskeleton","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2038_r94910
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Energy Metabolism","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1541_r94314
+https://pharos.nih.gov/idg/targets/Q16566,Q16566,"Mitochondrial Gene Expression","WikiPathways Pathway",http://www.wikipathways.org/instance/WP391_r71373
+https://pharos.nih.gov/idg/targets/O60229,O60229,http://identifiers.org/panther.pathway/P00029,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/O60229,O60229,http://pathwaycommons.org/pc2/Pathway_05405bc9d4f78d538840d5a5c31ade3e,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O60229,O60229,http://pathwaycommons.org/pc2/Pathway_09ff6da387fcac5c3857a223a6f204e5,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O60229,O60229,http://pathwaycommons.org/pc2/Pathway_dcc761662966f98efcaa03d7091213fe,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/O60229,O60229,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/O60229,O60229,"GPCR downstream signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-388396
+https://pharos.nih.gov/idg/targets/O60229,O60229,"Signaling by GPCR","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-372790
+https://pharos.nih.gov/idg/targets/O60229,O60229,"MAPK family signaling cascades","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5683057
+https://pharos.nih.gov/idg/targets/O60229,O60229,"Axon guidance","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-422475
+https://pharos.nih.gov/idg/targets/O60229,O60229,"Developmental Biology","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1266738
+https://pharos.nih.gov/idg/targets/O60229,O60229,"MAPK6/MAPK4 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5687128
+https://pharos.nih.gov/idg/targets/O60229,O60229,"Cell death signalling via NRAGE, NRIF and NADE","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-204998
+https://pharos.nih.gov/idg/targets/O60229,O60229,"Death Receptor Signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-73887
+https://pharos.nih.gov/idg/targets/O60229,O60229,"EPH-Ephrin signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2682334
+https://pharos.nih.gov/idg/targets/O60229,O60229,"G alpha (12/13) signalling events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-416482
+https://pharos.nih.gov/idg/targets/O60229,O60229,"NRAGE signals death through JNK","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-193648
+https://pharos.nih.gov/idg/targets/O60229,O60229,"Rho GTPase cycle","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-194840
+https://pharos.nih.gov/idg/targets/O60229,O60229,"Signaling by Rho GTPases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-194315
+https://pharos.nih.gov/idg/targets/O60229,O60229,"p75 NTR receptor-mediated signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-193704
+https://pharos.nih.gov/idg/targets/O60229,O60229,"G alpha (q) signalling events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-416476
+https://pharos.nih.gov/idg/targets/O60229,O60229,"EPHB-mediated forward signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3928662
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Circadian rhythm","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04710
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Fluid shear stress and atherosclerosis","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05418
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Adipocytokine signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04920
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,Thermogenesis,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04714
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"mTOR signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04150
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Glucagon signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04922
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Tight junction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04530
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"PI3K-Akt signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04151
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Hypertrophic cardiomyopathy (HCM)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Insulin resistance","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04931
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Insulin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04910
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"AMPK signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04152
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Autophagy - animal","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04140
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Apelin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04371
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"FoxO signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04068
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Non-alcoholic fatty liver disease (NAFLD)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04932
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Longevity regulating pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04211
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Longevity regulating pathway - multiple species","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04213
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,http://pathwaycommons.org/pc2/Pathway_33e0b1dfe66b796d1f4b662240ec2a54,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,http://pathwaycommons.org/pc2/Pathway_41362e44a39a2446580e8a2491eb25f7,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,http://pathwaycommons.org/pc2/Pathway_4a1ae5593b2d2d667eac5ff80cdcfff1,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,http://pathwaycommons.org/pc2/Pathway_64899ceeb2cb6ca5a90ec5271a196bff,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,http://pathwaycommons.org/pc2/Pathway_86241533fc884472d7c411dbf8718b42,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,http://pathwaycommons.org/pc2/Pathway_a1413de727869646a6ba13745eb98440,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,http://pathwaycommons.org/pc2/Pathway_fd35dba5a845715308913245cc1c992c,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,http://pathwaycommons.org/pc2/Pathway_3a6d369c50d4882dc6b61149d4d84c3a,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,http://pathwaycommons.org/pc2/Pathway_f4bc9e7d28422ca47315389631f940ca,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,http://pathwaycommons.org/pc2/Pathway_81636b1beed0789b84b97edfb00b8eae,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,http://identifiers.org/panther.pathway/P04397,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Gene expression (Transcription)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-74160
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Generic Transcription Pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-212436
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"RNA Polymerase II Transcription","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-73857
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Transcriptional Regulation by TP53","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3700989
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"TP53 Regulates Metabolic Genes","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5628897
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Cellular responses to external stimuli","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8953897
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Regulation of TP53 Activity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5633007
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Regulation of TP53 Activity through Phosphorylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6804756
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,Macroautophagy,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1632852
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Energy dependent regulation of mTOR by LKB1-AMPK","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-380972
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"mTOR signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-165159
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Circadian rythm related genes","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3594_r87161
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"VEGFA-VEGFR2 Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3888_r90000
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Sterol Regulatory Element-Binding Proteins (SREBP) signalling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1982_r90425
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Brain-Derived Neurotrophic Factor (BDNF) signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2380_r94178
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Focal Adhesion-PI3K-Akt-mTOR-signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3932_r94216
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"PI3K-Akt Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4172_r96453
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"4-hydroxytamoxifen, Dexamethasone, and Retinoic Acids Regulation of p27 Expression","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3879_r94799
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Insulin Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP481_r94171
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"AMP-activated Protein Kinase (AMPK) Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1403_r90259
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Hereditary Leiomyomatosis and Renal Cell Carcinoma Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4206_r96456
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Angiopoietin Like Protein 8 Regulatory Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3915_r94801
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Leptin signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2034_r89856
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"ATM Signaling Network in Development and Disease ","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3878_r89745
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"SREBF and miR33 in cholesterol and lipid homeostasis","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2011_r89947
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Energy Metabolism","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1541_r94314
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Target Of Rapamycin (TOR) Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1471_r94755
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Lipid Metabolism Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3965_r96169
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"Leptin and adiponectin","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3934_r90768
+https://pharos.nih.gov/idg/targets/Q13131,Q13131,"mir-124 predicted interactions with cell cycle and differentiation ","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3595_r89883
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"Adipocytokine signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04920
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"mTOR signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04150
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"Tight junction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04530
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"PI3K-Akt signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04151
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"AMPK signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04152
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"Autophagy - animal","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04140
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"FoxO signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04068
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"Longevity regulating pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04211
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,http://pathwaycommons.org/pc2/Pathway_3a6d369c50d4882dc6b61149d4d84c3a,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,http://pathwaycommons.org/pc2/Pathway_99e683a77ee273cbdaf5755e35d2668d,"PathwayCommons: netpath Pathway",null
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,http://identifiers.org/panther.pathway/P04397,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,http://pathwaycommons.org/pc2/Pathway_f5318e773eb9e48f1ea5f353513a8362,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"Gene expression (Transcription)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-74160
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"Generic Transcription Pathway","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-212436
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"RNA Polymerase II Transcription","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-73857
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,Metabolism,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1430728
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"Transcriptional Regulation by TP53","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3700989
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"Regulation of TP53 Activity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5633007
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"Regulation of TP53 Activity through Phosphorylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6804756
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"Integration of energy metabolism","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-163685
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"Energy dependent regulation of mTOR by LKB1-AMPK","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-380972
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"mTOR signalling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-165159
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"AMPK inhibits chREBP transcriptional activation activity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-163680
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"Integrated Breast Cancer Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1984_r95143
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"Focal Adhesion-PI3K-Akt-mTOR-signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3932_r94216
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"PI3K-Akt Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4172_r96453
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"AMP-activated Protein Kinase (AMPK) Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP1403_r90259
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"ATM Signaling Network in Development and Disease ","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3878_r89745
+https://pharos.nih.gov/idg/targets/Q15831,Q15831,"mir-124 predicted interactions with cell cycle and differentiation ","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3595_r89883
+https://pharos.nih.gov/idg/targets/Q8IU85,Q8IU85,"Aldosterone synthesis and secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04925
+https://pharos.nih.gov/idg/targets/Q8IU85,Q8IU85,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/Q96NX5,Q96NX5,"Aldosterone synthesis and secretion","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04925
+https://pharos.nih.gov/idg/targets/Q96NX5,Q96NX5,"Oxytocin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+https://pharos.nih.gov/idg/targets/Q96L34,Q96L34,http://pathwaycommons.org/pc2/Pathway_f5318e773eb9e48f1ea5f353513a8362,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q96L34,Q96L34,"Anchoring of the basal body to the plasma membrane","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5620912
+https://pharos.nih.gov/idg/targets/Q96L34,Q96L34,"Cilium Assembly","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5617833
+https://pharos.nih.gov/idg/targets/Q96L34,Q96L34,"Organelle biogenesis and maintenance","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1852241
+https://pharos.nih.gov/idg/targets/Q9HBH9,Q9HBH9,"MAPK signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04010
+https://pharos.nih.gov/idg/targets/Q9HBH9,Q9HBH9,"HIF-1 signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04066
+https://pharos.nih.gov/idg/targets/Q9HBH9,Q9HBH9,"Insulin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04910
+https://pharos.nih.gov/idg/targets/Q9HBH9,Q9HBH9,http://identifiers.org/panther.pathway/P00046,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9HBH9,Q9HBH9,http://identifiers.org/panther.pathway/P05918,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9HBH9,Q9HBH9,http://identifiers.org/panther.pathway/P00036,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9HBH9,Q9HBH9,http://identifiers.org/panther.pathway/P00047,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q9HBH9,Q9HBH9,"MAPK Signaling Pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP382_r96304
+https://pharos.nih.gov/idg/targets/Q9HBH9,Q9HBH9,"Structural Pathway of Interleukin 1 (IL-1)","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2637_r87707
+https://pharos.nih.gov/idg/targets/Q9HBH9,Q9HBH9,"4-hydroxytamoxifen, Dexamethasone, and Retinoic Acids Regulation of p27 Expression","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3879_r94799
+https://pharos.nih.gov/idg/targets/Q16816,Q16816,"Glucagon signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04922
+https://pharos.nih.gov/idg/targets/Q16816,Q16816,"Insulin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04910
+https://pharos.nih.gov/idg/targets/Q16816,Q16816,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/Q16816,Q16816,http://identifiers.org/panther.pathway/P00026,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q16816,Q16816,Metabolism,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1430728
+https://pharos.nih.gov/idg/targets/Q16816,Q16816,"Metabolism of carbohydrates","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-71387
+https://pharos.nih.gov/idg/targets/Q16816,Q16816,"Glycogen metabolism","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8982491
+https://pharos.nih.gov/idg/targets/Q16816,Q16816,"Glycogen breakdown (glycogenolysis)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-70221
+https://pharos.nih.gov/idg/targets/Q16816,Q16816,"Glycogen Metabolism","WikiPathways Pathway",http://www.wikipathways.org/instance/WP500_r94085
+https://pharos.nih.gov/idg/targets/P15735,P15735,"Glucagon signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04922
+https://pharos.nih.gov/idg/targets/P15735,P15735,"Insulin signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04910
+https://pharos.nih.gov/idg/targets/P15735,P15735,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/P15735,P15735,http://identifiers.org/panther.pathway/P00026,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P15735,P15735,Metabolism,"Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1430728
+https://pharos.nih.gov/idg/targets/P15735,P15735,"Metabolism of carbohydrates","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-71387
+https://pharos.nih.gov/idg/targets/P15735,P15735,"Glycogen metabolism","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8982491
+https://pharos.nih.gov/idg/targets/P15735,P15735,"Glycogen breakdown (glycogenolysis)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-70221
+https://pharos.nih.gov/idg/targets/P15735,P15735,"Glycogen Metabolism","WikiPathways Pathway",http://www.wikipathways.org/instance/WP500_r94085
+https://pharos.nih.gov/idg/targets/P11801,P11801,"mRNA Processing","WikiPathways Pathway",http://www.wikipathways.org/instance/WP411_r96288

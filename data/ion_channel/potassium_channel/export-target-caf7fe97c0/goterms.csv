@@ -1,0 +1,700 @@
+"URL","Uniprot ID","GOTerm","GOType"
+https://pharos.nih.gov/idg/targets/P16389,P16389,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P16389,P16389,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P16389,P16389,"endoplasmic reticulum membrane",GO Component
+https://pharos.nih.gov/idg/targets/P16389,P16389,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/P16389,P16389,axon,GO Component
+https://pharos.nih.gov/idg/targets/P16389,P16389,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P16389,P16389,lamellipodium,GO Component
+https://pharos.nih.gov/idg/targets/P16389,P16389,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/P16389,P16389,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/P16389,P16389,"neuronal cell body membrane",GO Component
+https://pharos.nih.gov/idg/targets/P16389,P16389,"lamellipodium membrane",GO Component
+https://pharos.nih.gov/idg/targets/P16389,P16389,"axon terminus",GO Component
+https://pharos.nih.gov/idg/targets/P16389,P16389,"juxtaparanode region of axon",GO Component
+https://pharos.nih.gov/idg/targets/P16389,P16389,"paranodal junction",GO Component
+https://pharos.nih.gov/idg/targets/P16389,P16389,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P16389,P16389,"kinesin binding",GO Function
+https://pharos.nih.gov/idg/targets/P16389,P16389,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P16389,P16389,"potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P16389,P16389,"outward rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P16389,P16389,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/P16389,P16389,"sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/P16389,P16389,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/P16389,P16389,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P16389,P16389,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P16389,P16389,"optic nerve structural organization",GO Process
+https://pharos.nih.gov/idg/targets/P16389,P16389,"regulation of circadian sleep-wake cycle, non-REM sleep",GO Process
+https://pharos.nih.gov/idg/targets/P16389,P16389,"regulation of dopamine secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,membrane,GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"apical plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,axon,GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,vesicle,GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"basolateral plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,synapse,GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"neuronal cell body membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"terminal bouton",GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,axolemma,GO Component
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"ion channel binding",GO Function
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"globus pallidus development",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"protein heterooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"positive regulation of voltage-gated potassium channel activity",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"response to organic cyclic compound",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"response to ethanol",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"cellular response to nitric oxide",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"cellular response to ammonium ion",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"cellular response to toxic substance",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"nitric oxide-cGMP-mediated signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"response to amine",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"response to light intensity",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"response to magnesium ion",GO Process
+https://pharos.nih.gov/idg/targets/Q96PR1,Q96PR1,"response to nerve growth factor",GO Process
+https://pharos.nih.gov/idg/targets/Q9ULD8,Q9ULD8,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9ULD8,Q9ULD8,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9ULD8,Q9ULD8,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9ULD8,Q9ULD8,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q9ULD8,Q9ULD8,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9ULD8,Q9ULD8,"phosphorelay sensor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9ULD8,Q9ULD8,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9ULD8,Q9ULD8,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,sarcolemma,GO Component
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"ion channel binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"A-type (transient outward) potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"regulation of heart rate by cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"membrane repolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"membrane repolarization during ventricular cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"potassium ion export",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"membrane repolarization during cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"potassium ion export across plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/Q9UK17,Q9UK17,"ventricular cardiac muscle cell membrane repolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q9UIX4,Q9UIX4,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UIX4,Q9UIX4,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9UIX4,Q9UIX4,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UIX4,Q9UIX4,"potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UIX4,Q9UIX4,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q9UIX4,Q9UIX4,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UIX4,Q9UIX4,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UIX4,Q9UIX4,"regulation of delayed rectifier potassium channel activity",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"lateral plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,axon,GO Component
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,sarcolemma,GO Component
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"neuronal cell body membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"protein heterodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"ion channel binding",GO Function
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"protein localization to plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"glutamate receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"cellular response to glucose stimulus",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"glucose homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"negative regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"cellular response to nutrient levels",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"regulation of action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"positive regulation of protein targeting to membrane",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"vesicle docking involved in exocytosis",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"positive regulation of calcium ion-dependent exocytosis",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"positive regulation of catecholamine secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"positive regulation of long term synaptic depression",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"positive regulation of norepinephrine secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q14721,Q14721,"regulation of motor neuron apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/O43525,O43525,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O43525,O43525,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O43525,O43525,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/O43525,O43525,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/O43525,O43525,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/O43525,O43525,"node of Ranvier",GO Component
+https://pharos.nih.gov/idg/targets/O43525,O43525,"axon initial segment",GO Component
+https://pharos.nih.gov/idg/targets/O43525,O43525,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/O43525,O43525,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O43525,O43525,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/O43525,O43525,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/O43525,O43525,"membrane hyperpolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"apical plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,caveola,GO Component
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"actin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"calcium-activated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"large conductance calcium-activated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"positive regulation of apoptotic process",GO Process
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"response to calcium ion",GO Process
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"response to hypoxia",GO Process
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"response to osmotic stress",GO Process
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"cellular potassium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"negative regulation of cell volume",GO Process
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"smooth muscle contraction involved in micturition",GO Process
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,micturition,GO Process
+https://pharos.nih.gov/idg/targets/Q12791,Q12791,"response to carbon monoxide",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"inward rectifier potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"identical protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"protein homodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"ubiquitin protein ligase binding",GO Function
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"phosphorelay sensor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"scaffold protein binding",GO Function
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"inward rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization",GO Function
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"C3HC4-type RING finger domain binding",GO Function
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization",GO Function
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"membrane depolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"regulation of heart rate by cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"regulation of membrane repolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"regulation of ventricular cardiac muscle cell membrane repolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"cardiac muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"ventricular cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"cellular response to drug",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"membrane repolarization",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"membrane repolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"membrane repolarization during ventricular cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"potassium ion export",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"regulation of potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"membrane repolarization during cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"positive regulation of potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"potassium ion export across plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"negative regulation of potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"potassium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"negative regulation of potassium ion export",GO Process
+https://pharos.nih.gov/idg/targets/Q12809,Q12809,"regulation of heart rate by hormone",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,cytoplasm,GO Component
+https://pharos.nih.gov/idg/targets/P51787,P51787,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P51787,P51787,"membrane raft",GO Component
+https://pharos.nih.gov/idg/targets/P51787,P51787,"endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/P51787,P51787,"early endosome",GO Component
+https://pharos.nih.gov/idg/targets/P51787,P51787,"late endosome",GO Component
+https://pharos.nih.gov/idg/targets/P51787,P51787,"cytoplasmic vesicle membrane",GO Component
+https://pharos.nih.gov/idg/targets/P51787,P51787,"basolateral plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P51787,P51787,lysosome,GO Component
+https://pharos.nih.gov/idg/targets/P51787,P51787,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P51787,P51787,"ion channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P51787,P51787,"ion channel binding",GO Function
+https://pharos.nih.gov/idg/targets/P51787,P51787,"protein phosphatase 1 binding",GO Function
+https://pharos.nih.gov/idg/targets/P51787,P51787,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/P51787,P51787,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P51787,P51787,"protein kinase A regulatory subunit binding",GO Function
+https://pharos.nih.gov/idg/targets/P51787,P51787,"phosphatidylinositol-4,5-bisphosphate binding",GO Function
+https://pharos.nih.gov/idg/targets/P51787,P51787,"scaffold protein binding",GO Function
+https://pharos.nih.gov/idg/targets/P51787,P51787,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P51787,P51787,"voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization",GO Function
+https://pharos.nih.gov/idg/targets/P51787,P51787,"protein kinase A catalytic subunit binding",GO Function
+https://pharos.nih.gov/idg/targets/P51787,P51787,"outward rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P51787,P51787,"voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization",GO Function
+https://pharos.nih.gov/idg/targets/P51787,P51787,"voltage-gated potassium channel activity involved in atrial cardiac muscle cell action potential repolarization",GO Function
+https://pharos.nih.gov/idg/targets/P51787,P51787,"inner ear development",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"sensory perception of sound",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"cellular response to cAMP",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"regulation of heart rate by cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"regulation of membrane repolarization",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"regulation of ventricular cardiac muscle cell membrane repolarization",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"intestinal absorption",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"atrial cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"cardiac muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"positive regulation of heart rate",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"ventricular cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"regulation of gene expression by genetic imprinting",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"cellular response to drug",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"negative regulation of delayed rectifier potassium channel activity",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"negative regulation of voltage-gated potassium channel activity",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"membrane repolarization during action potential",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"membrane repolarization during ventricular cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"potassium ion export",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"membrane repolarization during cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"positive regulation of potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"potassium ion export across plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"cardiovascular system development",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"regulation of atrial cardiac muscle cell membrane repolarization",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"regulation of heart contraction",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"cellular response to epinephrine stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"positive regulation of cardiac muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"gene silencing",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"membrane repolarization during atrial cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"regulation of gastric acid secretion",GO Process
+https://pharos.nih.gov/idg/targets/P51787,P51787,"renal absorption",GO Process
+https://pharos.nih.gov/idg/targets/O95259,O95259,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O95259,O95259,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O95259,O95259,"intracellular membrane-bounded organelle",GO Component
+https://pharos.nih.gov/idg/targets/O95259,O95259,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/O95259,O95259,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/O95259,O95259,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/O95259,O95259,axon,GO Component
+https://pharos.nih.gov/idg/targets/O95259,O95259,"postsynaptic density",GO Component
+https://pharos.nih.gov/idg/targets/O95259,O95259,"early endosome membrane",GO Component
+https://pharos.nih.gov/idg/targets/O95259,O95259,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/O95259,O95259,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/O95259,O95259,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/O95259,O95259,"nuclear inner membrane",GO Component
+https://pharos.nih.gov/idg/targets/O95259,O95259,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/O95259,O95259,"phosphorelay sensor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/O95259,O95259,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O95259,O95259,"phosphatidylinositol bisphosphate binding",GO Function
+https://pharos.nih.gov/idg/targets/O95259,O95259,"cellular response to calcium ion",GO Process
+https://pharos.nih.gov/idg/targets/O95259,O95259,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/O95259,O95259,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/O95259,O95259,"regulation of cell proliferation",GO Process
+https://pharos.nih.gov/idg/targets/O95259,O95259,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/O95259,O95259,"myoblast fusion",GO Process
+https://pharos.nih.gov/idg/targets/O95259,O95259,"phosphatidylinositol-mediated signaling",GO Process
+https://pharos.nih.gov/idg/targets/P56696,P56696,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P56696,P56696,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/P56696,P56696,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P56696,P56696,"basal plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P56696,P56696,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P56696,P56696,"potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P56696,P56696,"sensory perception of sound",GO Process
+https://pharos.nih.gov/idg/targets/P56696,P56696,"inner ear morphogenesis",GO Process
+https://pharos.nih.gov/idg/targets/P56696,P56696,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"apical plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"cytoplasmic vesicle",GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,synapse,GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"axon terminus",GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"juxtaparanode region of axon",GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"paranode region of axon",GO Component
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"disordered domain specific binding",GO Function
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"potassium ion transmembrane transporter activity",GO Function
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"regulation of muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"neuroblast proliferation",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"hippocampus development",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"positive regulation of voltage-gated potassium channel activity",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"cellular protein localization",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"detection of mechanical stimulus involved in sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"neuromuscular process",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"startle response",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"neuronal signal transduction",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"detection of mechanical stimulus involved in sensory perception of touch",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"cellular response to magnesium ion",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"magnesium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/Q09470,Q09470,"cell communication by electrical coupling",GO Process
+https://pharos.nih.gov/idg/targets/Q8NCM2,Q8NCM2,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NCM2,Q8NCM2,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8NCM2,Q8NCM2,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/Q8NCM2,Q8NCM2,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q8NCM2,Q8NCM2,"protein heterodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8NCM2,Q8NCM2,"ion channel binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8NCM2,Q8NCM2,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8NCM2,Q8NCM2,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8NCM2,Q8NCM2,"phosphorelay sensor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8NCM2,Q8NCM2,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/Q8NCM2,Q8NCM2,"regulation of G2-M transition of mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P48547,P48547,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/P48547,P48547,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P48547,P48547,"neuronal cell body membrane",GO Component
+https://pharos.nih.gov/idg/targets/P48547,P48547,"dendrite membrane",GO Component
+https://pharos.nih.gov/idg/targets/P48547,P48547,axolemma,GO Component
+https://pharos.nih.gov/idg/targets/P48547,P48547,"ion channel binding",GO Function
+https://pharos.nih.gov/idg/targets/P48547,P48547,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P48547,P48547,"kinesin binding",GO Function
+https://pharos.nih.gov/idg/targets/P48547,P48547,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P48547,P48547,"cerebellum development",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"globus pallidus development",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"protein tetramerization",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"response to toxic substance",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"cellular response to drug",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"positive regulation of voltage-gated potassium channel activity",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"response to amine",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"response to light intensity",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"response to nerve growth factor",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"response to fibroblast growth factor",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"response to potassium ion",GO Process
+https://pharos.nih.gov/idg/targets/P48547,P48547,"response to auditory stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P22001,P22001,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P22001,P22001,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/P22001,P22001,"membrane raft",GO Component
+https://pharos.nih.gov/idg/targets/P22001,P22001,axon,GO Component
+https://pharos.nih.gov/idg/targets/P22001,P22001,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P22001,P22001,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P22001,P22001,"voltage-gated ion channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P22001,P22001,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P22001,P22001,"outward rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P22001,P22001,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/P22001,P22001,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P22001,P22001,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/O15554,O15554,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O15554,O15554,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/O15554,O15554,vesicle,GO Component
+https://pharos.nih.gov/idg/targets/O15554,O15554,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/O15554,O15554,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/O15554,O15554,"calcium-activated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O15554,O15554,"protein phosphatase binding",GO Function
+https://pharos.nih.gov/idg/targets/O15554,O15554,"potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O15554,O15554,"small conductance calcium-activated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O15554,O15554,"calcium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/O15554,O15554,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/O15554,O15554,"cell volume homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/O15554,O15554,"immune system process",GO Process
+https://pharos.nih.gov/idg/targets/O15554,O15554,"defense response",GO Process
+https://pharos.nih.gov/idg/targets/O15554,O15554,"positive regulation of protein secretion",GO Process
+https://pharos.nih.gov/idg/targets/O15554,O15554,"phospholipid translocation",GO Process
+https://pharos.nih.gov/idg/targets/O15554,O15554,"stabilization of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/O15554,O15554,"saliva secretion",GO Process
+https://pharos.nih.gov/idg/targets/O15554,O15554,"positive regulation of T cell receptor signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P22459,P22459,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P22459,P22459,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P22459,P22459,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/P22459,P22459,axon,GO Component
+https://pharos.nih.gov/idg/targets/P22459,P22459,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P22459,P22459,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P22459,P22459,"potassium ion binding",GO Function
+https://pharos.nih.gov/idg/targets/P22459,P22459,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/P22459,P22459,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P22459,P22459,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9H3M0,Q9H3M0,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9H3M0,Q9H3M0,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9H3M0,Q9H3M0,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9H3M0,Q9H3M0,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9H3M0,Q9H3M0,"potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9H3M0,Q9H3M0,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q9H3M0,Q9H3M0,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q92953,Q92953,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q92953,Q92953,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q92953,Q92953,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q92953,Q92953,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q92953,Q92953,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/Q92953,Q92953,"neuronal cell body membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q92953,Q92953,"protein heterodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/Q92953,Q92953,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q92953,Q92953,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q92953,Q92953,"protein localization to plasma membrane",GO Process
+https://pharos.nih.gov/idg/targets/Q92953,Q92953,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q92953,Q92953,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q92953,Q92953,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q92953,Q92953,"regulation of smooth muscle contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"cell surface",GO Component
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"Z disc",GO Component
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"dendritic spine",GO Component
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"protein homodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"alpha-actinin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"calcium-activated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"protein domain specific binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"small conductance calcium-activated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"regulation of potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9H2S1,Q9H2S1,"membrane repolarization during atrial cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9NR82,Q9NR82,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NR82,Q9NR82,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NR82,Q9NR82,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NR82,Q9NR82,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9NR82,Q9NR82,"clathrin coat",GO Component
+https://pharos.nih.gov/idg/targets/Q9NR82,Q9NR82,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9NR82,Q9NR82,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q14003,Q14003,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14003,Q14003,"cell cortex",GO Component
+https://pharos.nih.gov/idg/targets/Q14003,Q14003,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q14003,Q14003,axon,GO Component
+https://pharos.nih.gov/idg/targets/Q14003,Q14003,cytoskeleton,GO Component
+https://pharos.nih.gov/idg/targets/Q14003,Q14003,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q14003,Q14003,"presynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14003,Q14003,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/Q14003,Q14003,"dendritic spine membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q14003,Q14003,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q14003,Q14003,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q14003,Q14003,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q14003,Q14003,"protein tetramerization",GO Process
+https://pharos.nih.gov/idg/targets/Q9UGI6,Q9UGI6,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UGI6,Q9UGI6,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UGI6,Q9UGI6,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/Q9UGI6,Q9UGI6,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9UGI6,Q9UGI6,"small conductance calcium-activated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UGI6,Q9UGI6,"positive regulation of protein targeting to mitochondrion",GO Process
+https://pharos.nih.gov/idg/targets/Q9NS40,Q9NS40,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NS40,Q9NS40,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NS40,Q9NS40,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9NS40,Q9NS40,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"postsynaptic membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"cell junction",GO Component
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"intrinsic component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,perikaryon,GO Component
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"dendritic spine",GO Component
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"neuronal cell body membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"plasma membrane raft",GO Component
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"A-type (transient outward) potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"neuronal action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"sensory perception of pain",GO Process
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"locomotor rhythm",GO Process
+https://pharos.nih.gov/idg/targets/Q9NZV8,Q9NZV8,"cellular response to hypoxia",GO Process
+https://pharos.nih.gov/idg/targets/O43526,O43526,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O43526,O43526,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/O43526,O43526,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/O43526,O43526,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/O43526,O43526,"node of Ranvier",GO Component
+https://pharos.nih.gov/idg/targets/O43526,O43526,"axon initial segment",GO Component
+https://pharos.nih.gov/idg/targets/O43526,O43526,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/O43526,O43526,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/O43526,O43526,"ankyrin binding",GO Function
+https://pharos.nih.gov/idg/targets/O43526,O43526,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/O43526,O43526,"nervous system development",GO Process
+https://pharos.nih.gov/idg/targets/O43526,O43526,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P22460,P22460,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P22460,P22460,"Golgi apparatus",GO Component
+https://pharos.nih.gov/idg/targets/P22460,P22460,"membrane raft",GO Component
+https://pharos.nih.gov/idg/targets/P22460,P22460,"endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/P22460,P22460,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/P22460,P22460,"Z disc",GO Component
+https://pharos.nih.gov/idg/targets/P22460,P22460,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P22460,P22460,"intercalated disc",GO Component
+https://pharos.nih.gov/idg/targets/P22460,P22460,"potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P22460,P22460,"intracellular canaliculus",GO Component
+https://pharos.nih.gov/idg/targets/P22460,P22460,"protein kinase binding",GO Function
+https://pharos.nih.gov/idg/targets/P22460,P22460,"receptor binding",GO Function
+https://pharos.nih.gov/idg/targets/P22460,P22460,"alpha-actinin binding",GO Function
+https://pharos.nih.gov/idg/targets/P22460,P22460,"scaffold protein binding",GO Function
+https://pharos.nih.gov/idg/targets/P22460,P22460,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P22460,P22460,"potassium channel inhibitor activity",GO Function
+https://pharos.nih.gov/idg/targets/P22460,P22460,"outward rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P22460,P22460,"voltage-gated potassium channel activity involved in atrial cardiac muscle cell action potential repolarization",GO Function
+https://pharos.nih.gov/idg/targets/P22460,P22460,"voltage-gated potassium channel activity involved in bundle of His cell action potential repolarization",GO Function
+https://pharos.nih.gov/idg/targets/P22460,P22460,"voltage-gated potassium channel activity involved in SA node cell action potential repolarization",GO Function
+https://pharos.nih.gov/idg/targets/P22460,P22460,"response to hydrogen peroxide",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"response to mechanical stimulus",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"Notch signaling pathway",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"response to hypoxia",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"regulation of vasoconstriction",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"regulation of heart rate by cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"membrane hyperpolarization",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"atrial cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"potassium ion export",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"positive regulation of G1-S transition of mitotic cell cycle",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"response to organic substance",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"regulation of atrial cardiac muscle cell membrane repolarization",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"positive regulation of myoblast proliferation",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"potassium ion homeostasis",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"response to hyperoxia",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"negative regulation of cytosolic calcium ion concentration",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"regulation of potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"negative regulation of potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"membrane repolarization during atrial cardiac muscle cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"membrane repolarization during bundle of His cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/P22460,P22460,"membrane repolarization during SA node cell action potential",GO Process
+https://pharos.nih.gov/idg/targets/Q16322,Q16322,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16322,Q16322,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q16322,Q16322,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q16322,Q16322,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16322,Q16322,"intracellular cyclic nucleotide activated cation channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q16322,Q16322,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q16322,Q16322,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q16322,Q16322,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q8TDN2,Q8TDN2,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8TDN2,Q8TDN2,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8TDN2,Q8TDN2,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q8TDN2,Q8TDN2,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8TDN2,Q8TDN2,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q8TDN2,Q8TDN2,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/P17658,P17658,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P17658,P17658,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/P17658,P17658,axon,GO Component
+https://pharos.nih.gov/idg/targets/P17658,P17658,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P17658,P17658,"axon terminus",GO Component
+https://pharos.nih.gov/idg/targets/P17658,P17658,"potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/P17658,P17658,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P17658,P17658,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/P17658,P17658,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/P17658,P17658,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/P17658,P17658,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q96RP8,Q96RP8,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96RP8,Q96RP8,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96RP8,Q96RP8,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q96RP8,Q96RP8,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96RP8,Q96RP8,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q96RP8,Q96RP8,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q03721,Q03721,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q03721,Q03721,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q03721,Q03721,"neuromuscular junction",GO Component
+https://pharos.nih.gov/idg/targets/Q03721,Q03721,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q03721,Q03721,"axon terminus",GO Component
+https://pharos.nih.gov/idg/targets/Q03721,Q03721,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q03721,Q03721,"potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q03721,Q03721,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q03721,Q03721,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q03721,Q03721,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q03721,Q03721,"regulation of neurotransmitter secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q9NSA2,Q9NSA2,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NSA2,Q9NSA2,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9NSA2,Q9NSA2,dendrite,GO Component
+https://pharos.nih.gov/idg/targets/Q9NSA2,Q9NSA2,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/Q9NSA2,Q9NSA2,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9NSA2,Q9NSA2,"metal ion binding",GO Function
+https://pharos.nih.gov/idg/targets/Q9NSA2,Q9NSA2,"A-type (transient outward) potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9NSA2,Q9NSA2,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q9NSA2,Q9NSA2,"cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q9UJ96,Q9UJ96,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UJ96,Q9UJ96,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UJ96,Q9UJ96,"extracellular exosome",GO Component
+https://pharos.nih.gov/idg/targets/Q9UJ96,Q9UJ96,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9UJ96,Q9UJ96,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UJ96,Q9UJ96,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q9UJ96,Q9UJ96,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UJ96,Q9UJ96,"regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q9UJ96,Q9UJ96,"regulation of heart contraction",GO Process
+https://pharos.nih.gov/idg/targets/Q8TAE7,Q8TAE7,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8TAE7,Q8TAE7,"endoplasmic reticulum",GO Component
+https://pharos.nih.gov/idg/targets/Q8TAE7,Q8TAE7,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q8TAE7,Q8TAE7,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8TAE7,Q8TAE7,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q8TAE7,Q8TAE7,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q8TDN1,Q8TDN1,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q8TDN1,Q8TDN1,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q8TDN1,Q8TDN1,"ion channel binding",GO Function
+https://pharos.nih.gov/idg/targets/Q8TDN1,Q8TDN1,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q8TDN1,Q8TDN1,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q8TDN1,Q8TDN1,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UQ05,Q9UQ05,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9UQ05,Q9UQ05,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q9UQ05,Q9UQ05,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9UQ05,Q9UQ05,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UQ05,Q9UQ05,"phosphorelay sensor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9UQ05,Q9UQ05,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9UQ05,Q9UQ05,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9H252,Q9H252,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9H252,Q9H252,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9H252,Q9H252,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9H252,Q9H252,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/Q9H252,Q9H252,"regulation of heart rate by cardiac conduction",GO Process
+https://pharos.nih.gov/idg/targets/Q96L42,Q96L42,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96L42,Q96L42,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96L42,Q96L42,intracellular,GO Component
+https://pharos.nih.gov/idg/targets/Q96L42,Q96L42,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96L42,Q96L42,"phosphorelay sensor kinase activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96L42,Q96L42,"regulation of membrane potential",GO Process
+https://pharos.nih.gov/idg/targets/Q92952,Q92952,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q92952,Q92952,"neuronal cell body",GO Component
+https://pharos.nih.gov/idg/targets/Q92952,Q92952,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q92952,Q92952,"protein heterodimerization activity",GO Function
+https://pharos.nih.gov/idg/targets/Q92952,Q92952,"calmodulin binding",GO Function
+https://pharos.nih.gov/idg/targets/Q92952,Q92952,"calcium-activated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q92952,Q92952,"small conductance calcium-activated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q92952,Q92952,"chemical synaptic transmission",GO Process
+https://pharos.nih.gov/idg/targets/Q92952,Q92952,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q96KK3,Q96KK3,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q96KK3,Q96KK3,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/Q96KK3,Q96KK3,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q96KK3,Q96KK3,"potassium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96KK3,Q96KK3,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q96KK3,Q96KK3,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q96KK3,Q96KK3,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q96KK3,Q96KK3,"regulation of delayed rectifier potassium channel activity",GO Process
+https://pharos.nih.gov/idg/targets/Q9ULS6,Q9ULS6,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9ULS6,Q9ULS6,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9ULS6,Q9ULS6,"perinuclear region of cytoplasm",GO Component
+https://pharos.nih.gov/idg/targets/Q9ULS6,Q9ULS6,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9ULS6,Q9ULS6,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9ULS6,Q9ULS6,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q9ULS6,Q9ULS6,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9ULS6,Q9ULS6,"potassium ion transmembrane transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9ULS6,Q9ULS6,"regulation of delayed rectifier potassium channel activity",GO Process
+https://pharos.nih.gov/idg/targets/Q9BQ31,Q9BQ31,cytosol,GO Component
+https://pharos.nih.gov/idg/targets/Q9BQ31,Q9BQ31,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9BQ31,Q9BQ31,"integral component of membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q9BQ31,Q9BQ31,"Golgi apparatus",GO Component
+https://pharos.nih.gov/idg/targets/Q9BQ31,Q9BQ31,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q9BQ31,Q9BQ31,"potassium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9BQ31,Q9BQ31,"delayed rectifier potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q9BQ31,Q9BQ31,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q9BQ31,Q9BQ31,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q9BQ31,Q9BQ31,"regulation of insulin secretion",GO Process
+https://pharos.nih.gov/idg/targets/Q5JUK3,Q5JUK3,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q5JUK3,Q5JUK3,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q5JUK3,Q5JUK3,"calcium-activated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q6UVM3,Q6UVM3,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q6UVM3,Q6UVM3,"ATP binding",GO Function
+https://pharos.nih.gov/idg/targets/Q6UVM3,Q6UVM3,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q6UVM3,Q6UVM3,"calcium-activated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q6PIU1,Q6PIU1,"plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q6PIU1,Q6PIU1,"integral component of plasma membrane",GO Component
+https://pharos.nih.gov/idg/targets/Q6PIU1,Q6PIU1,"voltage-gated potassium channel complex",GO Component
+https://pharos.nih.gov/idg/targets/Q6PIU1,Q6PIU1,"voltage-gated potassium channel activity",GO Function
+https://pharos.nih.gov/idg/targets/Q6PIU1,Q6PIU1,"potassium channel regulator activity",GO Function
+https://pharos.nih.gov/idg/targets/Q6PIU1,Q6PIU1,"ion channel inhibitor activity",GO Function
+https://pharos.nih.gov/idg/targets/Q6PIU1,Q6PIU1,"protein homooligomerization",GO Process
+https://pharos.nih.gov/idg/targets/Q6PIU1,Q6PIU1,"potassium ion transport",GO Process
+https://pharos.nih.gov/idg/targets/Q6PIU1,Q6PIU1,"potassium ion transmembrane transport",GO Process

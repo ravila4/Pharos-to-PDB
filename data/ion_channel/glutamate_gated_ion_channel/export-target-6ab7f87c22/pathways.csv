@@ -1,0 +1,569 @@
+"URL","Uniprot ID","Name","Source","Link"
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,Alcoholism,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05034
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"Cocaine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05030
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/panther.pathway/P00029,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/panther.pathway/P00042,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/panther.pathway/P00041,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00406,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00392,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00393,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00394,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00395,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00396,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00397,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00398,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00399,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00400,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00401,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00402,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00403,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00404,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00405,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00407,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00408,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00409,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00410,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00411,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00412,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00413,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00414,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00415,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00416,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00417,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00422,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00423,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00424,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00425,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00426,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00431,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00671,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00672,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00673,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00674,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00675,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00676,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00677,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00678,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00679,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00680,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00681,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00683,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00684,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00685,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00686,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00687,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00688,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00689,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00690,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00691,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q8TCU5,Q8TCU5,http://identifiers.org/smpdb/SMP00624,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,http://identifiers.org/panther.pathway/P00029,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,http://identifiers.org/panther.pathway/P00041,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"Activation of kainate receptors upon glutamate binding","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451326
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"Activation of Ca-permeable Kainate Receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451308
+https://pharos.nih.gov/idg/targets/Q16478,Q16478,"Ionotropic activity of kainate receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451306
+https://pharos.nih.gov/idg/targets/O60391,O60391,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/O60391,O60391,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/O60391,O60391,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/O60391,O60391,Alcoholism,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05034
+https://pharos.nih.gov/idg/targets/O60391,O60391,"Cocaine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05030
+https://pharos.nih.gov/idg/targets/O60391,O60391,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/O60391,O60391,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,http://identifiers.org/panther.pathway/P00029,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"Activation of kainate receptors upon glutamate binding","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451326
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"Activation of Ca-permeable Kainate Receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451308
+https://pharos.nih.gov/idg/targets/Q16099,Q16099,"Ionotropic activity of kainate receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451306
+https://pharos.nih.gov/idg/targets/P42261,P42261,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Dopaminergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04728
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Circadian entrainment","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04713
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Amyotrophic lateral sclerosis (ALS)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05014
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Long-term potentiation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04720
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Long-term depression","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04730
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P42261,P42261,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P42261,P42261,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Metabolism of proteins","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-392499
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Post-translational protein modification","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-597592
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Asparagine N-linked glycosylation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-446203
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P42261,P42261,"COPII-mediated vesicle transport","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-204005
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Cargo concentration in the ER","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5694530
+https://pharos.nih.gov/idg/targets/P42261,P42261,"ER to Golgi Anterograde Transport","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-199977
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Membrane Trafficking","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-199991
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Transport to the Golgi and subsequent modification","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-948021
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Vesicle-mediated transport","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5653656
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Activation of NMDA receptor and postsynaptic events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442755
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Unblocking of NMDA receptor, glutamate binding and activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438066
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Glutamate binding, activation of AMPA receptors and synaptic plasticity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399721
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Trafficking of AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399719
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Protein-protein interactions at synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794362
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Synaptic adhesion-like molecules","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8849932
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Trafficking of GluR2-containing AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-416993
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Brain-Derived Neurotrophic Factor (BDNF) signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2380_r94178
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Amyotrophic lateral sclerosis (ALS)","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2447_r96316
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Common Pathways Underlying Drug Addiction","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2636_r95595
+https://pharos.nih.gov/idg/targets/P42261,P42261,"MECP2 and Associated Rett Syndrome","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3584_r96364
+https://pharos.nih.gov/idg/targets/P42261,P42261,"Association Between Physico-Chemical Features and Toxicity Associated Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3680_r96435
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,Alcoholism,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05034
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Cocaine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05030
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Alzheimer's disease","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05010
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Circadian entrainment","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04713
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Amyotrophic lateral sclerosis (ALS)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05014
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Long-term potentiation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04720
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,http://pathwaycommons.org/pc2/Pathway_320fb18cc77f412550f390a5b10585bd,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,http://identifiers.org/panther.pathway/P00029,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,http://identifiers.org/panther.pathway/P00042,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,http://identifiers.org/panther.pathway/P00041,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"MAPK family signaling cascades","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5683057
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"MAPK1/MAPK3 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5684996
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"RAF/MAP kinase cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5673001
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Activation of NMDA receptor and postsynaptic events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442755
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"CREB phosphorylation through the activation of CaMKII","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442729
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"CREB phosphorylation through the activation of Ras","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442742
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Post NMDA receptor activation events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438064
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Ras activation upon Ca2+ influx through NMDA receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442982
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Unblocking of NMDA receptor, glutamate binding and activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438066
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Protein-protein interactions at synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794362
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Synaptic adhesion-like molecules","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8849932
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Neurexins and neuroligins","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794361
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"NO/cGMP/PKG mediated Neuroprotection","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4008_r96448
+https://pharos.nih.gov/idg/targets/Q14957,Q14957,"Alzheimers Disease","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2059_r87372
+https://pharos.nih.gov/idg/targets/P39086,P39086,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P39086,P39086,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/P39086,P39086,http://identifiers.org/panther.pathway/P00029,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P39086,P39086,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P39086,P39086,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P39086,P39086,http://identifiers.org/panther.pathway/P00041,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P39086,P39086,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P39086,P39086,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P39086,P39086,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P39086,P39086,"Activation of kainate receptors upon glutamate binding","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451326
+https://pharos.nih.gov/idg/targets/P39086,P39086,"Activation of Ca-permeable Kainate Receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451308
+https://pharos.nih.gov/idg/targets/P39086,P39086,"Ionotropic activity of kainate receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451306
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,Alcoholism,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05034
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Cocaine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05030
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Rap1 signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04015
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Alzheimer's disease","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05010
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Ras signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04014
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Systemic lupus erythematosus","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05322
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Dopaminergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04728
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Circadian entrainment","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04713
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Amyotrophic lateral sclerosis (ALS)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05014
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Long-term potentiation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04720
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://pathwaycommons.org/pc2/Pathway_320fb18cc77f412550f390a5b10585bd,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/panther.pathway/P00029,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/panther.pathway/P00042,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/panther.pathway/P00041,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://pathwaycommons.org/pc2/Pathway_c04b59687605942432bbf927bd3915a2,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00406,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00392,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00393,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00394,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00395,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00396,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00397,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00398,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00399,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00400,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00401,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00402,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00403,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00404,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00405,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00407,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00408,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00409,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00410,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00411,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00412,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00413,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00414,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00415,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00416,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00417,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00422,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00423,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00424,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00425,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00426,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00431,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00671,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00672,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00673,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00674,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00675,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00676,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00677,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00678,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00679,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00680,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00681,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00683,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00684,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00685,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00686,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00687,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00688,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00689,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00690,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00691,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,http://identifiers.org/smpdb/SMP00624,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"MAPK family signaling cascades","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5683057
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"MAPK1/MAPK3 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5684996
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"RAF/MAP kinase cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5673001
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Activation of NMDA receptor and postsynaptic events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442755
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"CREB phosphorylation through the activation of CaMKII","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442729
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"CREB phosphorylation through the activation of Ras","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442742
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Post NMDA receptor activation events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438064
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Ras activation upon Ca2+ influx through NMDA receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442982
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Unblocking of NMDA receptor, glutamate binding and activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438066
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Protein-protein interactions at synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794362
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Synaptic adhesion-like molecules","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8849932
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Neurexins and neuroligins","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794361
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"NO/cGMP/PKG mediated Neuroprotection","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4008_r96448
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Ras Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4223_r96441
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Common Pathways Underlying Drug Addiction","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2636_r95595
+https://pharos.nih.gov/idg/targets/Q12879,Q12879,"Alzheimers Disease","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2059_r87372
+https://pharos.nih.gov/idg/targets/P48058,P48058,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Dopaminergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04728
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Circadian entrainment","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04713
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P48058,P48058,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P48058,P48058,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Activation of NMDA receptor and postsynaptic events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442755
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Unblocking of NMDA receptor, glutamate binding and activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438066
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Glutamate binding, activation of AMPA receptors and synaptic plasticity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399721
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Trafficking of AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399719
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Protein-protein interactions at synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794362
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Synaptic adhesion-like molecules","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8849932
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Trafficking of GluR2-containing AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-416993
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Activation of AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399710
+https://pharos.nih.gov/idg/targets/P48058,P48058,"Common Pathways Underlying Drug Addiction","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2636_r95595
+https://pharos.nih.gov/idg/targets/O15399,O15399,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/O15399,O15399,Alcoholism,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05034
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Cocaine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05030
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Alzheimer's disease","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05010
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Circadian entrainment","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04713
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Amyotrophic lateral sclerosis (ALS)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05014
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Long-term potentiation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04720
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/O15399,O15399,http://pathwaycommons.org/pc2/Pathway_320fb18cc77f412550f390a5b10585bd,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/O15399,O15399,http://identifiers.org/panther.pathway/P00029,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/O15399,O15399,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/O15399,O15399,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/O15399,O15399,http://identifiers.org/panther.pathway/P00042,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/O15399,O15399,http://identifiers.org/panther.pathway/P00041,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/O15399,O15399,"MAPK family signaling cascades","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5683057
+https://pharos.nih.gov/idg/targets/O15399,O15399,"MAPK1/MAPK3 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5684996
+https://pharos.nih.gov/idg/targets/O15399,O15399,"RAF/MAP kinase cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5673001
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Activation of NMDA receptor and postsynaptic events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442755
+https://pharos.nih.gov/idg/targets/O15399,O15399,"CREB phosphorylation through the activation of CaMKII","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442729
+https://pharos.nih.gov/idg/targets/O15399,O15399,"CREB phosphorylation through the activation of Ras","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442742
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Post NMDA receptor activation events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438064
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Ras activation upon Ca2+ influx through NMDA receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442982
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Unblocking of NMDA receptor, glutamate binding and activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438066
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Protein-protein interactions at synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794362
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Synaptic adhesion-like molecules","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8849932
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Neurexins and neuroligins","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794361
+https://pharos.nih.gov/idg/targets/O15399,O15399,"NO/cGMP/PKG mediated Neuroprotection","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4008_r96448
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Alzheimers Disease","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2059_r87372
+https://pharos.nih.gov/idg/targets/O15399,O15399,"Serotonin and anxiety-related events","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3944_r90836
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Huntington's disease","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05016
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,Alcoholism,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05034
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Cocaine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05030
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Rap1 signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04015
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Alzheimer's disease","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05010
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Ras signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04014
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Circadian entrainment","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04713
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Amyotrophic lateral sclerosis (ALS)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05014
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Long-term potentiation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04720
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Calcium signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://pathwaycommons.org/pc2/Pathway_320fb18cc77f412550f390a5b10585bd,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/panther.pathway/P00029,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/panther.pathway/P00042,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/panther.pathway/P00041,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00406,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00392,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00393,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00394,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00395,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00396,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00397,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00398,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00399,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00400,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00401,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00402,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00403,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00404,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00405,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00407,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00408,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00409,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00410,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00411,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00412,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00413,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00414,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00415,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00416,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00417,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00422,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00423,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00424,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00425,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00426,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00431,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00671,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00672,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00673,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00674,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00675,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00676,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00677,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00678,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00679,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00680,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00681,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00683,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00684,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00685,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00686,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00687,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00688,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00689,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00690,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00691,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,http://identifiers.org/smpdb/SMP00624,"PathwayCommons: smpdb Pathway",null
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"MAPK family signaling cascades","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5683057
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"MAPK1/MAPK3 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5684996
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"RAF/MAP kinase cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5673001
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Axon guidance","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-422475
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Developmental Biology","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1266738
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"EPH-Ephrin signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2682334
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Activation of NMDA receptor and postsynaptic events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442755
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"CREB phosphorylation through the activation of CaMKII","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442729
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"CREB phosphorylation through the activation of Ras","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442742
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Post NMDA receptor activation events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438064
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Ras activation upon Ca2+ influx through NMDA receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442982
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Unblocking of NMDA receptor, glutamate binding and activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438066
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Protein-protein interactions at synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794362
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Synaptic adhesion-like molecules","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8849932
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Neurexins and neuroligins","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794361
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"EPHB-mediated forward signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3928662
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways","WikiPathways Pathway",http://www.wikipathways.org/instance/WP706_r92921
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Brain-Derived Neurotrophic Factor (BDNF) signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2380_r94178
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"BDNF-TrkB Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3676_r94186
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"NO/cGMP/PKG mediated Neuroprotection","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4008_r96448
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Ras Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4223_r96441
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Spinal Cord Injury","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2431_r87678
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Common Pathways Underlying Drug Addiction","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2636_r95595
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Alzheimers Disease","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2059_r87372
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"MECP2 and Associated Rett Syndrome","WikiPathways Pathway",http://www.wikipathways.org/instance/WP3584_r96364
+https://pharos.nih.gov/idg/targets/Q05586,Q05586,"Splicing factor NOVA regulated synaptic proteins","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4148_r94396
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Huntington's disease","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05016
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,Alcoholism,"KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05034
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Cocaine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05030
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Rap1 signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04015
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Alzheimer's disease","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05010
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Ras signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04014
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Systemic lupus erythematosus","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05322
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Dopaminergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04728
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Circadian entrainment","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04713
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Amyotrophic lateral sclerosis (ALS)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05014
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Long-term potentiation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04720
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,http://pathwaycommons.org/pc2/Pathway_320fb18cc77f412550f390a5b10585bd,"PathwayCommons: inoh Pathway",null
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,http://identifiers.org/panther.pathway/P00029,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,http://identifiers.org/panther.pathway/P00042,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,http://identifiers.org/panther.pathway/P00041,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,http://pathwaycommons.org/pc2/Pathway_8e68e586ecf7ed76facbd2e5a39dce2d,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,http://pathwaycommons.org/pc2/Pathway_c04b59687605942432bbf927bd3915a2,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Signal Transduction","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-162582
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"MAPK family signaling cascades","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5683057
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"MAPK1/MAPK3 signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5684996
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"RAF/MAP kinase cascade","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-5673001
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Axon guidance","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-422475
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Developmental Biology","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-1266738
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Signaling by Receptor Tyrosine Kinases","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-9006934
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"EPH-Ephrin signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-2682334
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Activation of NMDA receptor and postsynaptic events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442755
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"CREB phosphorylation through the activation of CaMKII","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442729
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"CREB phosphorylation through the activation of Ras","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442742
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Post NMDA receptor activation events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438064
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Ras activation upon Ca2+ influx through NMDA receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442982
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Unblocking of NMDA receptor, glutamate binding and activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438066
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Signaling by NTRKs","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-166520
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Protein-protein interactions at synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794362
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Synaptic adhesion-like molecules","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8849932
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Neurexins and neuroligins","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794361
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"EPHB-mediated forward signaling","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-3928662
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Signaling by NTRK2 (TRKB)","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-9006115
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Activated NTRK2 signals through FYN","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-9032500
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Brain-Derived Neurotrophic Factor (BDNF) signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2380_r94178
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"NO/cGMP/PKG mediated Neuroprotection","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4008_r96448
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Ras Signaling","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4223_r96441
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Alzheimers Disease","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2059_r87372
+https://pharos.nih.gov/idg/targets/Q13224,Q13224,"Splicing factor NOVA regulated synaptic proteins","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4148_r94396
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,http://identifiers.org/panther.pathway/P00029,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"Activation of kainate receptors upon glutamate binding","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451326
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"Activation of Ca-permeable Kainate Receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451308
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"Ionotropic activity of kainate receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451306
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"Activation of Na-permeable kainate receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451307
+https://pharos.nih.gov/idg/targets/Q13002,Q13002,"Splicing factor NOVA regulated synaptic proteins","WikiPathways Pathway",http://www.wikipathways.org/instance/WP4148_r94396
+https://pharos.nih.gov/idg/targets/P42263,P42263,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Dopaminergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04728
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Circadian entrainment","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04713
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Transcriptional misregulation in cancer","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05202
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Long-term depression","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04730
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P42263,P42263,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P42263,P42263,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Activation of NMDA receptor and postsynaptic events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442755
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Unblocking of NMDA receptor, glutamate binding and activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438066
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Glutamate binding, activation of AMPA receptors and synaptic plasticity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399721
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Trafficking of AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399719
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Protein-protein interactions at synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-6794362
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Synaptic adhesion-like molecules","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-8849932
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Trafficking of GluR2-containing AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-416993
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Activation of AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399710
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Brain-Derived Neurotrophic Factor (BDNF) signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2380_r94178
+https://pharos.nih.gov/idg/targets/P42263,P42263,"Common Pathways Underlying Drug Addiction","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2636_r95595
+https://pharos.nih.gov/idg/targets/P42262,P42262,"cAMP signaling pathway","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Amphetamine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Cocaine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05030
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Retrograde endocannabinoid signaling","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Dopaminergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04728
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Circadian entrainment","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04713
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Amyotrophic lateral sclerosis (ALS)","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05014
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Long-term potentiation","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04720
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Long-term depression","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04730
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Nicotine addiction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+https://pharos.nih.gov/idg/targets/P42262,P42262,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P42262,P42262,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/P42262,P42262,http://pathwaycommons.org/pc2/Pathway_a9236ccf6ed2ea927e24d9526190400d,"PathwayCommons: pid Pathway",null
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Activation of NMDA receptor and postsynaptic events","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-442755
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Unblocking of NMDA receptor, glutamate binding and activation","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-438066
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Glutamate binding, activation of AMPA receptors and synaptic plasticity","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399721
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Trafficking of AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399719
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Trafficking of GluR2-containing AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-416993
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Activation of AMPA receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-399710
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Brain-Derived Neurotrophic Factor (BDNF) signaling pathway","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2380_r94178
+https://pharos.nih.gov/idg/targets/P42262,P42262,"Common Pathways Underlying Drug Addiction","WikiPathways Pathway",http://www.wikipathways.org/instance/WP2636_r95595
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"Neuroactive ligand-receptor interaction","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"Glutamatergic synapse","KEGG Pathway",http://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,http://identifiers.org/panther.pathway/P00029,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,http://identifiers.org/panther.pathway/P00037,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,http://identifiers.org/panther.pathway/P00039,"PathwayCommons: panther Pathway",null
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"Neuronal System","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112316
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"Neurotransmitter receptors and postsynaptic signal transmission","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112314
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"Transmission across Chemical Synapses","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-112315
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"Activation of kainate receptors upon glutamate binding","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451326
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"Presynaptic function of Kainate receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-500657
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"Activation of Ca-permeable Kainate Receptor","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451308
+https://pharos.nih.gov/idg/targets/Q13003,Q13003,"Ionotropic activity of kainate receptors","Reactome Pathway",http://www.reactome.org/content/detail/R-HSA-451306
